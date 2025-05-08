@@ -1,0 +1,5773 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Newsomatic Automatic Post Generator\n"
+"POT-Creation-Date: 2022-05-09 08:34+0300\n"
+"PO-Revision-Date: 2022-05-09 08:34+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: newsomatic-news-post-generator.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: newsomatic-news-post-generator.php:87 res/newsomatic-all-list.php:800
+#: res/newsomatic-all-list.php:847 res/newsomatic-all-list.php:3604
+#: res/newsomatic-all-list.php:3654 res/newsomatic-main.php:6
+#: res/newsomatic-main.php:1690 res/newsomatic-main.php:2431
+#: res/newsomatic-rules-list.php:735 res/newsomatic-rules-list.php:782
+#: res/newsomatic-rules-list.php:3519 res/newsomatic-rules-list.php:3569
+msgid "Disabled"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:88 res/newsomatic-main.php:7
+msgid "Afrikaans (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:89 res/newsomatic-main.php:8
+msgid "Albanian (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:90 res/newsomatic-main.php:9
+msgid "Arabic (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:91 res/newsomatic-main.php:10
+msgid "Amharic (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:92 res/newsomatic-main.php:11
+msgid "Armenian (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:93 res/newsomatic-main.php:12
+msgid "Belarusian (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:94 res/newsomatic-main.php:13
+msgid "Bulgarian (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:95 res/newsomatic-main.php:14
+msgid "Catalan (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:96 res/newsomatic-main.php:15
+msgid "Chinese Simplified (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:97 res/newsomatic-main.php:16
+msgid "Croatian (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:98 res/newsomatic-main.php:17
+msgid "Czech (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:99 res/newsomatic-main.php:18
+msgid "Danish (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:100 res/newsomatic-main.php:19
+msgid "Dutch (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:101 res/newsomatic-main.php:20
+msgid "English (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:102 res/newsomatic-main.php:21
+msgid "Estonian (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:103 res/newsomatic-main.php:22
+msgid "Filipino (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:104 res/newsomatic-main.php:23
+msgid "Finnish (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:105 res/newsomatic-main.php:24
+msgid "French (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:106 res/newsomatic-main.php:25
+msgid "Galician (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:107 res/newsomatic-main.php:26
+msgid "German (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:108 res/newsomatic-main.php:27
+msgid "Greek (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:109 res/newsomatic-main.php:28
+msgid "Hebrew (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:110 res/newsomatic-main.php:29
+msgid "Hindi (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:111 res/newsomatic-main.php:30
+msgid "Hungarian (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:112 res/newsomatic-main.php:31
+msgid "Icelandic (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:113 res/newsomatic-main.php:32
+msgid "Indonesian (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:114 res/newsomatic-main.php:33
+msgid "Irish (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:115 res/newsomatic-main.php:34
+msgid "Italian (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:116 res/newsomatic-main.php:35
+msgid "Japanese (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:117 res/newsomatic-main.php:36
+msgid "Korean (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:118 res/newsomatic-main.php:37
+msgid "Latvian (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:119 res/newsomatic-main.php:38
+msgid "Lithuanian (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:120 res/newsomatic-main.php:39
+msgid "Norwegian (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:121 res/newsomatic-main.php:40
+msgid "Macedonian (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:122 res/newsomatic-main.php:41
+msgid "Malay (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:123 res/newsomatic-main.php:42
+msgid "Maltese (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:124 res/newsomatic-main.php:43
+msgid "Persian (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:125 res/newsomatic-main.php:44
+msgid "Polish (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:126 res/newsomatic-main.php:45
+msgid "Portuguese (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:127 res/newsomatic-main.php:46
+msgid "Romanian (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:128 res/newsomatic-main.php:47
+msgid "Russian (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:129 res/newsomatic-main.php:48
+msgid "Serbian (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:130 res/newsomatic-main.php:49
+msgid "Slovak (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:131 res/newsomatic-main.php:50
+msgid "Slovenian (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:132 res/newsomatic-main.php:51
+msgid "Spanish (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:133
+#: newsomatic-news-post-generator.php:188 res/newsomatic-main.php:52
+#: res/newsomatic-main.php:106
+msgid "Swahili (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:134 res/newsomatic-main.php:53
+msgid "Swedish (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:135 res/newsomatic-main.php:54
+msgid "Thai (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:136 res/newsomatic-main.php:55
+msgid "Turkish (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:137 res/newsomatic-main.php:56
+msgid "Ukrainian (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:138 res/newsomatic-main.php:57
+msgid "Vietnamese (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:139 res/newsomatic-main.php:58
+msgid "Welsh (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:140 res/newsomatic-main.php:59
+msgid "Yiddish (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:141 res/newsomatic-main.php:60
+msgid "Tamil (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:142 res/newsomatic-main.php:61
+msgid "Azerbaijani (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:143 res/newsomatic-main.php:62
+msgid "Kannada (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:144 res/newsomatic-main.php:63
+msgid "Basque (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:145 res/newsomatic-main.php:64
+msgid "Bengali (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:146 res/newsomatic-main.php:65
+msgid "Latin (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:147 res/newsomatic-main.php:66
+msgid "Chinese Traditional (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:148 res/newsomatic-main.php:67
+msgid "Esperanto (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:149 res/newsomatic-main.php:68
+msgid "Georgian (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:150 res/newsomatic-main.php:69
+msgid "Telugu (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:151 res/newsomatic-main.php:70
+msgid "Gujarati (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:152 res/newsomatic-main.php:71
+msgid "Haitian Creole (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:153 res/newsomatic-main.php:72
+msgid "Urdu (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:155 res/newsomatic-main.php:73
+msgid "Burmese (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:156 res/newsomatic-main.php:74
+msgid "Bosnian (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:157 res/newsomatic-main.php:75
+msgid "Cebuano (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:158 res/newsomatic-main.php:76
+msgid "Chichewa (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:159 res/newsomatic-main.php:77
+msgid "Corsican (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:160 res/newsomatic-main.php:78
+msgid "Frisian (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:161 res/newsomatic-main.php:79
+msgid "Scottish Gaelic (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:162 res/newsomatic-main.php:80
+msgid "Hausa (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:163 res/newsomatic-main.php:81
+msgid "Hawaian (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:164 res/newsomatic-main.php:82
+msgid "Hmong (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:165 res/newsomatic-main.php:83
+msgid "Igbo (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:166 res/newsomatic-main.php:84
+msgid "Javanese (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:167 res/newsomatic-main.php:85
+msgid "Kazakh (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:168 res/newsomatic-main.php:86
+msgid "Khmer (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:169 res/newsomatic-main.php:87
+msgid "Kurdish (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:170 res/newsomatic-main.php:88
+msgid "Kyrgyz (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:171 res/newsomatic-main.php:89
+msgid "Lao (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:172 res/newsomatic-main.php:90
+msgid "Luxembourgish (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:173 res/newsomatic-main.php:91
+msgid "Malagasy (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:174 res/newsomatic-main.php:92
+msgid "Malayalam (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:175 res/newsomatic-main.php:93
+msgid "Maori (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:176 res/newsomatic-main.php:94
+msgid "Marathi (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:177 res/newsomatic-main.php:95
+msgid "Mongolian (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:178 res/newsomatic-main.php:96
+msgid "Nepali (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:179 res/newsomatic-main.php:97
+msgid "Pashto (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:180 res/newsomatic-main.php:98
+msgid "Punjabi (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:181 res/newsomatic-main.php:99
+msgid "Samoan (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:182 res/newsomatic-main.php:100
+msgid "Sesotho (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:183 res/newsomatic-main.php:101
+msgid "Shona (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:184 res/newsomatic-main.php:102
+msgid "Sindhi (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:185 res/newsomatic-main.php:103
+msgid "Sinhala (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:186 res/newsomatic-main.php:104
+msgid "Somali (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:187 res/newsomatic-main.php:105
+msgid "Sundanese (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:189 res/newsomatic-main.php:107
+msgid "Tajik (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:190 res/newsomatic-main.php:108
+msgid "Uzbek (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:191 res/newsomatic-main.php:109
+msgid "Xhosa (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:192 res/newsomatic-main.php:110
+msgid "Yoruba (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:193 res/newsomatic-main.php:111
+msgid "Zulu (Google Translate)"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:519
+msgid "thumbnail"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:660
+#, php-format
+msgid ""
+"The plugin is not registered. Automatic updating is disabled. Please "
+"purchase a license for it from <a href=\"%s\" target=\"_blank\">here</a> and "
+"register  the plugin from the 'Main Settings' menu using your purchase code. "
+"<a href=\"%s\" target=\"_blank\">How I find my purchase code?"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:690
+msgid "Activate Plugin License"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:699
+msgid "Main Settings"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:704
+msgid "Top News To Posts"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:707
+msgid "Custom News To Posts"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:710
+msgid "Crawling Helper"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:713
+msgid "Tips & Tricks"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:715
+msgid "Activity & Logging"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:794 res/other/plugin-dash.php:87
+msgid "Support"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:801
+msgid "Settings"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:812
+msgid "Newsomatic Automatic Post Generator Information"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:824
+msgid "Newsomatic Cron"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:828
+msgid "Once A Minute"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:832
+msgid "Once Weekly"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:836
+msgid "Once Monthly"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:1343 res/newsomatic-main.php:2219
+msgid "Read More"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:4751
+#: newsomatic-news-post-generator.php:5058
+msgid "news image"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:7367
+msgid "Post Parent Rule:"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:7369
+msgid "Featured Image:"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:7372
+msgid "Item Source URL:"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:7375
+msgid "Item Source Post ID:"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:7379
+msgid "This is not an automatically generated post."
+msgstr ""
+
+#: newsomatic-news-post-generator.php:8045
+msgctxt "taxonomy general name"
+msgid "Post Source"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:8046
+msgctxt "taxonomy singular name"
+msgid "Post Source"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:8047
+msgid "Search Post Source"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:8048
+msgid "Popular Post Source"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:8049
+msgid "All Post Sources"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:8052
+msgid "Edit Post Source"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:8053
+msgid "Update Post Source"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:8054
+msgid "Add New Post Source"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:8055
+msgid "New Post Source Name"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:8056
+msgid "Separate Post Source with commas"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:8057
+msgid "Add or remove Post Source"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:8058
+msgid "Choose from the most used Post Source"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:8059
+msgid "No Post Sources found."
+msgstr ""
+
+#: newsomatic-news-post-generator.php:8060
+msgid "Post Source"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:10814
+msgid ""
+"Please enable curl PHP extension. Please contact your hosting provider's "
+"support to help you in this matter."
+msgstr ""
+
+#: newsomatic-news-post-generator.php:10819
+msgid "You are not allowed to activate plugins!"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:10827
+#, php-format
+msgid ""
+"This plugin can not be activated because it requires a PHP version greater "
+"than %1$s. Please update your PHP version before you activate it."
+msgstr ""
+
+#: newsomatic-news-post-generator.php:10833
+#, php-format
+msgid ""
+"This plugin can not be activated because it requires a WordPress version "
+"greater than %1$s. Please go to Dashboard -> Updates to get the latest "
+"version of WordPress."
+msgstr ""
+
+#: newsomatic-news-post-generator.php:11173
+#, php-format
+msgid ""
+"Hey, I noticed you created quite a lot of posts using the Newsomatic plugin "
+"- that's really awesome! Could you please do me a BIG favor and give it "
+"<b><a href='%s' target='_blank'>a 5-star rating on CodeCanyon</a></b>? Just "
+"to help us spread the word and boost our motivation. Thank you!"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:11179
+msgid "Yes, you deserve it!"
+msgstr ""
+
+#: newsomatic-news-post-generator.php:11181
+msgid "I already did."
+msgstr ""
+
+#: newsomatic-news-post-generator.php:11182
+msgid "No, sorry."
+msgstr ""
+
+#: res/newsomatic-all-list.php:27 res/newsomatic-rules-list.php:28
+msgid "You must add a NewsAPI API Key before you can use this feature!"
+msgstr ""
+
+#: res/newsomatic-all-list.php:40 res/newsomatic-rules-list.php:41
+msgid "You must add a NewsomaticAPI API Key before you can use this feature!"
+msgstr ""
+
+#: res/newsomatic-all-list.php:57 res/newsomatic-main.php:972
+#: res/newsomatic-rules-list.php:58
+msgid "Settings saved."
+msgstr ""
+
+#: res/newsomatic-all-list.php:70 res/newsomatic-all-list.php:1013
+#: res/newsomatic-all-list.php:1399 res/newsomatic-all-list.php:3856
+#: res/newsomatic-all-list.php:4207 res/newsomatic-main.php:4476
+#: res/newsomatic-rules-list.php:71 res/newsomatic-rules-list.php:951
+#: res/newsomatic-rules-list.php:1337 res/newsomatic-rules-list.php:3771
+#: res/newsomatic-rules-list.php:4123
+msgid "ID"
+msgstr ""
+
+#: res/newsomatic-all-list.php:74 res/newsomatic-rules-list.php:75
+msgid "This is the ID of the rule. "
+msgstr ""
+
+#: res/newsomatic-all-list.php:80 res/newsomatic-rules-list.php:81
+msgid "Article Source"
+msgstr ""
+
+#: res/newsomatic-all-list.php:84
+msgid ""
+"Select the source site of the article. If you select 'Any' for this field, "
+"you must set at least one of the following advanced fields: 'Search Query "
+"String', otherwise, importing will not work."
+msgstr ""
+
+#: res/newsomatic-all-list.php:90 res/newsomatic-rules-list.php:91
+msgid "Schedule"
+msgstr ""
+
+#: res/newsomatic-all-list.php:97 res/newsomatic-rules-list.php:98
+msgid ""
+"Select the interval in minutes after which you want this rule to run. "
+"Defined in minutes."
+msgstr ""
+
+#: res/newsomatic-all-list.php:101 res/newsomatic-rules-list.php:102
+msgid ""
+"Select the interval in hours after which you want this rule to run. Defined "
+"in hours."
+msgstr ""
+
+#: res/newsomatic-all-list.php:108 res/newsomatic-rules-list.php:109
+msgid "Max # Posts"
+msgstr ""
+
+#: res/newsomatic-all-list.php:112 res/newsomatic-rules-list.php:113
+msgid ""
+"Select the maximum number of posts that this rule can create at once. 0-100 "
+"interval allowed."
+msgstr ""
+
+#: res/newsomatic-all-list.php:118 res/newsomatic-rules-list.php:119
+msgid "More Options"
+msgstr ""
+
+#: res/newsomatic-all-list.php:122 res/newsomatic-rules-list.php:123
+msgid "Shows advanced settings for this rule."
+msgstr ""
+
+#: res/newsomatic-all-list.php:128 res/newsomatic-main.php:4486
+#: res/newsomatic-rules-list.php:129
+msgid "Del"
+msgstr ""
+
+#: res/newsomatic-all-list.php:132 res/newsomatic-main.php:4490
+#: res/newsomatic-rules-list.php:133
+msgid "Do you want to delete this rule?"
+msgstr ""
+
+#: res/newsomatic-all-list.php:138 res/newsomatic-rules-list.php:139
+msgid "Active"
+msgstr ""
+
+#: res/newsomatic-all-list.php:142 res/newsomatic-rules-list.php:143
+msgid ""
+"Do you want to enable this rule? You can deactivate any rule (you don't have "
+"to delete them to deactivate them)."
+msgstr ""
+
+#: res/newsomatic-all-list.php:150 res/newsomatic-rules-list.php:151
+msgid "Info"
+msgstr ""
+
+#: res/newsomatic-all-list.php:154 res/newsomatic-rules-list.php:155
+msgid "The number of items (posts, pages) this rule has generated so far."
+msgstr ""
+
+#: res/newsomatic-all-list.php:160 res/newsomatic-rules-list.php:161
+msgid "Actions"
+msgstr ""
+
+#: res/newsomatic-all-list.php:164 res/newsomatic-rules-list.php:165
+msgid ""
+"Do you want to run this rule now? Note that only one instance of a rule is "
+"allowed at once."
+msgstr ""
+
+#: res/newsomatic-all-list.php:191 res/newsomatic-rules-list.php:192
+msgid "Select an option"
+msgstr ""
+
+#: res/newsomatic-all-list.php:192 res/newsomatic-all-list.php:2380
+#: res/newsomatic-main.php:3785 res/newsomatic-main.php:4051
+#: res/newsomatic-rules-list.php:193 res/newsomatic-rules-list.php:2312
+msgid "Any"
+msgstr ""
+
+#: res/newsomatic-all-list.php:213 res/newsomatic-rules-list.php:221
+msgid "New Rule"
+msgstr ""
+
+#: res/newsomatic-all-list.php:213 res/newsomatic-all-list.php:2404
+#: res/newsomatic-rules-list.php:221 res/newsomatic-rules-list.php:2377
+msgid "Advanced Settings"
+msgstr ""
+
+#: res/newsomatic-all-list.php:220 res/newsomatic-all-list.php:2410
+#: res/newsomatic-rules-list.php:228 res/newsomatic-rules-list.php:2383
+msgid "NewsomaticAPI Advanced Settings:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:229
+msgid ""
+"Do you want to filter results based on a query string? Advanced search is "
+"supported here: Prepending a term with a hyphen will exclude posts matching "
+"that term. Eg, 'pillow -sofa'"
+msgstr ""
+
+#: res/newsomatic-all-list.php:233 res/newsomatic-rules-list.php:240
+msgid "Search Query String:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:246
+msgid ""
+"Do you want to filter results based on a query string in article title only? "
+"Please note that only keywords are supported here (no phrase search)."
+msgstr ""
+
+#: res/newsomatic-all-list.php:250
+msgid "Search Query String (Article Title Only):"
+msgstr ""
+
+#: res/newsomatic-all-list.php:263
+msgid ""
+"Select if you wish to filter the country of the generated posts. Will work "
+"only if you import post from Any source (applicable only for NewsomaticAPI)"
+msgstr ""
+
+#: res/newsomatic-all-list.php:267
+msgid "Source Country:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:271 res/newsomatic-all-list.php:429
+#: res/newsomatic-all-list.php:2450 res/newsomatic-all-list.php:3094
+#: res/newsomatic-main.php:3536 res/newsomatic-main.php:3596
+#: res/newsomatic-main.php:3984 res/newsomatic-main.php:4020
+#: res/newsomatic-main.php:4082 res/newsomatic-rules-list.php:260
+#: res/newsomatic-rules-list.php:418 res/newsomatic-rules-list.php:2409
+#: res/newsomatic-rules-list.php:3055
+msgid "All"
+msgstr ""
+
+#: res/newsomatic-all-list.php:272 res/newsomatic-all-list.php:351
+#: res/newsomatic-all-list.php:2455 res/newsomatic-all-list.php:2783
+#: res/newsomatic-rules-list.php:261 res/newsomatic-rules-list.php:340
+#: res/newsomatic-rules-list.php:2414 res/newsomatic-rules-list.php:2742
+msgid "Argentina"
+msgstr ""
+
+#: res/newsomatic-all-list.php:273 res/newsomatic-all-list.php:352
+#: res/newsomatic-all-list.php:2460 res/newsomatic-all-list.php:2788
+#: res/newsomatic-rules-list.php:262 res/newsomatic-rules-list.php:341
+#: res/newsomatic-rules-list.php:2419 res/newsomatic-rules-list.php:2747
+msgid "Australia"
+msgstr ""
+
+#: res/newsomatic-all-list.php:274 res/newsomatic-all-list.php:353
+#: res/newsomatic-all-list.php:2465 res/newsomatic-all-list.php:2793
+#: res/newsomatic-rules-list.php:263 res/newsomatic-rules-list.php:342
+#: res/newsomatic-rules-list.php:2424 res/newsomatic-rules-list.php:2752
+msgid "Brazil"
+msgstr ""
+
+#: res/newsomatic-all-list.php:275 res/newsomatic-all-list.php:354
+#: res/newsomatic-all-list.php:2470 res/newsomatic-all-list.php:2798
+#: res/newsomatic-rules-list.php:264 res/newsomatic-rules-list.php:343
+#: res/newsomatic-rules-list.php:2429 res/newsomatic-rules-list.php:2757
+msgid "Canada"
+msgstr ""
+
+#: res/newsomatic-all-list.php:276 res/newsomatic-all-list.php:355
+#: res/newsomatic-all-list.php:2475 res/newsomatic-all-list.php:2803
+#: res/newsomatic-rules-list.php:265 res/newsomatic-rules-list.php:344
+#: res/newsomatic-rules-list.php:2434 res/newsomatic-rules-list.php:2762
+msgid "China"
+msgstr ""
+
+#: res/newsomatic-all-list.php:277 res/newsomatic-all-list.php:356
+#: res/newsomatic-all-list.php:2480 res/newsomatic-all-list.php:2808
+#: res/newsomatic-rules-list.php:266 res/newsomatic-rules-list.php:345
+#: res/newsomatic-rules-list.php:2439 res/newsomatic-rules-list.php:2767
+msgid "Czech Republic"
+msgstr ""
+
+#: res/newsomatic-all-list.php:278 res/newsomatic-all-list.php:357
+#: res/newsomatic-all-list.php:2485 res/newsomatic-all-list.php:2813
+#: res/newsomatic-rules-list.php:267 res/newsomatic-rules-list.php:346
+#: res/newsomatic-rules-list.php:2444 res/newsomatic-rules-list.php:2772
+msgid "Germany"
+msgstr ""
+
+#: res/newsomatic-all-list.php:279 res/newsomatic-all-list.php:358
+#: res/newsomatic-all-list.php:2490 res/newsomatic-all-list.php:2818
+#: res/newsomatic-rules-list.php:268 res/newsomatic-rules-list.php:347
+#: res/newsomatic-rules-list.php:2449 res/newsomatic-rules-list.php:2777
+msgid "Spain"
+msgstr ""
+
+#: res/newsomatic-all-list.php:280 res/newsomatic-all-list.php:359
+#: res/newsomatic-all-list.php:2495 res/newsomatic-all-list.php:2823
+#: res/newsomatic-rules-list.php:269 res/newsomatic-rules-list.php:348
+#: res/newsomatic-rules-list.php:2454 res/newsomatic-rules-list.php:2782
+msgid "France"
+msgstr ""
+
+#: res/newsomatic-all-list.php:281 res/newsomatic-all-list.php:360
+#: res/newsomatic-all-list.php:2500 res/newsomatic-all-list.php:2828
+#: res/newsomatic-rules-list.php:270 res/newsomatic-rules-list.php:349
+#: res/newsomatic-rules-list.php:2459 res/newsomatic-rules-list.php:2787
+msgid "Great Britain"
+msgstr ""
+
+#: res/newsomatic-all-list.php:282 res/newsomatic-all-list.php:361
+#: res/newsomatic-all-list.php:2505 res/newsomatic-all-list.php:2833
+#: res/newsomatic-rules-list.php:271 res/newsomatic-rules-list.php:350
+#: res/newsomatic-rules-list.php:2464 res/newsomatic-rules-list.php:2792
+msgid "Republic of Ireland"
+msgstr ""
+
+#: res/newsomatic-all-list.php:283 res/newsomatic-all-list.php:362
+#: res/newsomatic-all-list.php:2510 res/newsomatic-all-list.php:2838
+#: res/newsomatic-rules-list.php:272 res/newsomatic-rules-list.php:351
+#: res/newsomatic-rules-list.php:2469 res/newsomatic-rules-list.php:2797
+msgid "India"
+msgstr ""
+
+#: res/newsomatic-all-list.php:284 res/newsomatic-all-list.php:363
+#: res/newsomatic-all-list.php:2515 res/newsomatic-all-list.php:2843
+#: res/newsomatic-rules-list.php:273 res/newsomatic-rules-list.php:352
+#: res/newsomatic-rules-list.php:2474 res/newsomatic-rules-list.php:2802
+msgid "Italy"
+msgstr ""
+
+#: res/newsomatic-all-list.php:285 res/newsomatic-all-list.php:364
+#: res/newsomatic-all-list.php:2520 res/newsomatic-all-list.php:2848
+#: res/newsomatic-rules-list.php:274 res/newsomatic-rules-list.php:353
+#: res/newsomatic-rules-list.php:2479 res/newsomatic-rules-list.php:2807
+msgid "Netherlands"
+msgstr ""
+
+#: res/newsomatic-all-list.php:286 res/newsomatic-all-list.php:365
+#: res/newsomatic-all-list.php:2525 res/newsomatic-all-list.php:2853
+#: res/newsomatic-rules-list.php:275 res/newsomatic-rules-list.php:354
+#: res/newsomatic-rules-list.php:2484 res/newsomatic-rules-list.php:2812
+msgid "Norway"
+msgstr ""
+
+#: res/newsomatic-all-list.php:287 res/newsomatic-all-list.php:366
+#: res/newsomatic-all-list.php:2530 res/newsomatic-all-list.php:2858
+#: res/newsomatic-rules-list.php:276 res/newsomatic-rules-list.php:355
+#: res/newsomatic-rules-list.php:2489 res/newsomatic-rules-list.php:2817
+msgid "Pakistan"
+msgstr ""
+
+#: res/newsomatic-all-list.php:288 res/newsomatic-all-list.php:367
+#: res/newsomatic-all-list.php:2535 res/newsomatic-all-list.php:2863
+#: res/newsomatic-rules-list.php:277 res/newsomatic-rules-list.php:356
+#: res/newsomatic-rules-list.php:2494 res/newsomatic-rules-list.php:2822
+msgid "Russia"
+msgstr ""
+
+#: res/newsomatic-all-list.php:289 res/newsomatic-all-list.php:368
+#: res/newsomatic-all-list.php:2540 res/newsomatic-all-list.php:2868
+#: res/newsomatic-rules-list.php:278 res/newsomatic-rules-list.php:357
+#: res/newsomatic-rules-list.php:2499 res/newsomatic-rules-list.php:2827
+msgid "Saudi Arabia"
+msgstr ""
+
+#: res/newsomatic-all-list.php:290 res/newsomatic-all-list.php:369
+#: res/newsomatic-all-list.php:2545 res/newsomatic-all-list.php:2873
+#: res/newsomatic-rules-list.php:279 res/newsomatic-rules-list.php:358
+#: res/newsomatic-rules-list.php:2504 res/newsomatic-rules-list.php:2832
+msgid "Sweden"
+msgstr ""
+
+#: res/newsomatic-all-list.php:291 res/newsomatic-all-list.php:370
+#: res/newsomatic-all-list.php:2550 res/newsomatic-all-list.php:2878
+#: res/newsomatic-rules-list.php:280 res/newsomatic-rules-list.php:359
+#: res/newsomatic-rules-list.php:2509 res/newsomatic-rules-list.php:2837
+msgid "United States"
+msgstr ""
+
+#: res/newsomatic-all-list.php:292 res/newsomatic-all-list.php:371
+#: res/newsomatic-all-list.php:2555 res/newsomatic-all-list.php:2883
+#: res/newsomatic-rules-list.php:281 res/newsomatic-rules-list.php:360
+#: res/newsomatic-rules-list.php:2514 res/newsomatic-rules-list.php:2842
+msgid "South Africa"
+msgstr ""
+
+#: res/newsomatic-all-list.php:293 res/newsomatic-all-list.php:372
+#: res/newsomatic-all-list.php:2560 res/newsomatic-all-list.php:2888
+#: res/newsomatic-rules-list.php:282 res/newsomatic-rules-list.php:361
+#: res/newsomatic-rules-list.php:2519 res/newsomatic-rules-list.php:2847
+msgid "United Arab Emirates"
+msgstr ""
+
+#: res/newsomatic-all-list.php:294 res/newsomatic-all-list.php:373
+#: res/newsomatic-all-list.php:2565 res/newsomatic-all-list.php:2893
+#: res/newsomatic-rules-list.php:283 res/newsomatic-rules-list.php:362
+#: res/newsomatic-rules-list.php:2524 res/newsomatic-rules-list.php:2852
+msgid "Austria"
+msgstr ""
+
+#: res/newsomatic-all-list.php:295 res/newsomatic-all-list.php:374
+#: res/newsomatic-all-list.php:2570 res/newsomatic-all-list.php:2898
+#: res/newsomatic-rules-list.php:284 res/newsomatic-rules-list.php:363
+#: res/newsomatic-rules-list.php:2529 res/newsomatic-rules-list.php:2857
+msgid "Belgium"
+msgstr ""
+
+#: res/newsomatic-all-list.php:296 res/newsomatic-all-list.php:375
+#: res/newsomatic-all-list.php:2575 res/newsomatic-all-list.php:2903
+#: res/newsomatic-rules-list.php:285 res/newsomatic-rules-list.php:364
+#: res/newsomatic-rules-list.php:2534 res/newsomatic-rules-list.php:2862
+msgid "Bulgaria"
+msgstr ""
+
+#: res/newsomatic-all-list.php:297 res/newsomatic-all-list.php:376
+#: res/newsomatic-all-list.php:2580 res/newsomatic-all-list.php:2908
+#: res/newsomatic-rules-list.php:286 res/newsomatic-rules-list.php:365
+#: res/newsomatic-rules-list.php:2539 res/newsomatic-rules-list.php:2867
+msgid "Switzerland"
+msgstr ""
+
+#: res/newsomatic-all-list.php:298 res/newsomatic-all-list.php:377
+#: res/newsomatic-all-list.php:2585 res/newsomatic-all-list.php:2913
+#: res/newsomatic-rules-list.php:287 res/newsomatic-rules-list.php:366
+#: res/newsomatic-rules-list.php:2544 res/newsomatic-rules-list.php:2872
+msgid "Colombia"
+msgstr ""
+
+#: res/newsomatic-all-list.php:299 res/newsomatic-all-list.php:378
+#: res/newsomatic-all-list.php:2590 res/newsomatic-all-list.php:2918
+#: res/newsomatic-rules-list.php:288 res/newsomatic-rules-list.php:367
+#: res/newsomatic-rules-list.php:2549 res/newsomatic-rules-list.php:2877
+msgid "Cuba"
+msgstr ""
+
+#: res/newsomatic-all-list.php:300 res/newsomatic-all-list.php:379
+#: res/newsomatic-all-list.php:2595 res/newsomatic-all-list.php:2923
+#: res/newsomatic-rules-list.php:289 res/newsomatic-rules-list.php:368
+#: res/newsomatic-rules-list.php:2554 res/newsomatic-rules-list.php:2882
+msgid "Egypt"
+msgstr ""
+
+#: res/newsomatic-all-list.php:301 res/newsomatic-all-list.php:380
+#: res/newsomatic-all-list.php:2600 res/newsomatic-all-list.php:2928
+#: res/newsomatic-rules-list.php:290 res/newsomatic-rules-list.php:369
+#: res/newsomatic-rules-list.php:2559 res/newsomatic-rules-list.php:2887
+msgid "Ghana"
+msgstr ""
+
+#: res/newsomatic-all-list.php:302 res/newsomatic-all-list.php:381
+#: res/newsomatic-all-list.php:2605 res/newsomatic-all-list.php:2933
+#: res/newsomatic-rules-list.php:291 res/newsomatic-rules-list.php:370
+#: res/newsomatic-rules-list.php:2564 res/newsomatic-rules-list.php:2892
+msgid "Greece"
+msgstr ""
+
+#: res/newsomatic-all-list.php:303 res/newsomatic-all-list.php:382
+#: res/newsomatic-all-list.php:2610 res/newsomatic-all-list.php:2938
+#: res/newsomatic-rules-list.php:292 res/newsomatic-rules-list.php:371
+#: res/newsomatic-rules-list.php:2569 res/newsomatic-rules-list.php:2897
+msgid "Hong Kong"
+msgstr ""
+
+#: res/newsomatic-all-list.php:304 res/newsomatic-all-list.php:383
+#: res/newsomatic-all-list.php:2615 res/newsomatic-all-list.php:2943
+#: res/newsomatic-rules-list.php:293 res/newsomatic-rules-list.php:372
+#: res/newsomatic-rules-list.php:2574 res/newsomatic-rules-list.php:2902
+msgid "Hungary"
+msgstr ""
+
+#: res/newsomatic-all-list.php:305 res/newsomatic-all-list.php:384
+#: res/newsomatic-all-list.php:2620 res/newsomatic-all-list.php:2948
+#: res/newsomatic-rules-list.php:294 res/newsomatic-rules-list.php:373
+#: res/newsomatic-rules-list.php:2579 res/newsomatic-rules-list.php:2907
+msgid "Indonesia"
+msgstr ""
+
+#: res/newsomatic-all-list.php:306 res/newsomatic-all-list.php:385
+#: res/newsomatic-all-list.php:2625 res/newsomatic-all-list.php:2953
+#: res/newsomatic-rules-list.php:295 res/newsomatic-rules-list.php:374
+#: res/newsomatic-rules-list.php:2584 res/newsomatic-rules-list.php:2912
+msgid "Israel"
+msgstr ""
+
+#: res/newsomatic-all-list.php:307 res/newsomatic-all-list.php:386
+#: res/newsomatic-all-list.php:2630 res/newsomatic-all-list.php:2958
+#: res/newsomatic-rules-list.php:296 res/newsomatic-rules-list.php:375
+#: res/newsomatic-rules-list.php:2589 res/newsomatic-rules-list.php:2917
+msgid "Japan"
+msgstr ""
+
+#: res/newsomatic-all-list.php:308 res/newsomatic-all-list.php:387
+#: res/newsomatic-all-list.php:2635 res/newsomatic-all-list.php:2963
+#: res/newsomatic-rules-list.php:297 res/newsomatic-rules-list.php:376
+#: res/newsomatic-rules-list.php:2594 res/newsomatic-rules-list.php:2922
+msgid "South Korea"
+msgstr ""
+
+#: res/newsomatic-all-list.php:309 res/newsomatic-all-list.php:388
+#: res/newsomatic-all-list.php:2640 res/newsomatic-all-list.php:2968
+#: res/newsomatic-rules-list.php:298 res/newsomatic-rules-list.php:377
+#: res/newsomatic-rules-list.php:2599 res/newsomatic-rules-list.php:2927
+msgid "Lithuania"
+msgstr ""
+
+#: res/newsomatic-all-list.php:310 res/newsomatic-all-list.php:389
+#: res/newsomatic-all-list.php:2645 res/newsomatic-all-list.php:2973
+#: res/newsomatic-rules-list.php:299 res/newsomatic-rules-list.php:378
+#: res/newsomatic-rules-list.php:2604 res/newsomatic-rules-list.php:2932
+msgid "Latvia"
+msgstr ""
+
+#: res/newsomatic-all-list.php:311 res/newsomatic-all-list.php:390
+#: res/newsomatic-all-list.php:2650 res/newsomatic-all-list.php:2978
+#: res/newsomatic-rules-list.php:300 res/newsomatic-rules-list.php:379
+#: res/newsomatic-rules-list.php:2609 res/newsomatic-rules-list.php:2937
+msgid "Morocco"
+msgstr ""
+
+#: res/newsomatic-all-list.php:312 res/newsomatic-all-list.php:391
+#: res/newsomatic-all-list.php:2655 res/newsomatic-all-list.php:2983
+#: res/newsomatic-rules-list.php:301 res/newsomatic-rules-list.php:380
+#: res/newsomatic-rules-list.php:2614 res/newsomatic-rules-list.php:2942
+msgid "Mexico"
+msgstr ""
+
+#: res/newsomatic-all-list.php:313 res/newsomatic-all-list.php:392
+#: res/newsomatic-all-list.php:2660 res/newsomatic-all-list.php:2988
+#: res/newsomatic-rules-list.php:302 res/newsomatic-rules-list.php:381
+#: res/newsomatic-rules-list.php:2619 res/newsomatic-rules-list.php:2947
+msgid "Malaysia"
+msgstr ""
+
+#: res/newsomatic-all-list.php:314 res/newsomatic-all-list.php:393
+#: res/newsomatic-all-list.php:2665 res/newsomatic-all-list.php:2993
+#: res/newsomatic-rules-list.php:303 res/newsomatic-rules-list.php:382
+#: res/newsomatic-rules-list.php:2624 res/newsomatic-rules-list.php:2952
+msgid "Nigeria"
+msgstr ""
+
+#: res/newsomatic-all-list.php:315 res/newsomatic-all-list.php:394
+#: res/newsomatic-all-list.php:2670 res/newsomatic-all-list.php:2998
+#: res/newsomatic-rules-list.php:304 res/newsomatic-rules-list.php:383
+#: res/newsomatic-rules-list.php:2629 res/newsomatic-rules-list.php:2957
+msgid "New Zealand"
+msgstr ""
+
+#: res/newsomatic-all-list.php:316 res/newsomatic-all-list.php:395
+#: res/newsomatic-all-list.php:2675 res/newsomatic-all-list.php:3003
+#: res/newsomatic-rules-list.php:305 res/newsomatic-rules-list.php:384
+#: res/newsomatic-rules-list.php:2634 res/newsomatic-rules-list.php:2962
+msgid "Peru"
+msgstr ""
+
+#: res/newsomatic-all-list.php:317 res/newsomatic-all-list.php:396
+#: res/newsomatic-all-list.php:2680 res/newsomatic-all-list.php:3008
+#: res/newsomatic-rules-list.php:306 res/newsomatic-rules-list.php:385
+#: res/newsomatic-rules-list.php:2639 res/newsomatic-rules-list.php:2967
+msgid "Philippines"
+msgstr ""
+
+#: res/newsomatic-all-list.php:318 res/newsomatic-all-list.php:397
+#: res/newsomatic-all-list.php:2685 res/newsomatic-all-list.php:3013
+#: res/newsomatic-rules-list.php:307 res/newsomatic-rules-list.php:386
+#: res/newsomatic-rules-list.php:2644 res/newsomatic-rules-list.php:2972
+msgid "Poland"
+msgstr ""
+
+#: res/newsomatic-all-list.php:319 res/newsomatic-all-list.php:398
+#: res/newsomatic-all-list.php:2690 res/newsomatic-all-list.php:3018
+#: res/newsomatic-rules-list.php:308 res/newsomatic-rules-list.php:387
+#: res/newsomatic-rules-list.php:2649 res/newsomatic-rules-list.php:2977
+msgid "Portugal"
+msgstr ""
+
+#: res/newsomatic-all-list.php:320 res/newsomatic-all-list.php:399
+#: res/newsomatic-all-list.php:2695 res/newsomatic-all-list.php:3023
+#: res/newsomatic-rules-list.php:309 res/newsomatic-rules-list.php:388
+#: res/newsomatic-rules-list.php:2654 res/newsomatic-rules-list.php:2982
+msgid "Romania"
+msgstr ""
+
+#: res/newsomatic-all-list.php:321 res/newsomatic-all-list.php:400
+#: res/newsomatic-all-list.php:2700 res/newsomatic-all-list.php:3028
+#: res/newsomatic-rules-list.php:310 res/newsomatic-rules-list.php:389
+#: res/newsomatic-rules-list.php:2659 res/newsomatic-rules-list.php:2987
+msgid "Serbia"
+msgstr ""
+
+#: res/newsomatic-all-list.php:322 res/newsomatic-all-list.php:401
+#: res/newsomatic-all-list.php:2705 res/newsomatic-all-list.php:3033
+#: res/newsomatic-rules-list.php:311 res/newsomatic-rules-list.php:390
+#: res/newsomatic-rules-list.php:2664 res/newsomatic-rules-list.php:2992
+msgid "Singapore"
+msgstr ""
+
+#: res/newsomatic-all-list.php:323 res/newsomatic-all-list.php:402
+#: res/newsomatic-all-list.php:2710 res/newsomatic-all-list.php:3038
+#: res/newsomatic-rules-list.php:312 res/newsomatic-rules-list.php:391
+#: res/newsomatic-rules-list.php:2669 res/newsomatic-rules-list.php:2997
+msgid "Slovenia"
+msgstr ""
+
+#: res/newsomatic-all-list.php:324 res/newsomatic-all-list.php:403
+#: res/newsomatic-all-list.php:2715 res/newsomatic-all-list.php:3043
+#: res/newsomatic-rules-list.php:313 res/newsomatic-rules-list.php:392
+#: res/newsomatic-rules-list.php:2674 res/newsomatic-rules-list.php:3002
+msgid "Slovakia"
+msgstr ""
+
+#: res/newsomatic-all-list.php:325 res/newsomatic-all-list.php:404
+#: res/newsomatic-all-list.php:2720 res/newsomatic-all-list.php:3048
+#: res/newsomatic-rules-list.php:314 res/newsomatic-rules-list.php:393
+#: res/newsomatic-rules-list.php:2679 res/newsomatic-rules-list.php:3007
+msgid "Thailand"
+msgstr ""
+
+#: res/newsomatic-all-list.php:326 res/newsomatic-all-list.php:405
+#: res/newsomatic-all-list.php:2725 res/newsomatic-all-list.php:3053
+#: res/newsomatic-rules-list.php:315 res/newsomatic-rules-list.php:394
+#: res/newsomatic-rules-list.php:2684 res/newsomatic-rules-list.php:3012
+msgid "Turkey"
+msgstr ""
+
+#: res/newsomatic-all-list.php:327 res/newsomatic-all-list.php:406
+#: res/newsomatic-all-list.php:2730 res/newsomatic-all-list.php:3058
+#: res/newsomatic-rules-list.php:316 res/newsomatic-rules-list.php:395
+#: res/newsomatic-rules-list.php:2689 res/newsomatic-rules-list.php:3017
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: res/newsomatic-all-list.php:328 res/newsomatic-all-list.php:407
+#: res/newsomatic-all-list.php:2735 res/newsomatic-all-list.php:3063
+#: res/newsomatic-rules-list.php:317 res/newsomatic-rules-list.php:396
+#: res/newsomatic-rules-list.php:2694 res/newsomatic-rules-list.php:3022
+msgid "Taiwan"
+msgstr ""
+
+#: res/newsomatic-all-list.php:329 res/newsomatic-all-list.php:408
+#: res/newsomatic-all-list.php:2740 res/newsomatic-all-list.php:3068
+#: res/newsomatic-rules-list.php:318 res/newsomatic-rules-list.php:397
+#: res/newsomatic-rules-list.php:2699 res/newsomatic-rules-list.php:3027
+msgid "Ukraine"
+msgstr ""
+
+#: res/newsomatic-all-list.php:330 res/newsomatic-all-list.php:409
+#: res/newsomatic-all-list.php:2745 res/newsomatic-all-list.php:3073
+#: res/newsomatic-rules-list.php:319 res/newsomatic-rules-list.php:398
+#: res/newsomatic-rules-list.php:2704 res/newsomatic-rules-list.php:3032
+msgid "Venezuela"
+msgstr ""
+
+#: res/newsomatic-all-list.php:331 res/newsomatic-all-list.php:410
+#: res/newsomatic-all-list.php:2750 res/newsomatic-all-list.php:3078
+#: res/newsomatic-rules-list.php:320 res/newsomatic-rules-list.php:399
+#: res/newsomatic-rules-list.php:2709 res/newsomatic-rules-list.php:3037
+msgid "Vietnam"
+msgstr ""
+
+#: res/newsomatic-all-list.php:342 res/newsomatic-all-list.php:2756
+#: res/newsomatic-rules-list.php:331 res/newsomatic-rules-list.php:2715
+msgid ""
+"Select if you wish to exclude the list of countries from below. You can add "
+"a maximum of 5 countries to exclude. To disable country exclusion, leave "
+"this field blank. This will work only if you import post from Any source "
+"(applicable only for NewsomaticAPI)."
+msgstr ""
+
+#: res/newsomatic-all-list.php:346 res/newsomatic-rules-list.php:335
+msgid "Exclude Countries:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:350 res/newsomatic-all-list.php:2778
+#: res/newsomatic-rules-list.php:339 res/newsomatic-rules-list.php:2737
+msgid "Do Not Exclude Countries"
+msgstr ""
+
+#: res/newsomatic-all-list.php:421 res/newsomatic-all-list.php:3084
+msgid "Select if you wish to filter the language of the generated posts."
+msgstr ""
+
+#: res/newsomatic-all-list.php:425 res/newsomatic-rules-list.php:414
+msgid "Generated Post Language:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:430 res/newsomatic-all-list.php:3099
+#: res/newsomatic-main.php:2590 res/newsomatic-main.php:3790
+#: res/newsomatic-rules-list.php:419 res/newsomatic-rules-list.php:3060
+msgid "English"
+msgstr ""
+
+#: res/newsomatic-all-list.php:431 res/newsomatic-all-list.php:3104
+#: res/newsomatic-main.php:3795 res/newsomatic-rules-list.php:420
+#: res/newsomatic-rules-list.php:3065
+msgid "Czech"
+msgstr ""
+
+#: res/newsomatic-all-list.php:432 res/newsomatic-all-list.php:3109
+#: res/newsomatic-main.php:2594 res/newsomatic-rules-list.php:421
+#: res/newsomatic-rules-list.php:3070
+msgid "Arabic"
+msgstr ""
+
+#: res/newsomatic-all-list.php:433 res/newsomatic-all-list.php:3114
+#: res/newsomatic-main.php:2602 res/newsomatic-main.php:3890
+#: res/newsomatic-rules-list.php:422 res/newsomatic-rules-list.php:3075
+msgid "Bulgarian"
+msgstr ""
+
+#: res/newsomatic-all-list.php:434 res/newsomatic-all-list.php:3119
+#: res/newsomatic-main.php:3915 res/newsomatic-rules-list.php:423
+#: res/newsomatic-rules-list.php:3080
+msgid "Chinese"
+msgstr ""
+
+#: res/newsomatic-all-list.php:435 res/newsomatic-all-list.php:3124
+#: res/newsomatic-main.php:2630 res/newsomatic-main.php:3805
+#: res/newsomatic-rules-list.php:424 res/newsomatic-rules-list.php:3085
+msgid "German"
+msgstr ""
+
+#: res/newsomatic-all-list.php:436 res/newsomatic-all-list.php:3129
+#: res/newsomatic-main.php:2678 res/newsomatic-main.php:3810
+#: res/newsomatic-rules-list.php:425 res/newsomatic-rules-list.php:3090
+msgid "Spanish"
+msgstr ""
+
+#: res/newsomatic-all-list.php:437 res/newsomatic-all-list.php:3134
+#: res/newsomatic-main.php:2626 res/newsomatic-main.php:3815
+#: res/newsomatic-rules-list.php:426 res/newsomatic-rules-list.php:3095
+msgid "French"
+msgstr ""
+
+#: res/newsomatic-all-list.php:438 res/newsomatic-all-list.php:3139
+#: res/newsomatic-main.php:2634 res/newsomatic-main.php:3900
+#: res/newsomatic-rules-list.php:427 res/newsomatic-rules-list.php:3100
+msgid "Greek"
+msgstr ""
+
+#: res/newsomatic-all-list.php:439 res/newsomatic-all-list.php:3144
+#: res/newsomatic-main.php:2638 res/newsomatic-rules-list.php:428
+#: res/newsomatic-rules-list.php:3105
+msgid "Hebrew"
+msgstr ""
+
+#: res/newsomatic-all-list.php:440 res/newsomatic-all-list.php:3149
+#: res/newsomatic-main.php:3830 res/newsomatic-rules-list.php:429
+#: res/newsomatic-rules-list.php:3110
+msgid "Hungarian"
+msgstr ""
+
+#: res/newsomatic-all-list.php:441 res/newsomatic-all-list.php:3154
+#: res/newsomatic-rules-list.php:430 res/newsomatic-rules-list.php:3115
+msgid "Hindi"
+msgstr ""
+
+#: res/newsomatic-all-list.php:442 res/newsomatic-all-list.php:3159
+#: res/newsomatic-main.php:2642 res/newsomatic-main.php:3820
+#: res/newsomatic-rules-list.php:431 res/newsomatic-rules-list.php:3120
+msgid "Indonesian"
+msgstr ""
+
+#: res/newsomatic-all-list.php:443 res/newsomatic-all-list.php:3169
+#: res/newsomatic-main.php:3910 res/newsomatic-rules-list.php:432
+#: res/newsomatic-rules-list.php:3130
+msgid "Korean"
+msgstr ""
+
+#: res/newsomatic-all-list.php:444 res/newsomatic-all-list.php:3164
+#: res/newsomatic-main.php:2646 res/newsomatic-main.php:3825
+#: res/newsomatic-rules-list.php:433 res/newsomatic-rules-list.php:3125
+msgid "Italian"
+msgstr ""
+
+#: res/newsomatic-all-list.php:445 res/newsomatic-all-list.php:3174
+#: res/newsomatic-rules-list.php:434 res/newsomatic-rules-list.php:3135
+msgid "Latvian"
+msgstr ""
+
+#: res/newsomatic-all-list.php:446 res/newsomatic-all-list.php:3179
+#: res/newsomatic-main.php:2650 res/newsomatic-rules-list.php:435
+#: res/newsomatic-rules-list.php:3140
+msgid "Lithuanian"
+msgstr ""
+
+#: res/newsomatic-all-list.php:447 res/newsomatic-all-list.php:3184
+#: res/newsomatic-main.php:2658 res/newsomatic-main.php:3845
+#: res/newsomatic-rules-list.php:436 res/newsomatic-rules-list.php:3145
+msgid "Polish"
+msgstr ""
+
+#: res/newsomatic-all-list.php:448 res/newsomatic-all-list.php:3189
+#: res/newsomatic-main.php:2666 res/newsomatic-main.php:3855
+#: res/newsomatic-rules-list.php:437 res/newsomatic-rules-list.php:3150
+msgid "Romanian"
+msgstr ""
+
+#: res/newsomatic-all-list.php:449 res/newsomatic-all-list.php:3194
+#: res/newsomatic-main.php:2606 res/newsomatic-rules-list.php:438
+#: res/newsomatic-rules-list.php:3155
+msgid "Croatian"
+msgstr ""
+
+#: res/newsomatic-all-list.php:450 res/newsomatic-all-list.php:3199
+#: res/newsomatic-rules-list.php:439 res/newsomatic-rules-list.php:3160
+msgid "Bosnian"
+msgstr ""
+
+#: res/newsomatic-all-list.php:451 res/newsomatic-all-list.php:3204
+#: res/newsomatic-rules-list.php:440 res/newsomatic-rules-list.php:3165
+msgid "Serbian"
+msgstr ""
+
+#: res/newsomatic-all-list.php:452 res/newsomatic-all-list.php:3209
+#: res/newsomatic-main.php:2674 res/newsomatic-rules-list.php:441
+#: res/newsomatic-rules-list.php:3170
+msgid "Slovenian"
+msgstr ""
+
+#: res/newsomatic-all-list.php:453 res/newsomatic-all-list.php:3214
+#: res/newsomatic-main.php:2670 res/newsomatic-main.php:3860
+#: res/newsomatic-rules-list.php:442 res/newsomatic-rules-list.php:3175
+msgid "Slovak"
+msgstr ""
+
+#: res/newsomatic-all-list.php:454 res/newsomatic-all-list.php:3219
+#: res/newsomatic-main.php:2614 res/newsomatic-main.php:3835
+#: res/newsomatic-rules-list.php:443 res/newsomatic-rules-list.php:3180
+msgid "Dutch"
+msgstr ""
+
+#: res/newsomatic-all-list.php:455 res/newsomatic-all-list.php:3224
+#: res/newsomatic-main.php:2654 res/newsomatic-rules-list.php:444
+#: res/newsomatic-rules-list.php:3185
+msgid "Norwegian"
+msgstr ""
+
+#: res/newsomatic-all-list.php:456 res/newsomatic-all-list.php:3229
+#: res/newsomatic-main.php:2662 res/newsomatic-main.php:3850
+#: res/newsomatic-rules-list.php:445 res/newsomatic-rules-list.php:3190
+msgid "Portuguese"
+msgstr ""
+
+#: res/newsomatic-all-list.php:457 res/newsomatic-all-list.php:3234
+#: res/newsomatic-main.php:3895 res/newsomatic-rules-list.php:446
+#: res/newsomatic-rules-list.php:3195
+msgid "Russian"
+msgstr ""
+
+#: res/newsomatic-all-list.php:458 res/newsomatic-all-list.php:3239
+#: res/newsomatic-main.php:2682 res/newsomatic-main.php:3870
+#: res/newsomatic-rules-list.php:447 res/newsomatic-rules-list.php:3200
+msgid "Swedish"
+msgstr ""
+
+#: res/newsomatic-all-list.php:459 res/newsomatic-all-list.php:3244
+#: res/newsomatic-rules-list.php:448 res/newsomatic-rules-list.php:3205
+msgid "Urdu"
+msgstr ""
+
+#: res/newsomatic-all-list.php:460 res/newsomatic-all-list.php:3249
+#: res/newsomatic-main.php:2690 res/newsomatic-main.php:3880
+#: res/newsomatic-rules-list.php:449 res/newsomatic-rules-list.php:3210
+msgid "Vietnamese"
+msgstr ""
+
+#: res/newsomatic-all-list.php:471
+msgid ""
+"Do you want to get articles only starting from this date? You can set "
+"relative dates, in natural language. Ex: last Sunday, last week, -7 days., "
+"or a precise date: 27-02-2016"
+msgstr ""
+
+#: res/newsomatic-all-list.php:475
+msgid "Get Articles From This Date:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:488
+msgid ""
+"Do you want to get articles only until this date? You can set relative "
+"dates, in natural language. Ex: last Sunday, last week, -7 days., or a "
+"precise date: 27-02-2016"
+msgstr ""
+
+#: res/newsomatic-all-list.php:492
+msgid "Get Articles Until This Date:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:505 res/newsomatic-all-list.php:3279
+msgid "Select if you wish to sort return results by a rule."
+msgstr ""
+
+#: res/newsomatic-all-list.php:509
+msgid "Sort Results By:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:513 res/newsomatic-all-list.php:3289
+#: res/newsomatic-main.php:3575 res/newsomatic-main.php:4061
+msgid "Latest"
+msgstr ""
+
+#: res/newsomatic-all-list.php:514 res/newsomatic-all-list.php:3294
+msgid "Popularity"
+msgstr ""
+
+#: res/newsomatic-all-list.php:515 res/newsomatic-all-list.php:3299
+msgid "Relevancy"
+msgstr ""
+
+#: res/newsomatic-all-list.php:526 res/newsomatic-all-list.php:3305
+#: res/newsomatic-rules-list.php:460 res/newsomatic-rules-list.php:3216
+msgid ""
+"A comma-separated string of domains (eg bbc.co.uk,techcrunch.com,engadget."
+"com) to restrict the search to."
+msgstr ""
+
+#: res/newsomatic-all-list.php:530 res/newsomatic-rules-list.php:464
+msgid "Include Only These Domains in Results:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:543 res/newsomatic-all-list.php:3317
+#: res/newsomatic-rules-list.php:477 res/newsomatic-rules-list.php:3230
+msgid ""
+"A comma-separated string of domains (eg bbc.co.uk,techcrunch.com,engadget."
+"com) to remove from the results."
+msgstr ""
+
+#: res/newsomatic-all-list.php:547 res/newsomatic-rules-list.php:481
+msgid "Remove Domains from Results:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:560 res/newsomatic-all-list.php:3329
+#: res/newsomatic-rules-list.php:494 res/newsomatic-rules-list.php:3245
+msgid ""
+"Do you want to remember last posted item and continue search from it the "
+"next time the importing rule runs?"
+msgstr ""
+
+#: res/newsomatic-all-list.php:564 res/newsomatic-rules-list.php:498
+msgid "Cache Items For Continuous Posting (disable to get latest posts only):"
+msgstr ""
+
+#: res/newsomatic-all-list.php:573 res/newsomatic-all-list.php:3344
+#: res/newsomatic-rules-list.php:507 res/newsomatic-rules-list.php:3260
+msgid "Generated Post Customizations:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:582
+#, php-format
+msgid ""
+"Set the title of the generated posts for user rules. You can use the "
+"following shortcodes: %%random_sentence%%, %%random_sentence2%%, %%item_title"
+"%%, %%author%%, %%item_description%%, %%item_content%%, %%item_date%%, "
+"%%item_original_content%%, %%item_cat%%, %%item_tags%%, %%keyword_search%%, "
+"%%item_source%%, %%item_source_id%%"
+msgstr ""
+
+#: res/newsomatic-all-list.php:586 res/newsomatic-rules-list.php:520
+msgid "Generated Post Title:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:599
+#, php-format
+msgid ""
+"Set the content of the generated posts for user rules. You can use the "
+"following shortcodes: %%item_read_more_button%%, %%item_media%%, "
+"%%custom_html%%, %%custom_html2%%, %%random_sentence%%, "
+"%%random_sentence2%%, %%item_title%%, %%item_description%%, %%item_content"
+"%%, %%item_date%%, %%item_content_plain_text%%, "
+"%%royalty_free_image_attribution%%, %%item_url%%, %%item_cat%%, %%item_tags"
+"%%, %%keyword_search%%, %%item_show_image%%, %%item_image_URL%%, %%author%%, "
+"%%author_link%%, %%item_source%%, %%item_source_id%%"
+msgstr ""
+
+#: res/newsomatic-all-list.php:603 res/newsomatic-rules-list.php:537
+msgid "Generated Post Content:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:616 res/newsomatic-all-list.php:3373
+#: res/newsomatic-rules-list.php:551 res/newsomatic-rules-list.php:3288
+msgid ""
+"Select the status that you want for the automatically generated posts to "
+"have."
+msgstr ""
+
+#: res/newsomatic-all-list.php:620 res/newsomatic-rules-list.php:555
+msgid "Generated Post Status:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:624 res/newsomatic-all-list.php:3384
+#: res/newsomatic-rules-list.php:559 res/newsomatic-rules-list.php:3299
+msgid "Pending -> Moderate"
+msgstr ""
+
+#: res/newsomatic-all-list.php:625 res/newsomatic-all-list.php:3390
+#: res/newsomatic-rules-list.php:560 res/newsomatic-rules-list.php:3305
+msgid "Draft -> Moderate"
+msgstr ""
+
+#: res/newsomatic-all-list.php:626 res/newsomatic-all-list.php:3396
+#: res/newsomatic-rules-list.php:561 res/newsomatic-rules-list.php:3311
+msgid "Published"
+msgstr ""
+
+#: res/newsomatic-all-list.php:627 res/newsomatic-all-list.php:3402
+#: res/newsomatic-rules-list.php:562 res/newsomatic-rules-list.php:3317
+msgid "Private"
+msgstr ""
+
+#: res/newsomatic-all-list.php:628 res/newsomatic-all-list.php:3408
+#: res/newsomatic-rules-list.php:563 res/newsomatic-rules-list.php:3323
+msgid "Trash"
+msgstr ""
+
+#: res/newsomatic-all-list.php:639 res/newsomatic-all-list.php:3414
+#: res/newsomatic-rules-list.php:574 res/newsomatic-rules-list.php:3329
+msgid "Select the type (post/page) for your automatically generated item."
+msgstr ""
+
+#: res/newsomatic-all-list.php:643 res/newsomatic-rules-list.php:578
+msgid "Generated Post Type:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:668 res/newsomatic-rules-list.php:603
+msgid ""
+"Select the author that you want to assign for the automatically generated "
+"posts.\t"
+msgstr ""
+
+#: res/newsomatic-all-list.php:672 res/newsomatic-rules-list.php:607
+msgid "Generated Post Author:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:675 res/newsomatic-all-list.php:3442
+#: res/newsomatic-rules-list.php:610 res/newsomatic-rules-list.php:3357
+msgid "Random user"
+msgstr ""
+
+#: res/newsomatic-all-list.php:676 res/newsomatic-all-list.php:3447
+#: res/newsomatic-rules-list.php:611
+msgid "Import source author"
+msgstr ""
+
+#: res/newsomatic-all-list.php:694 res/newsomatic-all-list.php:3461
+#: res/newsomatic-rules-list.php:629 res/newsomatic-rules-list.php:3376
+msgid "Do you want to disable post excerpt generation?"
+msgstr ""
+
+#: res/newsomatic-all-list.php:698 res/newsomatic-rules-list.php:633
+#: res/newsomatic-rules-list.php:3379
+msgid "Disable Post Excerpt Generation:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:711 res/newsomatic-rules-list.php:646
+msgid ""
+"Do you want to to set the post published date as the date grabbed from the "
+"article? If you disable this feature, the date when the rule is run will be "
+"used."
+msgstr ""
+
+#: res/newsomatic-all-list.php:715 res/newsomatic-rules-list.php:650
+msgid "Get Post Publish Date From Item:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:728 res/newsomatic-rules-list.php:663
+msgid ""
+"If your template supports 'Post Formats', than you can select one here. If "
+"not, leave this at it's default value."
+msgstr ""
+
+#: res/newsomatic-all-list.php:732 res/newsomatic-rules-list.php:667
+msgid "Generated Post Format:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:736 res/newsomatic-all-list.php:3503
+#: res/newsomatic-rules-list.php:671 res/newsomatic-rules-list.php:3418
+msgid "Standard"
+msgstr ""
+
+#: res/newsomatic-all-list.php:737 res/newsomatic-all-list.php:3508
+#: res/newsomatic-rules-list.php:672 res/newsomatic-rules-list.php:3423
+msgid "Aside"
+msgstr ""
+
+#: res/newsomatic-all-list.php:738 res/newsomatic-all-list.php:3513
+#: res/newsomatic-rules-list.php:673 res/newsomatic-rules-list.php:3428
+msgid "Gallery"
+msgstr ""
+
+#: res/newsomatic-all-list.php:739 res/newsomatic-all-list.php:3518
+#: res/newsomatic-rules-list.php:674 res/newsomatic-rules-list.php:3433
+msgid "Link"
+msgstr ""
+
+#: res/newsomatic-all-list.php:740 res/newsomatic-all-list.php:3523
+#: res/newsomatic-rules-list.php:675 res/newsomatic-rules-list.php:3438
+msgid "Image"
+msgstr ""
+
+#: res/newsomatic-all-list.php:741 res/newsomatic-all-list.php:3528
+#: res/newsomatic-rules-list.php:676 res/newsomatic-rules-list.php:3443
+msgid "Quote"
+msgstr ""
+
+#: res/newsomatic-all-list.php:742 res/newsomatic-all-list.php:3533
+#: res/newsomatic-rules-list.php:677 res/newsomatic-rules-list.php:3448
+msgid "Status"
+msgstr ""
+
+#: res/newsomatic-all-list.php:743 res/newsomatic-all-list.php:3538
+#: res/newsomatic-rules-list.php:678 res/newsomatic-rules-list.php:3453
+msgid "Video"
+msgstr ""
+
+#: res/newsomatic-all-list.php:744 res/newsomatic-all-list.php:3543
+#: res/newsomatic-rules-list.php:679 res/newsomatic-rules-list.php:3458
+msgid "Audio"
+msgstr ""
+
+#: res/newsomatic-all-list.php:745 res/newsomatic-all-list.php:3548
+#: res/newsomatic-rules-list.php:680 res/newsomatic-rules-list.php:3463
+msgid "Chat"
+msgstr ""
+
+#: res/newsomatic-all-list.php:756 res/newsomatic-all-list.php:3554
+#: res/newsomatic-rules-list.php:691 res/newsomatic-rules-list.php:3469
+msgid ""
+"Select the post category that you want for the automatically generated posts "
+"to have. To select more categories, hold down the CTRL key."
+msgstr ""
+
+#: res/newsomatic-all-list.php:760 res/newsomatic-rules-list.php:695
+msgid "Additional Post Category:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:764 res/newsomatic-all-list.php:3575
+#: res/newsomatic-rules-list.php:699 res/newsomatic-rules-list.php:3490
+msgid "Do Not Add a Category"
+msgstr ""
+
+#: res/newsomatic-all-list.php:792 res/newsomatic-rules-list.php:727
+msgid "Do you want to automatically add post categories from the News items?"
+msgstr ""
+
+#: res/newsomatic-all-list.php:796 res/newsomatic-rules-list.php:731
+msgid "Auto Add Categories:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:801 res/newsomatic-all-list.php:848
+#: res/newsomatic-all-list.php:3609 res/newsomatic-all-list.php:3659
+#: res/newsomatic-main.php:4590 res/newsomatic-main.php:4668
+#: res/newsomatic-rules-list.php:736 res/newsomatic-rules-list.php:783
+#: res/newsomatic-rules-list.php:3524 res/newsomatic-rules-list.php:3574
+msgid "Title"
+msgstr ""
+
+#: res/newsomatic-all-list.php:811 res/newsomatic-all-list.php:3614
+#: res/newsomatic-rules-list.php:746 res/newsomatic-rules-list.php:3529
+msgid ""
+"This option will search the content for the keyword and if exists, it will "
+"assign the set category to the post. Example: \"sugar,diet|category_slug1,"
+"category_slug2\" without quotes - the plugin will check the content and if "
+"it contains the keyword \"sugar\" and the keyword \"diet\" it will assign "
+"the post to the category with slug=category_slug1 and also the category with "
+"slug=category_slug2."
+msgstr ""
+
+#: res/newsomatic-all-list.php:815 res/newsomatic-rules-list.php:750
+msgid "Keyword to Category (keyword|categorySlug - one per line):"
+msgstr ""
+
+#: res/newsomatic-all-list.php:827 res/newsomatic-rules-list.php:762
+msgid ""
+"This feature will try to remove the WordPress's default post category. This "
+"may fail in case no additional categories are added, because WordPress "
+"requires at least one post category for every post."
+msgstr ""
+
+#: res/newsomatic-all-list.php:831 res/newsomatic-rules-list.php:766
+msgid "Remove WP Default Post Category:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:840 res/newsomatic-rules-list.php:775
+msgid "Do you want to automatically add post tags from the News items?"
+msgstr ""
+
+#: res/newsomatic-all-list.php:844 res/newsomatic-rules-list.php:779
+msgid "Auto Add Tags:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:857 res/newsomatic-all-list.php:3665
+#: res/newsomatic-rules-list.php:792 res/newsomatic-rules-list.php:3580
+msgid ""
+"Select the post tags that you want for the automatically generated posts to "
+"have."
+msgstr ""
+
+#: res/newsomatic-all-list.php:861 res/newsomatic-rules-list.php:796
+msgid "Additional Post Tags:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:874 res/newsomatic-all-list.php:3677
+#: res/newsomatic-rules-list.php:809 res/newsomatic-rules-list.php:3592
+msgid "Do you want to enable comments for the generated posts?"
+msgstr ""
+
+#: res/newsomatic-all-list.php:878 res/newsomatic-rules-list.php:813
+msgid "Enable Comments For Posts:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:891 res/newsomatic-rules-list.php:826
+msgid "Do you want to enable pingbacks/trackbacks for the generated posts?"
+msgstr ""
+
+#: res/newsomatic-all-list.php:895 res/newsomatic-rules-list.php:830
+msgid "Enable Pingback/Trackback:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:908
+#, php-format
+msgid ""
+"Set the custom fields that will be set for generated posts. The syntax for "
+"this field is the following: custom_field_name1 => custom_field_value1, "
+"custom_field_name2 => custom_field_value2, ... . In custom_field_valueX, you "
+"can use shortcodes, same like in post content. You can also assign the data "
+"to array custom fields, using this format: array_field[index_name1] => "
+"custom_field_value1, array_field[index_name2] => custom_field_value2. "
+"Example (without quotes): 'title_custom_field => %%item_title%%'. You can "
+"use the following shortcodes: %%item_read_more_button%%, %%item_media%%, "
+"%%custom_html%%, %%custom_html2%%, %%random_sentence%%, "
+"%%random_sentence2%%, %%item_title%%, %%item_description%%, %%item_content"
+"%%, %%item_date%%, %%item_content_plain_text%%, "
+"%%royalty_free_image_attribution%%, %%item_url%%, %%item_cat%%, %%item_tags"
+"%%, %%keyword_search%%, %%item_show_image%%, %%item_image_URL%%, %%author%%, "
+"%%author_link%%, %%item_source%%, %%item_source_id%%"
+msgstr ""
+
+#: res/newsomatic-all-list.php:912 res/newsomatic-rules-list.php:847
+msgid "Post Custom Fields:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:925
+#, php-format
+msgid ""
+"Set the custom taxonomies that will be set for generated posts. The syntax "
+"for this field is the following: custom_taxonomy_name1 => "
+"custom_taxonomy_value1A, custom_taxonomy_value1B; custom_taxonomy_name2 => "
+"custom_taxonomy_value2A, custom_taxonomy_value2B; ... . In "
+"custom_taxonomy_valueX, you can use shortcodes. Example (without quotes): "
+"'cats_taxonomy_field => %%item_title%%; tags_taxonomy_field => manualtax2, "
+"%%item_title%%'. You can use the following shortcodes: "
+"%%item_read_more_button%%, %%item_media%%, %%custom_html%%, "
+"%%custom_html2%%, %%random_sentence%%, %%random_sentence2%%, %%item_title%%, "
+"%%item_description%%, %%item_content%%, %%item_date%%, "
+"%%item_content_plain_text%%, %%royalty_free_image_attribution%%, %%item_url"
+"%%, %%item_cat%%, %%item_tags%%, %%keyword_search%%, %%item_show_image%%, "
+"%%item_image_URL%%, %%author%%, %%author_link%%, %%item_source%%, "
+"%%item_source_id%%"
+msgstr ""
+
+#: res/newsomatic-all-list.php:929 res/newsomatic-rules-list.php:864
+msgid "Post Custom Taxonomies:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:942 res/newsomatic-all-list.php:3731
+#: res/newsomatic-rules-list.php:877 res/newsomatic-rules-list.php:3646
+msgid ""
+"Enter a 2 letter language code that will be assigned as the WPML/Polylang "
+"language for posts. Example: for German, input: de"
+msgstr ""
+
+#: res/newsomatic-all-list.php:946 res/newsomatic-rules-list.php:881
+msgid "Assign WPML/Polylang Language to Posts:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:955 res/newsomatic-all-list.php:3741
+#: res/newsomatic-rules-list.php:890 res/newsomatic-rules-list.php:3656
+msgid "Full Article Content Importing Options:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:962 res/newsomatic-all-list.php:3744
+#: res/newsomatic-rules-list.php:897 res/newsomatic-rules-list.php:3659
+#, php-format
+msgid ""
+"Do you want to try to get full article content from the linked URL? This "
+"will replace the content of the %%item_content%% shortcode."
+msgstr ""
+
+#: res/newsomatic-all-list.php:965 res/newsomatic-rules-list.php:900
+msgid "Try to Get Full Article Content:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:976 res/newsomatic-rules-list.php:911
+msgid ""
+"Do you want to try to use PhantomJS to try to parse JavaScript from crawled "
+"pages (for pages that create dynamic content, on page load, using "
+"JavaScript)? Please note that for this to work, you must have PhantomJs "
+"installed on your server. You can configure the path to PhantomJS from your "
+"server, from plugin's 'Main Settings'."
+msgstr ""
+
+#: res/newsomatic-all-list.php:979 res/newsomatic-rules-list.php:914
+msgid "Content Scraping Method To Use:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:980 res/newsomatic-all-list.php:3764
+#: res/newsomatic-main.php:1354 res/newsomatic-rules-list.php:915
+#: res/newsomatic-rules-list.php:3679
+msgid ""
+"New feature added to this plugin: it is able to use HeadlessBrowserAPI to "
+"scrape with JavaScript rendered content any website from the internet. Also, "
+"the Tor node of the API will be able to scrape .onion sites from the Dark "
+"Net!"
+msgstr ""
+
+#: res/newsomatic-all-list.php:988 res/newsomatic-all-list.php:3788
+#: res/newsomatic-rules-list.php:923 res/newsomatic-rules-list.php:3703
+msgid "WordPress (Default)"
+msgstr ""
+
+#: res/newsomatic-all-list.php:989 res/newsomatic-all-list.php:3793
+#: res/newsomatic-rules-list.php:924 res/newsomatic-rules-list.php:3708
+msgid "Use PhantomJS"
+msgstr ""
+
+#: res/newsomatic-all-list.php:990 res/newsomatic-all-list.php:3798
+#: res/newsomatic-rules-list.php:925 res/newsomatic-rules-list.php:3713
+msgid "Use Puppeteer"
+msgstr ""
+
+#: res/newsomatic-all-list.php:991 res/newsomatic-all-list.php:992
+#: res/newsomatic-all-list.php:993 res/newsomatic-all-list.php:3805
+#: res/newsomatic-all-list.php:3814 res/newsomatic-all-list.php:3823
+#: res/newsomatic-rules-list.php:926 res/newsomatic-rules-list.php:927
+#: res/newsomatic-rules-list.php:928 res/newsomatic-rules-list.php:3720
+#: res/newsomatic-rules-list.php:3729 res/newsomatic-rules-list.php:3738
+msgid ""
+"This option is disabled. To enable it, add a HeadlessBrowserAPI Key in the "
+"plugin's 'Main Settings' menu."
+msgstr ""
+
+#: res/newsomatic-all-list.php:991 res/newsomatic-all-list.php:3807
+#: res/newsomatic-rules-list.php:926 res/newsomatic-rules-list.php:3722
+msgid "Puppeteer (HeadlessBrowserAPI)"
+msgstr ""
+
+#: res/newsomatic-all-list.php:991 res/newsomatic-all-list.php:992
+#: res/newsomatic-all-list.php:993 res/newsomatic-rules-list.php:926
+#: res/newsomatic-rules-list.php:927 res/newsomatic-rules-list.php:928
+msgid ""
+" - to enable, add a HeadlessBrowserAPI key in the plugin's 'Main Settings'"
+msgstr ""
+
+#: res/newsomatic-all-list.php:992 res/newsomatic-all-list.php:3816
+#: res/newsomatic-rules-list.php:927 res/newsomatic-rules-list.php:3731
+msgid "Tor (HeadlessBrowserAPI)"
+msgstr ""
+
+#: res/newsomatic-all-list.php:993 res/newsomatic-all-list.php:3825
+#: res/newsomatic-rules-list.php:928 res/newsomatic-rules-list.php:3740
+msgid "PhantomJS (HeadlessBrowserAPI)"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1002 res/newsomatic-rules-list.php:939
+#, php-format
+msgid ""
+"Select the query type you want to search for the article full content. "
+"XPath: <a href='%s' target='_blank'>More info/tutorial</a>."
+msgstr ""
+
+#: res/newsomatic-all-list.php:1005 res/newsomatic-rules-list.php:943
+msgid "Full Content Query Type (Optional):"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1011 res/newsomatic-all-list.php:1141
+#: res/newsomatic-all-list.php:3844 res/newsomatic-all-list.php:3984
+#: res/newsomatic-rules-list.php:949 res/newsomatic-rules-list.php:1079
+#: res/newsomatic-rules-list.php:3759 res/newsomatic-rules-list.php:3899
+msgid "Auto Detect"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1012 res/newsomatic-all-list.php:1398
+#: res/newsomatic-all-list.php:3850 res/newsomatic-all-list.php:4201
+#: res/newsomatic-rules-list.php:950 res/newsomatic-rules-list.php:1336
+#: res/newsomatic-rules-list.php:3765 res/newsomatic-rules-list.php:4117
+msgid "Visual Selector"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1014 res/newsomatic-all-list.php:1400
+#: res/newsomatic-all-list.php:3862 res/newsomatic-all-list.php:4213
+#: res/newsomatic-rules-list.php:952 res/newsomatic-rules-list.php:1338
+#: res/newsomatic-rules-list.php:3777 res/newsomatic-rules-list.php:4129
+msgid "Class"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1015 res/newsomatic-all-list.php:1401
+#: res/newsomatic-all-list.php:3868 res/newsomatic-all-list.php:4219
+#: res/newsomatic-rules-list.php:953 res/newsomatic-rules-list.php:1339
+#: res/newsomatic-rules-list.php:3783 res/newsomatic-rules-list.php:4135
+msgid "XPath"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1016 res/newsomatic-all-list.php:1402
+#: res/newsomatic-all-list.php:3874 res/newsomatic-all-list.php:4225
+#: res/newsomatic-rules-list.php:954 res/newsomatic-rules-list.php:1340
+#: res/newsomatic-rules-list.php:3789 res/newsomatic-rules-list.php:4141
+msgid "Regex"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1027
+#, php-format
+msgid ""
+"Input the search query for full content searching. This can be the ID or "
+"class name you want to search, the <a href='https://regexone.com/' "
+"target='_blank'>regex expression</a> you want to apply for or the XPath "
+"Expression you want to query for. <a href='%s' target='_blank'>More info/"
+"tutorial</a>."
+msgstr ""
+
+#: res/newsomatic-all-list.php:1031 res/newsomatic-all-list.php:3883
+msgid "Search Query String (Optional)"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1031 res/newsomatic-all-list.php:1417
+#: res/newsomatic-all-list.php:3883 res/newsomatic-all-list.php:4234
+#: res/newsomatic-rules-list.php:969 res/newsomatic-rules-list.php:1355
+#: res/newsomatic-rules-list.php:3798 res/newsomatic-rules-list.php:4150
+msgid "Help!"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1046
+msgid ""
+"Input the correct HTML attribute where the image src is found for lazy "
+"loaded images that are scraped from the full content. You can also add a "
+"comma separated list of multiple lazy loading tags. The attribute containing "
+"the actual image URL ex: \"data-src\", \"data-original\""
+msgstr ""
+
+#: res/newsomatic-all-list.php:1050 res/newsomatic-all-list.php:3896
+#: res/newsomatic-rules-list.php:988 res/newsomatic-rules-list.php:3811
+msgid "Lazy Loading Images HTML Tag"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1065 res/newsomatic-all-list.php:3906
+#: res/newsomatic-rules-list.php:1003 res/newsomatic-rules-list.php:3821
+msgid ""
+"Select the cookie values you want to send with each request. The syntax for "
+"this field is the following: cookie_key1=cookie_value1; "
+"cookie_key2=cookie_value2 . To disable this feature, leave this field blank."
+msgstr ""
+
+#: res/newsomatic-all-list.php:1069 res/newsomatic-rules-list.php:1007
+msgid "Send Cookies With Request:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1082 res/newsomatic-all-list.php:3918
+#: res/newsomatic-rules-list.php:1020 res/newsomatic-rules-list.php:3833
+#, php-format
+msgid ""
+"Select a percentage of the grabbed content that will be included in the "
+"article. This is useful when the author states that you can legally get up "
+"to 25% of the full article. To disable this feature, leave this field blank."
+msgstr ""
+
+#: res/newsomatic-all-list.php:1086 res/newsomatic-rules-list.php:1024
+msgid "Percentage Of The Full Content To Keep:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1099 res/newsomatic-all-list.php:3931
+#: res/newsomatic-rules-list.php:1037 res/newsomatic-rules-list.php:3846
+msgid ""
+"Do you want to get only one element or all elements that fit the defined "
+"rule?"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1102 res/newsomatic-rules-list.php:1040
+msgid "Get Only The First Found Element:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1115 res/newsomatic-all-list.php:3948
+#: res/newsomatic-rules-list.php:1053 res/newsomatic-rules-list.php:3863
+msgid ""
+"Do you want to get only the inner content of the div or the full div (with "
+"tags you searched for)?"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1118 res/newsomatic-rules-list.php:1056
+msgid "Get Only The Inner Div Content:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1131 res/newsomatic-all-list.php:3965
+#: res/newsomatic-rules-list.php:1069 res/newsomatic-rules-list.php:3880
+msgid "Select the source page encoding"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1134 res/newsomatic-rules-list.php:1072
+msgid "Source Article Encoding:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1140 res/newsomatic-all-list.php:3978
+#: res/newsomatic-rules-list.php:1078 res/newsomatic-rules-list.php:3893
+msgid "Feature Disabled"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1156 res/newsomatic-all-list.php:3997
+#: res/newsomatic-main.php:1862 res/newsomatic-rules-list.php:1094
+#: res/newsomatic-rules-list.php:3913
+msgid "Post Content Options:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1165 res/newsomatic-all-list.php:4001
+#: res/newsomatic-rules-list.php:1103 res/newsomatic-rules-list.php:3916
+msgid "Do you want to strip images from generated content?"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1169 res/newsomatic-rules-list.php:1107
+msgid "Strip Images From Content:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1182 res/newsomatic-all-list.php:4017
+#: res/newsomatic-rules-list.php:1120 res/newsomatic-rules-list.php:3932
+msgid "Do you want to strip article source from title?"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1186 res/newsomatic-rules-list.php:1124
+msgid "Strip Article Source From Title:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1199 res/newsomatic-all-list.php:4032
+#: res/newsomatic-main.php:2172 res/newsomatic-rules-list.php:1137
+#: res/newsomatic-rules-list.php:3948
+msgid ""
+"Strip HTML elements from final content that have this IDs. You can insert "
+"more IDs, separeted by comma. To disable this feature, leave this field "
+"blank."
+msgstr ""
+
+#: res/newsomatic-all-list.php:1203 res/newsomatic-rules-list.php:1141
+msgid "Strip HTML Elements by ID:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1216 res/newsomatic-all-list.php:4044
+#: res/newsomatic-main.php:2191 res/newsomatic-rules-list.php:1154
+#: res/newsomatic-rules-list.php:3960
+msgid ""
+"Strip HTML elements from final content that have this class. You can insert "
+"more classes, separeted by comma. To disable this feature, leave this field "
+"blank."
+msgstr ""
+
+#: res/newsomatic-all-list.php:1220 res/newsomatic-rules-list.php:1158
+msgid "Strip HTML Elements by Class:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1231 res/newsomatic-rules-list.php:1169
+msgid "Do you want to strip HTML from Full Article Content?"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1234 res/newsomatic-rules-list.php:1172
+msgid "Strip HTML From Full Content:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1249 res/newsomatic-all-list.php:4073
+#: res/newsomatic-rules-list.php:1187 res/newsomatic-rules-list.php:3989
+msgid ""
+"Set a list of allowed HTML tags, if \\'Strip HTML From Full Content\\' "
+"checkbox is enabled. Ex: &lt;br&gt;&lt;a&gt;"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1253 res/newsomatic-rules-list.php:1191
+msgid "Alllowed HTML Tags (If Strip HTML Enabled):"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1266 res/newsomatic-all-list.php:4085
+#: res/newsomatic-rules-list.php:1204 res/newsomatic-rules-list.php:4001
+msgid ""
+"Do you want to limit the title's length to a specific word count? To disable "
+"this feature, leave this field blank."
+msgstr ""
+
+#: res/newsomatic-all-list.php:1270 res/newsomatic-rules-list.php:1208
+msgid "Limit Title Word Count:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1283 res/newsomatic-rules-list.php:1221
+msgid ""
+"Do you want to limit the content's length to a specific word count? To "
+"disable this feature, leave this field blank."
+msgstr ""
+
+#: res/newsomatic-all-list.php:1287 res/newsomatic-rules-list.php:1225
+msgid "Limit Content Word Count:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1300 res/newsomatic-all-list.php:4109
+#: res/newsomatic-rules-list.php:1238 res/newsomatic-rules-list.php:4025
+msgid ""
+"Run regex on post content. To disable this feature, leave this field blank."
+msgstr ""
+
+#: res/newsomatic-all-list.php:1304 res/newsomatic-rules-list.php:1242
+msgid "Run Regex On Content:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1317 res/newsomatic-all-list.php:4121
+#: res/newsomatic-rules-list.php:1255 res/newsomatic-rules-list.php:4037
+msgid ""
+"Replace the above regex matches with this regex expression. If you want to "
+"strip matched content, leave this field blank. You can add multiple Regex "
+"expressions here, each on a new line."
+msgstr ""
+
+#: res/newsomatic-all-list.php:1321 res/newsomatic-rules-list.php:1259
+msgid "Replace Matches From Regex (Content):"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1330 res/newsomatic-all-list.php:4131
+#: res/newsomatic-main.php:3129 res/newsomatic-rules-list.php:1268
+#: res/newsomatic-rules-list.php:4047
+msgid "Featured Image Options:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1339 res/newsomatic-rules-list.php:1277
+msgid ""
+"Do you want to set featured image for generated post (to the first image "
+"that was found in the post)? If you don't check the 'Get Image From Pixabay' "
+"checkbox, this will work only when 'Get Full Content' is also checked."
+msgstr ""
+
+#: res/newsomatic-all-list.php:1343 res/newsomatic-rules-list.php:1281
+msgid "Auto Get Featured Image:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1356 res/newsomatic-all-list.php:4150
+#: res/newsomatic-rules-list.php:1294 res/newsomatic-rules-list.php:4066
+msgid ""
+"Do you want to skip image returned by NewsomaticAPI and use the image found "
+"in the article, instead?"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1360 res/newsomatic-rules-list.php:1298
+msgid "Skip Image Returned By NewsomaticAPI:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1373 res/newsomatic-rules-list.php:1311
+msgid ""
+"Do you want to replace the imported article's image with a royalty free "
+"image? Please note that for this feature to function you must configure the "
+"plugin (add API keys) in the plugin's 'Main Settings' menu -> 'Royalty Free "
+"Featured Image Importing Options' section."
+msgstr ""
+
+#: res/newsomatic-all-list.php:1377 res/newsomatic-rules-list.php:1315
+msgid "Replace Article Image With Royalty Free Image:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1388 res/newsomatic-rules-list.php:1326
+#, php-format
+msgid ""
+"Select the query type you want to search for the article featured image. "
+"XPath: <a href='%s' target='_blank'>More info/tutorial</a>."
+msgstr ""
+
+#: res/newsomatic-all-list.php:1391 res/newsomatic-rules-list.php:1329
+msgid "Featured Image Query Type:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1397 res/newsomatic-all-list.php:4195
+#: res/newsomatic-rules-list.php:1335 res/newsomatic-rules-list.php:4111
+msgid "Auto Detect (From HTML Meta Tags)"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1413 res/newsomatic-rules-list.php:1351
+#, php-format
+msgid ""
+"Input the search query for featured image searching. This can be the ID or "
+"class name you want to search, the <a href='%s' target='_blank'>regex "
+"expression</a> you want to apply for or the XPath Expression you want to "
+"query for. <a href='%s' target='_blank'>More info/tutorial</a>. If you leave "
+"this field blank, the featured will be automatically detected for you."
+msgstr ""
+
+#: res/newsomatic-all-list.php:1417 res/newsomatic-all-list.php:4234
+#: res/newsomatic-rules-list.php:1355 res/newsomatic-rules-list.php:4150
+msgid "Featured Image Search Query String (Optional)"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1431 res/newsomatic-all-list.php:4243
+#: res/newsomatic-rules-list.php:1369 res/newsomatic-rules-list.php:4159
+msgid ""
+"Insert a comma separated list of links to valid images that will be set "
+"randomly for the featured image for the posts that do not have a valid image "
+"attached or if you disabled automatical featured image generation. You can "
+"also use image numeric IDs from images found in the Media Gallery. To "
+"disable this feature, leave this field blank."
+msgstr ""
+
+#: res/newsomatic-all-list.php:1435 res/newsomatic-rules-list.php:1373
+msgid "Default Featured Image List:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1444 res/newsomatic-all-list.php:4250
+#: res/newsomatic-rules-list.php:1382 res/newsomatic-rules-list.php:4166
+msgid "Translation Options:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1451 res/newsomatic-rules-list.php:1389
+msgid ""
+"Do you want to automatically translate generated content using Google "
+"Translate? If set, this will overwrite the 'Automatically Translate Content "
+"To' option from plugin's 'Main Settings'."
+msgstr ""
+
+#: res/newsomatic-all-list.php:1454 res/newsomatic-rules-list.php:1392
+msgid "Automatically Translate Content To:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1454 res/newsomatic-all-list.php:4256
+#: res/newsomatic-rules-list.php:1392 res/newsomatic-rules-list.php:4172
+msgid "Info:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1454 res/newsomatic-all-list.php:4256
+#: res/newsomatic-rules-list.php:1392 res/newsomatic-rules-list.php:4172
+msgid "for translation, the plugin also supports WPML."
+msgstr ""
+
+#: res/newsomatic-all-list.php:1454 res/newsomatic-all-list.php:4256
+#: res/newsomatic-rules-list.php:1392 res/newsomatic-rules-list.php:4172
+msgid "Get WPML now!"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1495 res/newsomatic-rules-list.php:1433
+msgid ""
+"Do you want to automatically translate generated content using Google "
+"Translate? Here you can define the translation's source language. If set, "
+"this will overwrite the 'Automatically Translate Content To' option from "
+"plugin's 'Main Settings'."
+msgstr ""
+
+#: res/newsomatic-all-list.php:1498 res/newsomatic-rules-list.php:1436
+msgid "Translation Source Language:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1539 res/newsomatic-all-list.php:4343
+#: res/newsomatic-rules-list.php:1477 res/newsomatic-rules-list.php:4259
+msgid "Do you want to skip spinning of posts generated by this rule?"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1542 res/newsomatic-rules-list.php:1480
+msgid "Do Not Spin Posts Generated By This Rule:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1551 res/newsomatic-all-list.php:4357
+#: res/newsomatic-rules-list.php:1489 res/newsomatic-rules-list.php:4273
+msgid "Miscellaneous Options:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1560 res/newsomatic-all-list.php:4360
+#: res/newsomatic-rules-list.php:4276
+msgid ""
+"Input a list of keywords that shoule be ranked for SEO, for keywords "
+"generated by this rule.They will be added 1) In the post title (create a "
+"specific rule) 2) In the META description for the post 3) In the first "
+"sentence of the first paragraph 4) In subheading with an H1 and H2 tag  5) "
+"In the Title tag and the ALT tag of the image file name of the main image.  "
+"To disable this feature, leave this field blank."
+msgstr ""
+
+#: res/newsomatic-all-list.php:1564 res/newsomatic-rules-list.php:1502
+msgid "Rank These Keywords For SEO in Articles:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1591 res/newsomatic-rules-list.php:1529
+msgid "No info."
+msgstr ""
+
+#: res/newsomatic-all-list.php:1603 res/newsomatic-all-list.php:4487
+#: res/newsomatic-rules-list.php:1541 res/newsomatic-rules-list.php:4395
+msgid "Select an Action"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1604 res/newsomatic-all-list.php:4488
+#: res/newsomatic-rules-list.php:1542 res/newsomatic-rules-list.php:4396
+msgid "Run This Rule Now"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1605 res/newsomatic-all-list.php:4489
+#: res/newsomatic-rules-list.php:1543 res/newsomatic-rules-list.php:4397
+msgid "Move All Posts To Trash"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1606 res/newsomatic-all-list.php:4490
+#: res/newsomatic-rules-list.php:1544 res/newsomatic-rules-list.php:4398
+msgid "Duplicate This Rule"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1607 res/newsomatic-all-list.php:4491
+#: res/newsomatic-rules-list.php:1545 res/newsomatic-rules-list.php:4399
+msgid "Permanently Delete All Posts"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1829 res/newsomatic-rules-list.php:1767
+msgid "First Page"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1829 res/newsomatic-rules-list.php:1767
+msgid "Previous Page"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1829 res/newsomatic-rules-list.php:1767
+msgid "Page"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1829 res/newsomatic-rules-list.php:1767
+msgid "of"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1829 res/newsomatic-rules-list.php:1767
+msgid "Rules Per Page:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1829 res/newsomatic-rules-list.php:1767
+msgid "Next Page"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1829 res/newsomatic-rules-list.php:1767
+msgid "Last Page"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1834 res/newsomatic-main.php:4605
+#: res/newsomatic-rules-list.php:1772
+msgid "Save Settings"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1837 res/newsomatic-rules-list.php:1775
+msgid "Nested Shortcodes also supported!"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1837 res/newsomatic-rules-list.php:1775
+msgid "Confused about rule running status icons?"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1837 res/newsomatic-rules-list.php:1775
+msgid "More info"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1842 res/newsomatic-rules-list.php:1780
+msgid "In Progress"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1842 res/newsomatic-rules-list.php:1780
+msgid "Importing is Running"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1846 res/newsomatic-rules-list.php:1784
+msgid "Success"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1846 res/newsomatic-rules-list.php:1784
+msgid "New Posts Created"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1850 res/newsomatic-rules-list.php:1788
+msgid "Failed"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1850 res/newsomatic-rules-list.php:1788
+msgid "An Error Occurred."
+msgstr ""
+
+#: res/newsomatic-all-list.php:1850 res/newsomatic-rules-list.php:1788
+msgid "Please check 'Activity and Logging' plugin menu for details."
+msgstr ""
+
+#: res/newsomatic-all-list.php:1854 res/newsomatic-rules-list.php:1792
+msgid "No Change - No New Posts Created"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1854 res/newsomatic-rules-list.php:1792
+msgid "Possible reasons:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1860 res/newsomatic-rules-list.php:1798
+msgid ""
+"Already all posts are published that match your search and posts will be "
+"posted when new content will be available"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1861 res/newsomatic-rules-list.php:1799
+msgid "Some restrictions you defined in the plugin's 'Main Settings'"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1861 res/newsomatic-rules-list.php:1799
+msgid ""
+"example: 'Minimum Content Word Count', 'Maximum Content Word Count', "
+"'Minimum Title Word Count', 'Maximum Title Word Count', 'Banned Words List', "
+"'Reuired Words List', 'Skip Posts Without Images'"
+msgstr ""
+
+#: res/newsomatic-all-list.php:1861 res/newsomatic-rules-list.php:1799
+msgid "prevent posting of new posts."
+msgstr ""
+
+#: res/newsomatic-all-list.php:2404 res/newsomatic-rules-list.php:2377
+msgid "Rule"
+msgstr ""
+
+#: res/newsomatic-all-list.php:2414
+msgid ""
+"Do you want to filter results based on a query string? Advanced search is "
+"supported here: Surround phrases with quotes (\") for exact match. Prepend "
+"words or phrases that must appear with a + symbol. Eg: +bitcoin Prepend "
+"words that must not appear with a - symbol. Eg: -bitcoin Alternatively you "
+"can use the AND / OR / NOT keywords, and optionally group these with "
+"parenthesis. Eg: crypto AND (ethereum OR litecoin) NOT bitcoin."
+msgstr ""
+
+#: res/newsomatic-all-list.php:2417 res/newsomatic-rules-list.php:2390
+msgid "Search Query String"
+msgstr ""
+
+#: res/newsomatic-all-list.php:2426
+msgid ""
+"Do you want to filter results based on a query string in article title only? "
+"Please note that only keywords are supported here (no phrase search). If you "
+"wish to use phrase search, please go to the \\'Custom News to Posts\\' "
+"plugin menu and configure a rule there."
+msgstr ""
+
+#: res/newsomatic-all-list.php:2429
+msgid "Search Query String (Article Title Only)"
+msgstr ""
+
+#: res/newsomatic-all-list.php:2438
+msgid ""
+"Select if you wish to filter the country of the generated posts. Will work "
+"only if you import post from Any source (applicable only for NewsomaticAPI)."
+msgstr ""
+
+#: res/newsomatic-all-list.php:2441
+msgid "Source Country"
+msgstr ""
+
+#: res/newsomatic-all-list.php:2759 res/newsomatic-rules-list.php:2718
+msgid "Exclude Countries"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3087 res/newsomatic-rules-list.php:3046
+msgid "Generated Post Language"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3255
+msgid ""
+"Do you want to get articles only starting from this date? You can set "
+"relative dates, in natural language. Ex: last Sunday, last week, -7 days, or "
+"a precise date: 27-02-2016."
+msgstr ""
+
+#: res/newsomatic-all-list.php:3258
+msgid "Get Articles From This Date"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3267
+msgid ""
+"Do you want to get articles only until this date? You can set relative "
+"dates, in natural language. Ex: last Sunday, last week, -7 days, or a "
+"precise date: 27-02-2016."
+msgstr ""
+
+#: res/newsomatic-all-list.php:3270
+msgid "Get Articles Until This Date"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3282
+msgid "Sort Results By"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3308 res/newsomatic-rules-list.php:3219
+msgid "Include Only These Domains in Results"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3320 res/newsomatic-rules-list.php:3233
+msgid "Remove Domains from Results"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3332 res/newsomatic-rules-list.php:3248
+msgid "Cache Items For Continuous Posting (disable to get latest posts only)"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3348
+msgid ""
+"Set the title of the generated posts for user rules. You can use the "
+"following shortcodes:  %random_sentence%%, %%random_sentence2%%, %%item_title"
+"%%, %%author%%, %%item_description%%, %%item_content%%, %%item_date%%, %"
+"%item_original_content%%, %%item_cat%%, %%item_tags%%, %%keyword_search%%, %"
+"%item_source%%, %%item_source_id%%"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3351 res/newsomatic-rules-list.php:3267
+msgid "Generated Post Title"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3360
+#, php-format
+msgid ""
+"Set the content of the generated posts for user rules. You can use the "
+"following shortcodes: %%item_read_more_button%%, %%item_media%%, "
+"%%custom_html%%, %%custom_html2%%, %%random_sentence%%, "
+"%%random_sentence2%%, %%item_title%%, %%item_description%%, %%item_content"
+"%%, %%item_date%%, %%item_original_content%%, %%item_content_plain_text%%, "
+"%%royalty_free_image_attribution%%, %%item_url%%, %%item_cat%%, %%item_tags"
+"%%, %%keyword_search%%, %%item_show_image%%, %%item_image_URL%%, %%author%%, "
+"%%author_link%%, %%item_source%%, %%item_source_id%%"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3363 res/newsomatic-rules-list.php:3279
+msgid "Generated Post Content"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3376 res/newsomatic-rules-list.php:3291
+msgid "Generated Post Status"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3417 res/newsomatic-rules-list.php:3332
+msgid "Generated Post Type"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3432 res/newsomatic-rules-list.php:3347
+msgid ""
+"Select the author that you want to assign for the automatically generated "
+"posts."
+msgstr ""
+
+#: res/newsomatic-all-list.php:3435 res/newsomatic-rules-list.php:3350
+msgid "Generated Post Author"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3464
+msgid "Disable Post Excerpt Generation"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3476 res/newsomatic-rules-list.php:3391
+msgid ""
+"Do you want to to set the post published date as the date grabbed from the "
+"feed article? If you disable this feature, the date when the rule is run "
+"will be used."
+msgstr ""
+
+#: res/newsomatic-all-list.php:3479 res/newsomatic-rules-list.php:3394
+msgid "Get Post Publish Date From Feed"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3493 res/newsomatic-rules-list.php:3408
+msgid ""
+"If your template supports \"Post Formats\", than you can select one here. If "
+"not, leave this at it's default value."
+msgstr ""
+
+#: res/newsomatic-all-list.php:3496 res/newsomatic-rules-list.php:3411
+msgid "Generated Post Format"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3557 res/newsomatic-rules-list.php:3472
+msgid "Additional Post Category"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3593 res/newsomatic-rules-list.php:3508
+msgid "Do you want to automatically add post categories, from the feed items?"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3596 res/newsomatic-rules-list.php:3511
+msgid "Auto Add Categories"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3617 res/newsomatic-rules-list.php:3532
+msgid "Keyword to Category (keyword|categorySlug - one per line)"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3626 res/newsomatic-rules-list.php:3541
+msgid ""
+"This feature will try to remove the WordPress\\'s default post category. "
+"This may fail in case no additional categories are added, because WordPress "
+"requires at least one post category for every post."
+msgstr ""
+
+#: res/newsomatic-all-list.php:3629 res/newsomatic-rules-list.php:3544
+msgid "Remove WP Default Post Category"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3643 res/newsomatic-rules-list.php:3558
+msgid "Do you want to automatically add post tags from the feed items?"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3646 res/newsomatic-rules-list.php:3561
+msgid "Auto Add Tags"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3668 res/newsomatic-rules-list.php:3583
+msgid "Additional Post Tags"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3680 res/newsomatic-rules-list.php:3595
+msgid "Enable Comments For Posts"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3693 res/newsomatic-rules-list.php:3608
+msgid "Do you want to enable pingbacks and trackbacks for the generated posts?"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3696 res/newsomatic-rules-list.php:3611
+msgid "Enable Pingback/Trackback"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3709
+#, php-format
+msgid ""
+"Set the custom fields that will be set for generated posts. The syntax for "
+"this field is the following: custom_field_name1 => custom_field_value1, "
+"custom_field_name2 => custom_field_value2, ... . In custom_field_valueX, you "
+"can use shortcodes, same like in post content. You can also assign the data "
+"to array custom fields, using this format: array_field[index_name1] => "
+"custom_field_value1, array_field[index_name2] => custom_field_value2. "
+"Example (without quotes): \\'title_custom_field => %%item_title%%\\'. You "
+"can use the following shortcodes: %%item_read_more_button%%, %%item_media%%, "
+"%%custom_html%%, %%custom_html2%%, %%random_sentence%%, "
+"%%random_sentence2%%, %%item_title%%, %%item_description%%, %%item_content"
+"%%, %%item_date%%, %%item_content_plain_text%%, "
+"%%royalty_free_image_attribution%%, %%item_url%%, %%item_cat%%, %%item_tags"
+"%%, %%keyword_search%%, %%item_show_image%%, %%item_image_URL%%, %%author%%, "
+"%%author_link%%, %%item_source%%, %%item_source_id%%"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3712 res/newsomatic-rules-list.php:3627
+msgid "Post Custom Fields"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3721
+#, php-format
+msgid ""
+"Set the custom taxonomies that will be set for generated posts. The syntax "
+"for this field is the following: custom_taxonomy_name1 => "
+"custom_taxonomy_value1A, custom_taxonomy_value1B; custom_taxonomy_name2 => "
+"custom_taxonomy_value2A, custom_taxonomy_value2B; ... . In "
+"custom_taxonomy_valueX, you can use shortcodes. Example (without quotes): "
+"\\'cats_taxonomy_field => %%item_title%%; tags_taxonomy_field => manualtax2, "
+"%%item_title%%\\'. You can use the following shortcodes: "
+"%%item_read_more_button%%, %%item_media%%, %%custom_html%%, "
+"%%custom_html2%%, %%random_sentence%%, %%random_sentence2%%, %%item_title%%, "
+"%%item_description%%, %%item_content%%, %%item_date%%, "
+"%%item_content_plain_text%%, %%royalty_free_image_attribution%%, %%item_url"
+"%%, %%item_cat%%, %%item_tags%%, %%keyword_search%%, %%item_show_image%%, "
+"%%item_image_URL%%, %%author%%, %%author_link%%, %%item_source%%, "
+"%%item_source_id%%"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3724 res/newsomatic-rules-list.php:3639
+msgid "Post Custom Taxonomies"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3734 res/newsomatic-rules-list.php:3649
+msgid "Assign WPML/Polylang Language to Posts"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3747 res/newsomatic-rules-list.php:3662
+msgid "Try to Get Full Article Content"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3760 res/newsomatic-rules-list.php:3675
+msgid ""
+"Do you want to try to use PhantomJS to try to parse JavaScript from crawled "
+"pages (for pages that create dynamic content, on page load, using "
+"JavaScript)? Please note that for this to work, you must have PhantomJs "
+"installed on your server. You can configure the path to PhantomJS from your "
+"server, from plugin\\'s \\'Main Settings\\'."
+msgstr ""
+
+#: res/newsomatic-all-list.php:3763 res/newsomatic-rules-list.php:3678
+msgid "Content Scraping Method To Use"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3773 res/newsomatic-main.php:4304
+#: res/newsomatic-rules-list.php:3688
+msgid ""
+"INFO: PhantomJS not found - please install it on your server or configure "
+"the path to it in plugin's 'Main Settings'!"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3773 res/newsomatic-main.php:4304
+#: res/newsomatic-rules-list.php:3688
+msgid "How to install PhantomJs?"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3777 res/newsomatic-main.php:4316
+#: res/newsomatic-rules-list.php:3692
+msgid "INFO: PhantomJS OK"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3831
+#, php-format
+msgid ""
+"Select the query type you want to search for the article full content. "
+"XPath: <a href=\"%s\" target=\"_blank\">More info/tutorial</a>."
+msgstr ""
+
+#: res/newsomatic-all-list.php:3834 res/newsomatic-rules-list.php:3749
+msgid "Full Content Query Type (Optional)"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3880 res/newsomatic-rules-list.php:3795
+#, php-format
+msgid ""
+"Input the search query for full content searching. This can be the ID or "
+"class name you want to search for, the <a href=\"https://regexone.com/\" "
+"target=\"_blank\">regex expression</a> you want to apply or the XPath "
+"Expression you want to query for. <a href=\"%s\" target=\"_blank\">More info/"
+"tutorial</a>."
+msgstr ""
+
+#: res/newsomatic-all-list.php:3893 res/newsomatic-rules-list.php:3808
+msgid ""
+"Input the correct HTML attribute where the image src is found for lazy "
+"loaded images that are scraped from the full content. You can also add a "
+"comma separated list of multiple lazy loading tags. The attribute containing "
+"the actual image URL ex: \\\"data-src\\\", \\\"data-original\\\""
+msgstr ""
+
+#: res/newsomatic-all-list.php:3909 res/newsomatic-rules-list.php:3824
+msgid "Send Cookies With Request"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3921 res/newsomatic-rules-list.php:3836
+msgid "Percentage Of The Full Content To Keep"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3934 res/newsomatic-rules-list.php:3849
+msgid "Get Only The First Found Element"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3951 res/newsomatic-rules-list.php:3866
+msgid "Get Only The Inner Div Content"
+msgstr ""
+
+#: res/newsomatic-all-list.php:3968 res/newsomatic-rules-list.php:3883
+msgid "Source Article Encoding"
+msgstr ""
+
+#: res/newsomatic-all-list.php:4004 res/newsomatic-rules-list.php:3919
+msgid "Strip Images From Content"
+msgstr ""
+
+#: res/newsomatic-all-list.php:4020 res/newsomatic-rules-list.php:3935
+msgid "Strip Article Source From Title"
+msgstr ""
+
+#: res/newsomatic-all-list.php:4035 res/newsomatic-rules-list.php:3951
+msgid "Strip HTML Elements by ID"
+msgstr ""
+
+#: res/newsomatic-all-list.php:4047 res/newsomatic-rules-list.php:3963
+msgid "Strip HTML Elements by Class"
+msgstr ""
+
+#: res/newsomatic-all-list.php:4056 res/newsomatic-rules-list.php:3972
+msgid "Do you want to strip HTML from Full Content?"
+msgstr ""
+
+#: res/newsomatic-all-list.php:4059 res/newsomatic-rules-list.php:3975
+msgid "Strip HTML From Full Content"
+msgstr ""
+
+#: res/newsomatic-all-list.php:4076 res/newsomatic-rules-list.php:3992
+msgid "Alllowed HTML Tags (If Strip HTML Enabled)"
+msgstr ""
+
+#: res/newsomatic-all-list.php:4088 res/newsomatic-rules-list.php:4004
+msgid "Limit Title Word Count"
+msgstr ""
+
+#: res/newsomatic-all-list.php:4097 res/newsomatic-rules-list.php:4013
+msgid ""
+"Do you want to limit the content\\'s length to a specific word count? To "
+"disable this feature, leave this field blank."
+msgstr ""
+
+#: res/newsomatic-all-list.php:4100 res/newsomatic-rules-list.php:4016
+msgid "Limit Content Word Count"
+msgstr ""
+
+#: res/newsomatic-all-list.php:4112 res/newsomatic-rules-list.php:4028
+msgid "Run Regex On Content"
+msgstr ""
+
+#: res/newsomatic-all-list.php:4124 res/newsomatic-rules-list.php:4040
+msgid "Replace Matches From Regex (Content)"
+msgstr ""
+
+#: res/newsomatic-all-list.php:4134 res/newsomatic-rules-list.php:4050
+msgid ""
+"Do you want to set featured image for generated post (to the first image "
+"that was found in the post)? This works only when \\'Get Full Content\\' is "
+"also checked."
+msgstr ""
+
+#: res/newsomatic-all-list.php:4137 res/newsomatic-rules-list.php:4053
+msgid "Auto Get Featured Image"
+msgstr ""
+
+#: res/newsomatic-all-list.php:4153 res/newsomatic-rules-list.php:4069
+msgid "Skip Image Returned By NewsomaticAPI"
+msgstr ""
+
+#: res/newsomatic-all-list.php:4166 res/newsomatic-rules-list.php:4082
+msgid ""
+"Do you want to replace the imported article's image with a royalty free "
+"image? Please note that for this feature to function you must configure the "
+"plugin (add API keys) in the plugin\\'s \\'Main Settings\\' menu -> "
+"\\'Royalty Free Featured Image Importing Options\\' section."
+msgstr ""
+
+#: res/newsomatic-all-list.php:4169 res/newsomatic-rules-list.php:4085
+msgid "Replace Article Image With Royalty Free Image"
+msgstr ""
+
+#: res/newsomatic-all-list.php:4182 res/newsomatic-rules-list.php:4098
+#, php-format
+msgid ""
+"Select the query type you want to search for the featured image. XPath: <a "
+"href=\"%s\" target=\"_blank\">More info/tutorial</a>."
+msgstr ""
+
+#: res/newsomatic-all-list.php:4185 res/newsomatic-rules-list.php:4101
+msgid "Featured Image Query Type"
+msgstr ""
+
+#: res/newsomatic-all-list.php:4231 res/newsomatic-rules-list.php:4147
+#, php-format
+msgid ""
+"Input the search query for featured image searching. This can be the ID or "
+"class name you want to search for, the <a href=\"%s\" target=\"_blank"
+"\">regex expression</a> you want to apply or the XPath Expression you want "
+"to query for. <a href=\"%s\" target=\"_blank\">More info/tutorial</a>. If "
+"you leave this field blank, the featured image will be automatically "
+"detected for you."
+msgstr ""
+
+#: res/newsomatic-all-list.php:4246 res/newsomatic-rules-list.php:4162
+msgid "Default Featured Image List"
+msgstr ""
+
+#: res/newsomatic-all-list.php:4253 res/newsomatic-rules-list.php:4169
+msgid ""
+"Do you want to automatically translate generated content using Google "
+"Translate? If set, this will overwrite the \\'Automatically Translate "
+"Content To\\' option from plugin\\'s \\'Main Settings\\'."
+msgstr ""
+
+#: res/newsomatic-all-list.php:4256 res/newsomatic-rules-list.php:4172
+msgid "Automatically Translate Content To"
+msgstr ""
+
+#: res/newsomatic-all-list.php:4298 res/newsomatic-rules-list.php:4214
+msgid ""
+"Do you want to automatically translate generated content using Google "
+"Translate? Here you can define the translation\\'s source language. If set, "
+"this will overwrite the \\'Automatically Translate Content To\\' option from "
+"plugin\\'s \\'Main Settings\\'."
+msgstr ""
+
+#: res/newsomatic-all-list.php:4301 res/newsomatic-rules-list.php:4217
+msgid "Translation Source Language"
+msgstr ""
+
+#: res/newsomatic-all-list.php:4346 res/newsomatic-rules-list.php:4262
+msgid "Do Not Spin Posts Generated By This Rule"
+msgstr ""
+
+#: res/newsomatic-all-list.php:4363 res/newsomatic-rules-list.php:4279
+msgid "Rank These Keywords For SEO in Articles"
+msgstr ""
+
+#: res/newsomatic-all-list.php:4388 res/newsomatic-rules-list.php:4304
+msgid ""
+"Shortcode for this rule<br/>(to cross-post from this plugin in other "
+"plugins):"
+msgstr ""
+
+#: res/newsomatic-all-list.php:4388 res/newsomatic-rules-list.php:4304
+msgid "Posts Generated:"
+msgstr ""
+
+#: res/newsomatic-all-list.php:4390 res/newsomatic-rules-list.php:4306
+msgid "View Generated Posts"
+msgstr ""
+
+#: res/newsomatic-all-list.php:4392 res/newsomatic-rules-list.php:4308
+msgid "Last Run: "
+msgstr ""
+
+#: res/newsomatic-all-list.php:4398 res/newsomatic-rules-list.php:4314
+msgid "Next Run: "
+msgstr ""
+
+#: res/newsomatic-all-list.php:4410 res/newsomatic-rules-list.php:4325
+msgid "WP-CRON Disabled. Rules will not automatically run!"
+msgstr ""
+
+#: res/newsomatic-all-list.php:4434 res/newsomatic-rules-list.php:4342
+msgctxt "Date Time Format1"
+msgid "Y-m-d H:i:s"
+msgstr ""
+
+#: res/newsomatic-all-list.php:4450 res/newsomatic-rules-list.php:4358
+msgid "Rule Disabled"
+msgstr ""
+
+#: res/newsomatic-all-list.php:4453 res/newsomatic-rules-list.php:4361
+msgid "Local Time: "
+msgstr ""
+
+#: res/newsomatic-helper.php:12
+msgid "Error in page crawling. Please try again/other webpage."
+msgstr ""
+
+#: res/newsomatic-helper.php:17
+msgid "Invalid URL provided: "
+msgstr ""
+
+#: res/newsomatic-helper.php:28
+msgid "URL To Get Info From"
+msgstr ""
+
+#: res/newsomatic-helper.php:32
+msgid "Input the URL you want to get HTML Class, ID or XPATH from."
+msgstr ""
+
+#: res/newsomatic-helper.php:55
+msgid "Query Type"
+msgstr ""
+
+#: res/newsomatic-helper.php:59
+msgid ""
+"Input the query type that you want to apply for the crawled article. This "
+"should be the same as the 'Query Type' settings field from the plugin "
+"settings."
+msgstr ""
+
+#: res/newsomatic-helper.php:66
+msgid "Get Clicked Element HTML Class"
+msgstr ""
+
+#: res/newsomatic-helper.php:68
+msgid "Get Clicked Element HTML ID"
+msgstr ""
+
+#: res/newsomatic-helper.php:70
+msgid "Get Clicked Element XPATH Expression"
+msgstr ""
+
+#: res/newsomatic-helper.php:81
+msgid "Crawled Content"
+msgstr ""
+
+#: res/newsomatic-helper.php:85
+msgid "Here you can see the crawled webpage content."
+msgstr ""
+
+#: res/newsomatic-logs.php:53
+msgid "System Info"
+msgstr ""
+
+#: res/newsomatic-logs.php:57
+msgid "Some general system information."
+msgstr ""
+
+#: res/newsomatic-logs.php:65
+msgid "User Agent:"
+msgstr ""
+
+#: res/newsomatic-logs.php:69
+msgid "Web Server:"
+msgstr ""
+
+#: res/newsomatic-logs.php:73
+msgid "PHP Version:"
+msgstr ""
+
+#: res/newsomatic-logs.php:77
+msgid "PHP Max POST Size:"
+msgstr ""
+
+#: res/newsomatic-logs.php:81
+msgid "PHP Max Upload Size:"
+msgstr ""
+
+#: res/newsomatic-logs.php:85
+msgid "PHP Memory Limit:"
+msgstr ""
+
+#: res/newsomatic-logs.php:89
+msgid "PHP DateTime Class:"
+msgstr ""
+
+#: res/newsomatic-logs.php:90 res/newsomatic-logs.php:94
+msgid "Available"
+msgstr ""
+
+#: res/newsomatic-logs.php:90 res/newsomatic-logs.php:94
+msgid "Not available"
+msgstr ""
+
+#: res/newsomatic-logs.php:93
+msgid "PHP Curl:"
+msgstr ""
+
+#: res/newsomatic-logs.php:104
+msgid "Rules Currently Running"
+msgstr ""
+
+#: res/newsomatic-logs.php:108
+msgid "These rules are currently running on your server."
+msgstr ""
+
+#: res/newsomatic-logs.php:133
+msgid "No rules are running right now"
+msgstr ""
+
+#: res/newsomatic-logs.php:138
+msgid "Are you sure you want to clear the running list?"
+msgstr ""
+
+#: res/newsomatic-logs.php:139
+msgid "Caution! This is for debugging purpose only!"
+msgstr ""
+
+#: res/newsomatic-logs.php:139
+msgid "Clear Running Rules List"
+msgstr ""
+
+#: res/newsomatic-logs.php:147 res/newsomatic-logs.php:157
+msgid "Restore Plugin Default Settings"
+msgstr ""
+
+#: res/newsomatic-logs.php:151
+msgid ""
+"Hit this button and the plugin settings will be restored to their default "
+"values. Warning! All settings will be lost!"
+msgstr ""
+
+#: res/newsomatic-logs.php:157
+msgid "Are you sure you want to restore the default plugin settings?"
+msgstr ""
+
+#: res/newsomatic-logs.php:163
+msgid "Delete All Posts Generated by this Plugin"
+msgstr ""
+
+#: res/newsomatic-logs.php:167
+msgid "Hit this button and all posts generated by this plugin will be deleted!"
+msgstr ""
+
+#: res/newsomatic-logs.php:173
+msgid ""
+"Are you sure you want to delete all generated posts? This can take a while, "
+"please wait until it finishes."
+msgstr ""
+
+#: res/newsomatic-logs.php:173
+msgid "Delete All Generated Posts"
+msgstr ""
+
+#: res/newsomatic-logs.php:179
+msgid "Refresh Plugin News Sources"
+msgstr ""
+
+#: res/newsomatic-logs.php:183
+msgid ""
+"Hit this button you will get the latest news sources published by "
+"NewsomaticAPI."
+msgstr ""
+
+#: res/newsomatic-logs.php:194
+msgid "Activity Log"
+msgstr ""
+
+#: res/newsomatic-logs.php:198
+msgid ""
+"This is the main log of your plugin. Here will be listed every single "
+"instance of the rules you run or are automatically run by schedule jobs (if "
+"you enable logging, in the plugin configuration)."
+msgstr ""
+
+#: res/newsomatic-logs.php:212
+msgid "Log empty"
+msgstr ""
+
+#: res/newsomatic-logs.php:218
+msgid "Are you sure you want to delete all logs?"
+msgstr ""
+
+#: res/newsomatic-logs.php:219
+msgid "Delete Logs"
+msgstr ""
+
+#: res/newsomatic-main.php:965
+#, php-format
+msgid ""
+"Did you see our new <a href=\"%s\" target=\"_blank\">recommendations page</"
+"a>? It will help you increase your passive earnings!"
+msgstr ""
+
+#: res/newsomatic-main.php:981
+msgid "Plugin registration failed!"
+msgstr ""
+
+#: res/newsomatic-main.php:990
+msgid "Plugin registration successful!"
+msgstr ""
+
+#: res/newsomatic-main.php:1011
+msgid "Main Switch:"
+msgstr ""
+
+#: res/newsomatic-main.php:1016
+msgid "Enable or disable this plugin. This acts like a main switch."
+msgstr ""
+
+#: res/newsomatic-main.php:1034
+msgid ""
+"This feature of the plugin is disabled! Please enable it from the above "
+"switch."
+msgstr ""
+
+#: res/newsomatic-main.php:1046
+msgid "Plugin Registration Info - Automatic Updates Enabled:"
+msgstr ""
+
+#: res/newsomatic-main.php:1048
+msgid "Item Name:"
+msgstr ""
+
+#: res/newsomatic-main.php:1050
+msgid "Item ID:"
+msgstr ""
+
+#: res/newsomatic-main.php:1053
+msgid "Created At:"
+msgstr ""
+
+#: res/newsomatic-main.php:1056
+msgid "Buyer Name:"
+msgstr ""
+
+#: res/newsomatic-main.php:1059
+msgid "License Type:"
+msgstr ""
+
+#: res/newsomatic-main.php:1062
+msgid "Supported Until:"
+msgstr ""
+
+#: res/newsomatic-main.php:1065
+msgid "Revoke License"
+msgstr ""
+
+#: res/newsomatic-main.php:1073
+msgid ""
+"This is a trial version of the plugin. Automatic updates for this plugin are "
+"disabled. Please activate the plugin from below, so you can benefit of "
+"automatic updates for it!"
+msgstr ""
+
+#: res/newsomatic-main.php:1081
+#, php-format
+msgid ""
+"Please input your Envato purchase code, to enable automatic updates in the "
+"plugin. To get your purchase code, please follow <a href=\"%s\" target="
+"\"_blank\">this tutorial</a>. Info submitted to the registration server "
+"consists of: purchase code, site URL, site name, admin email. All these data "
+"will be used strictly for registration purposes."
+msgstr ""
+
+#: res/newsomatic-main.php:1085
+msgid "Register Envato Purchase Code To Enable Automatic Updates:"
+msgstr ""
+
+#: res/newsomatic-main.php:1087
+msgid "Envato Purchase Code"
+msgstr ""
+
+#: res/newsomatic-main.php:1091
+msgid "Register Purchase Code"
+msgstr ""
+
+#: res/newsomatic-main.php:1106
+msgid "Tips for using the plugin:"
+msgstr ""
+
+#: res/newsomatic-main.php:1108
+#, php-format
+msgid ""
+"Need help configuring this plugin? Please check out it's <a href=\"%s\" "
+"target=\"_blank\">video tutorial</a>."
+msgstr ""
+
+#: res/newsomatic-main.php:1110
+#, php-format
+msgid ""
+"Having issues with the plugin? Please be sure to check out our <a href=\"%s"
+"\" target=\"_blank\">knowledge-base</a> before you contact <a href=\"%s\" "
+"target=\"_blank\">our support</a>!"
+msgstr ""
+
+#: res/newsomatic-main.php:1111
+#, php-format
+msgid ""
+"Do you enjoy our plugin? Please give it a <a href=\"%s\" target=\"_blank"
+"\">rating</a>  on CodeCanyon, or check <a href=\"%s\" target=\"_blank\">our "
+"website</a>  for other cool plugins."
+msgstr ""
+
+#: res/newsomatic-main.php:1112
+msgid "Are you looking for a cool new theme that best fits this plugin?"
+msgstr ""
+
+#: res/newsomatic-main.php:1112
+msgid "Click here for our theme related recommendation"
+msgstr ""
+
+#: res/newsomatic-main.php:1123
+msgid ""
+"You are on the demo site for the Newsomatic plugin, only here, you can test "
+"the plugin using the below API key (50 API request limit):"
+msgstr ""
+
+#: res/newsomatic-main.php:1136
+msgid ""
+"Do you want to switch to NewsAPI instead of NewsomaticAPI? This settings is "
+"for testing purposes only."
+msgstr ""
+
+#: res/newsomatic-main.php:1140
+msgid "Switch to NewsAPI"
+msgstr ""
+
+#: res/newsomatic-main.php:1154
+msgid "API Key Setup:"
+msgstr ""
+
+#: res/newsomatic-main.php:1169
+#, php-format
+msgid ""
+"Insert your NewsomaticAPI API Key. Get one <a href='%s' "
+"target='_blank'>here</a>. Alternatively, you can also use an API key from "
+"RapidAPI, after you subscribed to <a href='%s' target='_blank'>NewsomaticAPI "
+"on RapidAPI</a>."
+msgstr ""
+
+#: res/newsomatic-main.php:1173
+msgid "NewsomaticAPI API Key:"
+msgstr ""
+
+#: res/newsomatic-main.php:1178 res/newsomatic-main.php:1350
+msgid "Remaining API Calls For Today: "
+msgstr ""
+
+#: res/newsomatic-main.php:1187
+msgid "Please insert your NewsomaticAPI API Key"
+msgstr ""
+
+#: res/newsomatic-main.php:1202
+#, php-format
+msgid ""
+"Insert your NewsAPI API Key. Get one <a href='%s' target='_blank'>here</a>."
+msgstr ""
+
+#: res/newsomatic-main.php:1206
+msgid "NewsAPI API Key:"
+msgstr ""
+
+#: res/newsomatic-main.php:1213
+msgid "Please insert your NewsAPI API Key"
+msgstr ""
+
+#: res/newsomatic-main.php:1223
+msgid "Other API Keys:"
+msgstr ""
+
+#: res/newsomatic-main.php:1232
+#, php-format
+msgid ""
+"If you wish to use Microsoft for translation, you must enter first a "
+"Microsoft 'Access Key'. Learn how to get one <a href='%s' "
+"target='_blank'>here</a>. If you enter a value here, new options will become "
+"available in the 'Automatically Translate Content To' and 'Source Language' "
+"fields."
+msgstr ""
+
+#: res/newsomatic-main.php:1236
+msgid "Microsoft Translator Access Key (Optional)"
+msgstr ""
+
+#: res/newsomatic-main.php:1241
+msgid "Access key (optional)"
+msgstr ""
+
+#: res/newsomatic-main.php:1253
+#, php-format
+msgid ""
+"If you selected a specific region in your Azure Microsoft account, you must "
+"enter it here. Learn more <a href='%s' target='_blank'>here</a>. The default "
+"is global."
+msgstr ""
+
+#: res/newsomatic-main.php:1257
+msgid "Microsoft Translator Region Code (Optional)"
+msgstr ""
+
+#: res/newsomatic-main.php:1262
+msgid "global"
+msgstr ""
+
+#: res/newsomatic-main.php:1274
+#, php-format
+msgid ""
+"If you wish to use the official version of the Google Translator API for "
+"translation, you must enter first a Google API Key. Get one <a href='%s' "
+"target='_blank'>here</a>.  Please enable the 'Cloud Translation API' in <a "
+"href='%s' target='_blank'>Google Cloud Console</a>. Translation will work "
+"even without even without entering an API key here, but in this case, an "
+"unofficial Google Translate API will be used."
+msgstr ""
+
+#: res/newsomatic-main.php:1278
+msgid "Google Translator API Key (Optional)"
+msgstr ""
+
+#: res/newsomatic-main.php:1283
+msgid "API Key (optional)"
+msgstr ""
+
+#: res/newsomatic-main.php:1295
+#, php-format
+msgid ""
+"If you wish to use DeepL for translation, you must enter first a DeepL "
+"'Authentication Key'. Get one <a href='%s' target='_blank'>here</a>. If you "
+"enter a value here, new options will become available in the 'Automatically "
+"Translate Content To' and 'Source Language' fields."
+msgstr ""
+
+#: res/newsomatic-main.php:1299
+msgid "DeepL Translator Authentication Key (Optional)"
+msgstr ""
+
+#: res/newsomatic-main.php:1304
+msgid "Auth key (optional)"
+msgstr ""
+
+#: res/newsomatic-main.php:1316
+msgid ""
+"Check this checkbox if the above API key is a DeepL free plan key. If it is "
+"a PRO key, please uncheck this checkbox."
+msgstr ""
+
+#: res/newsomatic-main.php:1320
+msgid "The Above Is A DeepL Free API Key:"
+msgstr ""
+
+#: res/newsomatic-main.php:1332
+msgid "Scraping Enhancements:"
+msgstr ""
+
+#: res/newsomatic-main.php:1341
+#, php-format
+msgid ""
+"If you wish to use the HeadlessBrowserAPI to render JavaScript generated "
+"content for your scraped pages, enter your API key here. Get one <a "
+"href='%s' target='_blank'>here</a>. If you enter a value here, new options "
+"will become available in the 'Use PhantomJs/Puppeteer/Tor To Parse "
+"JavaScript On Pages' in importing rule settings."
+msgstr ""
+
+#: res/newsomatic-main.php:1345
+msgid "HeadlessBrowserAPI Key (Optional)"
+msgstr ""
+
+#: res/newsomatic-main.php:1361
+msgid "API key"
+msgstr ""
+
+#: res/newsomatic-main.php:1369
+msgid "Save Info"
+msgstr ""
+
+#: res/newsomatic-main.php:1382
+msgid "After you entered a NewsomaticAPI Key, you can start creating rules:"
+msgstr ""
+
+#: res/newsomatic-main.php:1386
+msgid "Blog Posts"
+msgstr ""
+
+#: res/newsomatic-main.php:1392
+msgid ""
+"Posts will be generated from the latest entries in NewsomaticAPI's public "
+"feed."
+msgstr ""
+
+#: res/newsomatic-main.php:1408
+msgid "Plugin Options:"
+msgstr ""
+
+#: res/newsomatic-main.php:1417
+msgid ""
+"Choose if you want to skip checking for duplicate posts when publishing new "
+"posts (check this if you have 10000+ posts on your blog and you are "
+"experiencing slowdows when the plugin is running. If you check this, "
+"duplicate posts will be posted! So use it only when it is necesarry."
+msgstr ""
+
+#: res/newsomatic-main.php:1421
+msgid "Do Not Check For Duplicate Posts:"
+msgstr ""
+
+#: res/newsomatic-main.php:1437
+msgid "Choose if you want to check duplicate posts by title instead of URL."
+msgstr ""
+
+#: res/newsomatic-main.php:1441
+msgid "Check Duplicate Posts By Title Instead of URL:"
+msgstr ""
+
+#: res/newsomatic-main.php:1456
+msgid ""
+"Check this to force the plugin not check generated posts in rule settings. "
+"Improves performance if you have 100k posts generated using this plugin."
+msgstr ""
+
+#: res/newsomatic-main.php:1460
+msgid "Do Not Check Generated Posts In Rule Settings:"
+msgstr ""
+
+#: res/newsomatic-main.php:1474
+msgid ""
+"Check this to force the plugin to make draft posts before they would be "
+"fully published. This can help you you use other third party plugins with "
+"the automatically published posts."
+msgstr ""
+
+#: res/newsomatic-main.php:1478
+msgid "Draft Posts First, And Publish Them Afterwards:"
+msgstr ""
+
+#: res/newsomatic-main.php:1492
+msgid ""
+"Set if the plugin should query NewsomaticAPI with maximum sized requests. If "
+"you uncheck this checkbox, the plugin will query the API strictly with the "
+"queried post count."
+msgstr ""
+
+#: res/newsomatic-main.php:1496
+msgid "Query As Many Post As Possible From NewsomaticAPI:"
+msgstr ""
+
+#: res/newsomatic-main.php:1510
+msgid ""
+"This is a debug feature (experimental). Input a cipher list, if you get this "
+"(or similar) error in curl requests: 'gnutls_handshake() failed: A TLS "
+"packet with unexpected length was received.'"
+msgstr ""
+
+#: res/newsomatic-main.php:1514
+msgid "Allow Custom Ciphers In Curl Requests:"
+msgstr ""
+
+#: res/newsomatic-main.php:1517
+msgid "Input a cipher list"
+msgstr ""
+
+#: res/newsomatic-main.php:1528
+msgid ""
+"Select a secret word that will be used when you run the plugin manually/by "
+"cron. See details about this below."
+msgstr ""
+
+#: res/newsomatic-main.php:1532
+msgid "Secret Word Used For Manual/Cron Running:"
+msgstr ""
+
+#: res/newsomatic-main.php:1535
+msgid "Input a secret word"
+msgstr ""
+
+#: res/newsomatic-main.php:1542
+msgid ""
+"If you want to schedule the cron event manually in your server, you should "
+"schedule this address:"
+msgstr ""
+
+#: res/newsomatic-main.php:1542
+msgid "You must enter a secret word above, to use this feature."
+msgstr ""
+
+#: res/newsomatic-main.php:1542 res/newsomatic-main.php:4600
+msgid "Example:"
+msgstr ""
+
+#: res/newsomatic-main.php:1553
+#, php-format
+msgid ""
+"Choose this option if you do not want to open links created by the "
+"%%item_read_more_button%% shortcode in a new tab."
+msgstr ""
+
+#: res/newsomatic-main.php:1557
+msgid "Do Not Open 'Read More' Links In a New Tab:"
+msgstr ""
+
+#: res/newsomatic-main.php:1573
+msgid ""
+"Choose this option if you wish to import content from any source - by "
+"default, the plugin will filter (and not import content from) sources that "
+"are know to make DMCA take down requests for their reposted content. "
+"Currently on the 'no import' list: onemileatatime.com"
+msgstr ""
+
+#: res/newsomatic-main.php:1577
+msgid "Disable DMCA Protection:"
+msgstr ""
+
+#: res/newsomatic-main.php:1593
+msgid ""
+"Choose if you want to show an extended information metabox under every "
+"plugin generated post."
+msgstr ""
+
+#: res/newsomatic-main.php:1597
+msgid "Show Extended Item Information Metabox in Post:"
+msgstr ""
+
+#: res/newsomatic-main.php:1609
+msgid "General Plugin Options:"
+msgstr ""
+
+#: res/newsomatic-main.php:1616
+msgid ""
+"Check this to disable additional content created by the plugin for the "
+"backend of the site."
+msgstr ""
+
+#: res/newsomatic-main.php:1620
+msgid "Disable Additional Back-End Content:"
+msgstr ""
+
+#: res/newsomatic-main.php:1634
+msgid "Do you want to enable logging for rules?"
+msgstr ""
+
+#: res/newsomatic-main.php:1638
+msgid "Enable Logging for Rules:"
+msgstr ""
+
+#: res/newsomatic-main.php:1654
+msgid ""
+"Do you want to enable detailed logging for rules? Note that this will "
+"dramatically increase the size of the log this plugin generates."
+msgstr ""
+
+#: res/newsomatic-main.php:1658
+msgid "Enable Detailed Logging for Rules:"
+msgstr ""
+
+#: res/newsomatic-main.php:1676
+msgid "Choose if you want to automatically clear logs after a period of time."
+msgstr ""
+
+#: res/newsomatic-main.php:1680
+msgid "Automatically Clear Logs After:"
+msgstr ""
+
+#: res/newsomatic-main.php:1695
+msgid "Once a month"
+msgstr ""
+
+#: res/newsomatic-main.php:1700
+msgid "Once a week"
+msgstr ""
+
+#: res/newsomatic-main.php:1705
+msgid "Once a day"
+msgstr ""
+
+#: res/newsomatic-main.php:1710
+msgid "Twice a day"
+msgstr ""
+
+#: res/newsomatic-main.php:1715
+msgid "Once an hour"
+msgstr ""
+
+#: res/newsomatic-main.php:1726
+msgid "Set the user-agent to use when downloading web pages."
+msgstr ""
+
+#: res/newsomatic-main.php:1730
+msgid "User-Agent To Use When Getting Web Pages:"
+msgstr ""
+
+#: res/newsomatic-main.php:1735
+msgid "Input a user agent"
+msgstr ""
+
+#: res/newsomatic-main.php:1747
+msgid ""
+"If you want to use a proxy to crawl webpages, input it's address here. "
+"Required format: IP Address/URL:port. You can input a comma separated list "
+"of proxies. If you are using HeadlessBrowserAPI, add 'disabled' into this "
+"field to disable automatic proxy rotation of the API."
+msgstr ""
+
+#: res/newsomatic-main.php:1751
+msgid "Web Proxy Address List:"
+msgstr ""
+
+#: res/newsomatic-main.php:1756
+msgid "Input web proxy url"
+msgstr ""
+
+#: res/newsomatic-main.php:1766
+msgid ""
+"If you want to use a proxy to crawl webpages, and it requires "
+"authentification, input it's authentification details here. You can input a "
+"comma separated list of users/passwords. If a proxy does not have a user/"
+"password, please leave it blank in the list. Example: user1:pass1,user2:"
+"pass2,,user4:pass4."
+msgstr ""
+
+#: res/newsomatic-main.php:1770
+msgid "Web Proxy Authentification:"
+msgstr ""
+
+#: res/newsomatic-main.php:1775
+msgid "Input web proxy auth"
+msgstr ""
+
+#: res/newsomatic-main.php:1785
+msgid ""
+"Set the timeout (in seconds) for every rule running. I recommend that you "
+"leave this field at it's default value (3600)."
+msgstr ""
+
+#: res/newsomatic-main.php:1789
+msgid "Timeout for Rule Running (seconds):"
+msgstr ""
+
+#: res/newsomatic-main.php:1794
+msgid "Input rule timeout in seconds"
+msgstr ""
+
+#: res/newsomatic-main.php:1806
+msgid ""
+"Set the timeout (in milliseconds) between each subsequent call to the "
+"crawled website. Increase this value if the website has a anti-crawling "
+"mechanism active. Here you can also input a pair of values, separated by a "
+"comma (ex: 300,500). In this case, a random timeout will be selected, "
+"between the two values you specified. This is a global timeout, will be "
+"applied to all created importing rules, however, this will be overwritten by "
+"the \\'Delay Between Multiple Requests\\' from each importing rule settings"
+msgstr ""
+
+#: res/newsomatic-main.php:1810
+msgid "Delay Between Multiple Requests - Global Settings - (milliseconds):"
+msgstr ""
+
+#: res/newsomatic-main.php:1815
+msgid "Input request delay"
+msgstr ""
+
+#: res/newsomatic-main.php:1825
+msgid ""
+"Choose if you want to receive a summary of the rule running in an email."
+msgstr ""
+
+#: res/newsomatic-main.php:1829
+msgid "Send Rule Running Summary in Email:"
+msgstr ""
+
+#: res/newsomatic-main.php:1845
+msgid ""
+"Input the email adress where you want to send the report. You can input more "
+"email addresses, separated by commas."
+msgstr ""
+
+#: res/newsomatic-main.php:1849
+msgid "Email Address:"
+msgstr ""
+
+#: res/newsomatic-main.php:1854
+msgid "Input a valid email adress"
+msgstr ""
+
+#: res/newsomatic-main.php:1877
+#, php-format
+msgid ""
+"If you wish to shorten outgoing links using shorte.st, please enter your API "
+"token here. To sign up for a new account, click <a href='%s' "
+"target='_blank'>here</a>. To get your API token after you have signed up, "
+"click <a href='%s' target='_blank'>here</a>. To disable URL shortening, "
+"leave this field blank."
+msgstr ""
+
+#: res/newsomatic-main.php:1881
+msgid "Shorte.st API Token"
+msgstr ""
+
+#: res/newsomatic-main.php:1886
+msgid "Shorte.st API token"
+msgstr ""
+
+#: res/newsomatic-main.php:1896
+msgid ""
+"Choose if you want to automatically shorten URLs using Bitly URL shortener."
+msgstr ""
+
+#: res/newsomatic-main.php:1900
+msgid "Automatically Shorten URLs Using Bit.ly:"
+msgstr ""
+
+#: res/newsomatic-main.php:1916
+#, php-format
+msgid ""
+"Insert your Bitly API generic access token. To register at Bitly, please "
+"visit <a href='%s' target='_blank'>this link</a>. To get a generic access "
+"token, please click the menu icon on the top right of the web (after you log "
+"in) -> click the '>' sign next to your account name -> click the 'Generic "
+"Access Token' menu entry -> enter your password in the 'Password' field and "
+"click 'Generate Token'. Copy the resulting token here. To lean more about "
+"this, please check <a href='%s' target='_blank'>this video</a>."
+msgstr ""
+
+#: res/newsomatic-main.php:1920
+msgid "Bitly API Generic Access Token:"
+msgstr ""
+
+#: res/newsomatic-main.php:1925
+msgid "Please insert your Bitly API Generic Access Token"
+msgstr ""
+
+#: res/newsomatic-main.php:1935
+msgid ""
+"Select if you want to link generated post titles to source articles. This "
+"option will be overwritten if you set it also from rule settings."
+msgstr ""
+
+#: res/newsomatic-main.php:1939
+msgid "Link Generated Post Titles To Source Articles:"
+msgstr ""
+
+#: res/newsomatic-main.php:1955
+msgid ""
+"Select if you want to add a 'rel=canonical' meta tag to generated posts, "
+"linking back to the source of the article."
+msgstr ""
+
+#: res/newsomatic-main.php:1959
+msgid "Add \"rel=canonical\" Meta Tag To Generated Posts:"
+msgstr ""
+
+#: res/newsomatic-main.php:1975
+msgid ""
+"Select if you want to add a <meta name='robots' content='noindex,follow'/> "
+"meta tag to generated posts, telling search engines to not index the posts "
+"generated by this plugin."
+msgstr ""
+
+#: res/newsomatic-main.php:1979
+msgid "Add Noindex Robots Meta Tag To Generated Posts:"
+msgstr ""
+
+#: res/newsomatic-main.php:1995
+#, php-format
+msgid ""
+"Set the date format for the %%item_date%% shortcode. Example: Y-m-d H:i:s . "
+"You can read more about date formats, <a href='%s' target='_blank'>here</a>. "
+"To leave this at it's default value, leave this field blank."
+msgstr ""
+
+#: res/newsomatic-main.php:1999
+#, php-format
+msgid "Date Format for the %%item_date%% Shortcode:"
+msgstr ""
+
+#: res/newsomatic-main.php:2002
+msgid "Add a date format"
+msgstr ""
+
+#: res/newsomatic-main.php:2012
+msgid ""
+"Choose if you want to skip full content importing for posts that don't have "
+"the class/id defined in the 'HTML Search Query String' rule parameter. If "
+"you uncheck this, the automatic text detection will be used to extract full "
+"content from the article. This checkbox is useful for some video CNN "
+"articles, which have different article structure from normal textual "
+"articles, and can have broken content imported from them."
+msgstr ""
+
+#: res/newsomatic-main.php:2016
+msgid ""
+"Use Original Post Content For Posts That Don't Match Defined Importing HTML "
+"Class/ID:"
+msgstr ""
+
+#: res/newsomatic-main.php:2032
+msgid ""
+"Choose if you want to full skip posts that don't match the html class or id "
+"you defined. This will work only if the previous checkbox is checked."
+msgstr ""
+
+#: res/newsomatic-main.php:2036
+msgid "Skip Posts That Don't Match Defined Importing HTML Class/ID:"
+msgstr ""
+
+#: res/newsomatic-main.php:2052
+msgid ""
+"Choose if you want to skip posts that don't get extracted correctly (full "
+"content)."
+msgstr ""
+
+#: res/newsomatic-main.php:2056
+msgid "Skip Posts That Are Not Extracted Correctly:"
+msgstr ""
+
+#: res/newsomatic-main.php:2072
+msgid ""
+"Choose if you the plugin to generate new categories if the category does not "
+"already exist."
+msgstr ""
+
+#: res/newsomatic-main.php:2076
+msgid "Do Not Generate Inexistent Categories for New Posts:"
+msgstr ""
+
+#: res/newsomatic-main.php:2092
+msgid "Choose if you want to strip links from the generated post content."
+msgstr ""
+
+#: res/newsomatic-main.php:2096
+msgid "Strip Links From Generated Post Content:"
+msgstr ""
+
+#: res/newsomatic-main.php:2112
+msgid ""
+"Choose if you want to strip internal links only from the imported post "
+"content (keep links that were added afterwards."
+msgstr ""
+
+#: res/newsomatic-main.php:2116
+msgid "Strip Website Internal Links Only:"
+msgstr ""
+
+#: res/newsomatic-main.php:2132
+msgid ""
+"Do you want to try to fix html tags that were incorrectly grabbed from "
+"source?"
+msgstr ""
+
+#: res/newsomatic-main.php:2136
+msgid "Try To Fix Html Tags From Generated Posts Content:"
+msgstr ""
+
+#: res/newsomatic-main.php:2152
+msgid "Choose if you want to strip JavaScript from the crawled post content."
+msgstr ""
+
+#: res/newsomatic-main.php:2156
+msgid "Strip JavaScript From Crawled Content:"
+msgstr ""
+
+#: res/newsomatic-main.php:2176
+msgid "Strip HTML Elements from Final Content by ID:"
+msgstr ""
+
+#: res/newsomatic-main.php:2179
+msgid "Ids list"
+msgstr ""
+
+#: res/newsomatic-main.php:2195
+msgid "Strip HTML Elements from Final Content by Class:"
+msgstr ""
+
+#: res/newsomatic-main.php:2198
+msgid "Class list"
+msgstr ""
+
+#: res/newsomatic-main.php:2210
+#, php-format
+msgid ""
+"Set the 'Read More' button text. This button is generated using the "
+"%%item_read_more_button%% shortcode. If you leave this field blank, the "
+"default value is 'Read More'."
+msgstr ""
+
+#: res/newsomatic-main.php:2214
+msgid "'Read More' Button Text:"
+msgstr ""
+
+#: res/newsomatic-main.php:2231
+#, php-format
+msgid ""
+"Do you want to automatically translate generated content using? This "
+"settings is overwritten if you define translation settings from within the "
+"importing rule settings. If you wish to use DeepL for translation, you must "
+"enter first a DeepL 'Authentication Key'. Get one <a href='%s' "
+"target='_blank'>here</a>."
+msgstr ""
+
+#: res/newsomatic-main.php:2235
+msgid "Automatically Translate Content To (Global):"
+msgstr ""
+
+#: res/newsomatic-main.php:2286
+msgid ""
+"Do you want to automatically translate generated content using Google "
+"Translate? Here you can define the translation's source language. This "
+"settings is overwritten if you define translation settings from within the "
+"importing rule settings."
+msgstr ""
+
+#: res/newsomatic-main.php:2290
+msgid "Translation Source Language (Global):"
+msgstr ""
+
+#: res/newsomatic-main.php:2341
+msgid ""
+"Do you want to spin/translate only the imported article's title and content "
+"(not the whole post content - with additional content added to it from "
+"plugin settings)?"
+msgstr ""
+
+#: res/newsomatic-main.php:2345
+msgid "Spin/Translate Only Imported Article Title/Content:"
+msgstr ""
+
+#: res/newsomatic-main.php:2361
+msgid ""
+"Choose if you want to import also posts that were not translated correctly - "
+"they will be imported in original language. If you check this, posts that "
+"failed translation will be not imported."
+msgstr ""
+
+#: res/newsomatic-main.php:2365
+msgid "Skip Posts That Did Not Translate Correctly:"
+msgstr ""
+
+#: res/newsomatic-main.php:2381
+msgid ""
+"Do you want to keep original link sources after translation? If you uncheck "
+"this, links will point to Google Translate version of the linked website."
+msgstr ""
+
+#: res/newsomatic-main.php:2385
+msgid "Keep Original Link Source After Translation:"
+msgstr ""
+
+#: res/newsomatic-main.php:2398
+msgid "Don't have an 'The Best Spinner' account yet? Click here to get one:"
+msgstr ""
+
+#: res/newsomatic-main.php:2398 res/newsomatic-main.php:2401
+#: res/newsomatic-main.php:2404 res/newsomatic-main.php:2407
+msgid "get a new account now!"
+msgstr ""
+
+#: res/newsomatic-main.php:2401
+msgid "Don't have an 'WordAI' account yet? Click here to get one:"
+msgstr ""
+
+#: res/newsomatic-main.php:2404
+msgid "Don't have an 'SpinRewriter' account yet? Click here to get one:"
+msgstr ""
+
+#: res/newsomatic-main.php:2407
+msgid "Don't have an 'SpinnerChief' account yet? Click here to get one:"
+msgstr ""
+
+#: res/newsomatic-main.php:2417
+msgid ""
+"Do you want to randomize text by changing words of a text with synonyms "
+"using one of the listed methods? Note that this is an experimental feature "
+"and can in some instances drastically increase the rule running time!"
+msgstr ""
+
+#: res/newsomatic-main.php:2421
+msgid "Spin Text Using Word Synonyms (for automatically generated posts only):"
+msgstr ""
+
+#: res/newsomatic-main.php:2438 res/newsomatic-main.php:2446
+#: res/newsomatic-main.php:2454 res/newsomatic-main.php:2462
+msgid "High Quality - Paid"
+msgstr ""
+
+#: res/newsomatic-main.php:2469
+msgid "Built-in - Medium Quality - Free"
+msgstr ""
+
+#: res/newsomatic-main.php:2480
+msgid "Do you want to not spin title (only content)?"
+msgstr ""
+
+#: res/newsomatic-main.php:2484
+msgid "Do Not Spin Title:"
+msgstr ""
+
+#: res/newsomatic-main.php:2502
+msgid ""
+"Select a list of comma separated words that you do not wish to spin (for "
+"built-in spinners and SpinRewriter)."
+msgstr ""
+
+#: res/newsomatic-main.php:2506
+msgid "Excluded Word List (For Built-In Spinner and SpinRewriter):"
+msgstr ""
+
+#: res/newsomatic-main.php:2513
+msgid "word1, word2, word3"
+msgstr ""
+
+#: res/newsomatic-main.php:2523
+msgid ""
+"Do you want to automatically add the keywords found int he title to the spin "
+"exclusion list?"
+msgstr ""
+
+#: res/newsomatic-main.php:2527
+msgid "Automatically Add Title Keywords To Excluded List:"
+msgstr ""
+
+#: res/newsomatic-main.php:2545
+msgid ""
+"Set WordAI spinning uniqueness. Depend on how conservative vs adventurous "
+"you want your rewrite to be."
+msgstr ""
+
+#: res/newsomatic-main.php:2549
+msgid "WordAI Spinning Uniqueness:"
+msgstr ""
+
+#: res/newsomatic-main.php:2558
+msgid "More Conservative"
+msgstr ""
+
+#: res/newsomatic-main.php:2562
+msgid "Regular"
+msgstr ""
+
+#: res/newsomatic-main.php:2566
+msgid "More Adventurous"
+msgstr ""
+
+#: res/newsomatic-main.php:2577
+msgid "Select the language of the content that will be processed."
+msgstr ""
+
+#: res/newsomatic-main.php:2581
+msgid "SpinnerChief Spinning Language:"
+msgstr ""
+
+#: res/newsomatic-main.php:2598
+msgid "Belarusian"
+msgstr ""
+
+#: res/newsomatic-main.php:2610 res/newsomatic-main.php:3800
+msgid "Danish"
+msgstr ""
+
+#: res/newsomatic-main.php:2618
+msgid "Filipino"
+msgstr ""
+
+#: res/newsomatic-main.php:2622
+msgid "Finnish"
+msgstr ""
+
+#: res/newsomatic-main.php:2686 res/newsomatic-main.php:3875
+msgid "Turkish"
+msgstr ""
+
+#: res/newsomatic-main.php:2703
+msgid "Insert your user name on premium spinner service."
+msgstr ""
+
+#: res/newsomatic-main.php:2707
+msgid "Premium Spinner Service User Name/Email:"
+msgstr ""
+
+#: res/newsomatic-main.php:2714
+msgid "Please insert your premium text spinner service user name"
+msgstr ""
+
+#: res/newsomatic-main.php:2724
+msgid "Insert your password for the selected premium spinner service."
+msgstr ""
+
+#: res/newsomatic-main.php:2728
+msgid "Premium Spinner Service Password/API Key:"
+msgstr ""
+
+#: res/newsomatic-main.php:2735
+msgid "Please insert your premium text spinner service password"
+msgstr ""
+
+#: res/newsomatic-main.php:2741
+msgid "Posting Restrictions:"
+msgstr ""
+
+#: res/newsomatic-main.php:2750
+msgid ""
+"Set the minimum word count for post titles. Items that have less than this "
+"count will not be published. To disable this feature, leave this field blank."
+msgstr ""
+
+#: res/newsomatic-main.php:2754
+msgid "Minimum Title Word Count (Skip Post Otherwise):"
+msgstr ""
+
+#: res/newsomatic-main.php:2759
+msgid "Input the minimum word count for the title"
+msgstr ""
+
+#: res/newsomatic-main.php:2771
+msgid ""
+"Set the maximum word count for post titles. Items that have more than this "
+"count will not be published. To disable this feature, leave this field blank."
+msgstr ""
+
+#: res/newsomatic-main.php:2775
+msgid "Maximum Title Word Count (Skip Post Otherwise):"
+msgstr ""
+
+#: res/newsomatic-main.php:2780
+msgid "Input the maximum word count for the title"
+msgstr ""
+
+#: res/newsomatic-main.php:2792
+msgid ""
+"Set the minimum word count for post content. Items that have less than this "
+"count will not be published. To disable this feature, leave this field blank."
+msgstr ""
+
+#: res/newsomatic-main.php:2796
+msgid "Minimum Content Word Count (Skip Post Otherwise):"
+msgstr ""
+
+#: res/newsomatic-main.php:2801
+msgid "Input the minimum word count for the content"
+msgstr ""
+
+#: res/newsomatic-main.php:2813
+msgid ""
+"Set the maximum word count for post content. Items that have more than this "
+"count will not be published. To disable this feature, leave this field blank."
+msgstr ""
+
+#: res/newsomatic-main.php:2817
+msgid "Maximum Content Word Count (Skip Post Otherwise):"
+msgstr ""
+
+#: res/newsomatic-main.php:2822
+msgid "Input the maximum word count for the content"
+msgstr ""
+
+#: res/newsomatic-main.php:2834
+msgid ""
+"Do not include posts that's title or content contains at least one of these "
+"words. Separate words by comma. To disable this feature, leave this field "
+"blank."
+msgstr ""
+
+#: res/newsomatic-main.php:2838
+msgid "Banned Words List:"
+msgstr ""
+
+#: res/newsomatic-main.php:2841
+msgid "Do not generate posts that contain at least one of these words"
+msgstr ""
+
+#: res/newsomatic-main.php:2853
+msgid ""
+"Do not include posts that's title or content does not contain at least one "
+"of these words. Separate words by comma. To disable this feature, leave this "
+"field blank."
+msgstr ""
+
+#: res/newsomatic-main.php:2857
+msgid "Required Words List:"
+msgstr ""
+
+#: res/newsomatic-main.php:2860
+msgid "Do not generate posts unless they contain all of these words"
+msgstr ""
+
+#: res/newsomatic-main.php:2872
+msgid ""
+"Do you want to all words defined in the required words list? If you uncheck "
+"this, if only one word is found, the article will be published."
+msgstr ""
+
+#: res/newsomatic-main.php:2876
+msgid "Require All Words in the 'Required Words List':"
+msgstr ""
+
+#: res/newsomatic-main.php:2894
+msgid "Choose if you want to skip posts that do not have images."
+msgstr ""
+
+#: res/newsomatic-main.php:2898
+msgid "Skip Posts That Do Not Have Images:"
+msgstr ""
+
+#: res/newsomatic-main.php:2914
+msgid "Choose if you want to skip posts that are older than a selected date."
+msgstr ""
+
+#: res/newsomatic-main.php:2918
+msgid "Skip Posts Older Than a Selected Date:"
+msgstr ""
+
+#: res/newsomatic-main.php:2934
+msgid "Select the date prior which you want to skip posts."
+msgstr ""
+
+#: res/newsomatic-main.php:2938
+msgid "Select the Date for Old Posts:"
+msgstr ""
+
+#: res/newsomatic-main.php:2943
+msgid "Day:"
+msgstr ""
+
+#: res/newsomatic-main.php:3070
+msgid "Month:"
+msgstr ""
+
+#: res/newsomatic-main.php:3075
+msgid "January"
+msgstr ""
+
+#: res/newsomatic-main.php:3079
+msgid "February"
+msgstr ""
+
+#: res/newsomatic-main.php:3083
+msgid "March"
+msgstr ""
+
+#: res/newsomatic-main.php:3087
+msgid "April"
+msgstr ""
+
+#: res/newsomatic-main.php:3091
+msgid "May"
+msgstr ""
+
+#: res/newsomatic-main.php:3095
+msgid "June"
+msgstr ""
+
+#: res/newsomatic-main.php:3099
+msgid "July"
+msgstr ""
+
+#: res/newsomatic-main.php:3103
+msgid "August"
+msgstr ""
+
+#: res/newsomatic-main.php:3107
+msgid "September"
+msgstr ""
+
+#: res/newsomatic-main.php:3111
+msgid "October"
+msgstr ""
+
+#: res/newsomatic-main.php:3115
+msgid "November"
+msgstr ""
+
+#: res/newsomatic-main.php:3119
+msgid "December"
+msgstr ""
+
+#: res/newsomatic-main.php:3121
+msgid "Year:"
+msgstr ""
+
+#: res/newsomatic-main.php:3123
+msgid "year"
+msgstr ""
+
+#: res/newsomatic-main.php:3138
+msgid ""
+"Click this option if your want to set the featured image from the remote "
+"image location. This settings can save disk space, but beware that if the "
+"remote image gets deleted, your featured image will also be broken."
+msgstr ""
+
+#: res/newsomatic-main.php:3142
+msgid "Do Not Copy Featured Image Locally:"
+msgstr ""
+
+#: res/newsomatic-main.php:3158
+msgid ""
+"Click this option to enable integration with the 'Featured Image from URL' "
+"plugin - https://wordpress.org/plugins/featured-image-from-url/. To enable "
+"this option, you need to deactivate the 'Do Not Copy Featured Image Locally' "
+"checkbox from above."
+msgstr ""
+
+#: res/newsomatic-main.php:3162
+msgid "Enable 'Featured Image from URL' Integration:"
+msgstr ""
+
+#: res/newsomatic-main.php:3178
+msgid ""
+"Choose if you want to strip featured image from the generated post content."
+msgstr ""
+
+#: res/newsomatic-main.php:3182
+msgid "Strip Featured Image From Generated Post Content:"
+msgstr ""
+
+#: res/newsomatic-main.php:3198
+msgid ""
+"Resize the image that was assigned to be the featured image to the width "
+"specified in this text field (in pixels). If you want to disable this "
+"feature, leave this field blank."
+msgstr ""
+
+#: res/newsomatic-main.php:3202
+msgid "Featured Image Resize Width:"
+msgstr ""
+
+#: res/newsomatic-main.php:3207
+msgid "Please insert the desired width for featured images"
+msgstr ""
+
+#: res/newsomatic-main.php:3217
+msgid ""
+"Resize the image that was assigned to be the featured image to the height "
+"specified in this text field (in pixels). If you want to disable this "
+"feature, leave this field blank."
+msgstr ""
+
+#: res/newsomatic-main.php:3221
+msgid "Featured Image Resize Height:"
+msgstr ""
+
+#: res/newsomatic-main.php:3226
+msgid "Please insert the desired height for featured images"
+msgstr ""
+
+#: res/newsomatic-main.php:3237
+msgid ""
+"Click this option if your want to save images found in post content locally. "
+"Note that this option may be heavy on your hosting free space."
+msgstr ""
+
+#: res/newsomatic-main.php:3241
+msgid "Copy Images From Content Locally:"
+msgstr ""
+
+#: res/newsomatic-main.php:3252
+msgid "Royalty Free Featured Image Importing Options:"
+msgstr ""
+
+#: res/newsomatic-main.php:3259
+#, php-format
+msgid ""
+"Insert your MorgueFile App ID. Register <a href='%s' target='_blank'>here</"
+"a>. Learn how to get an API key <a href='%s' target='_blank'>here</a>. If "
+"you enter an API Key and an API Secret, you will enable search for images "
+"using the MorgueFile API."
+msgstr ""
+
+#: res/newsomatic-main.php:3263
+msgid "MorgueFile App ID:"
+msgstr ""
+
+#: res/newsomatic-main.php:3270
+msgid "Please insert your MorgueFile API key"
+msgstr ""
+
+#: res/newsomatic-main.php:3280
+#, php-format
+msgid ""
+"Insert your MorgueFile App Secret. Register <a href='%s' "
+"target='_blank'>here</a>. Learn how to get an API key <a href='%s' "
+"target='_blank'>here</a>. If you enter an API Key and an API Secret, you "
+"will enable search for images using the MorgueFile API."
+msgstr ""
+
+#: res/newsomatic-main.php:3284
+msgid "MorgueFile App Secret:"
+msgstr ""
+
+#: res/newsomatic-main.php:3291
+msgid "Please insert your MorgueFile API Secret"
+msgstr ""
+
+#: res/newsomatic-main.php:3305
+#, php-format
+msgid ""
+"Insert your Pexels App ID. Learn how to get an API key <a href='%s' "
+"target='_blank'>here</a>. If you enter an API Key and an API Secret, you "
+"will enable search for images using the Pexels API."
+msgstr ""
+
+#: res/newsomatic-main.php:3309
+msgid "Pexels App ID:"
+msgstr ""
+
+#: res/newsomatic-main.php:3316
+msgid "Please insert your Pexels API key"
+msgstr ""
+
+#: res/newsomatic-main.php:3330
+#, php-format
+msgid ""
+"Insert your Flickr App ID. Learn how to get an API key <a href='%s' "
+"target='_blank'>here</a>. If you enter an API Key and an API Secret, you "
+"will enable search for images using the Flickr API."
+msgstr ""
+
+#: res/newsomatic-main.php:3334
+msgid "Flickr App ID: "
+msgstr ""
+
+#: res/newsomatic-main.php:3337
+msgid "Please insert your Flickr APP ID"
+msgstr ""
+
+#: res/newsomatic-main.php:3345
+msgid "The license id for photos to be searched."
+msgstr ""
+
+#: res/newsomatic-main.php:3349
+msgid "Photo License: "
+msgstr ""
+
+#: res/newsomatic-main.php:3360
+msgid "Do Not Search By Photo Licenses"
+msgstr ""
+
+#: res/newsomatic-main.php:3367
+msgid "All Rights Reserved"
+msgstr ""
+
+#: res/newsomatic-main.php:3374
+msgid "Attribution-NonCommercial-ShareAlike License"
+msgstr ""
+
+#: res/newsomatic-main.php:3381
+msgid "Attribution-NonCommercial License"
+msgstr ""
+
+#: res/newsomatic-main.php:3388
+msgid "Attribution-NonCommercial-NoDerivs License"
+msgstr ""
+
+#: res/newsomatic-main.php:3395
+msgid "Attribution License"
+msgstr ""
+
+#: res/newsomatic-main.php:3402
+msgid "Attribution-ShareAlike License"
+msgstr ""
+
+#: res/newsomatic-main.php:3409
+msgid "Attribution-NoDerivs License"
+msgstr ""
+
+#: res/newsomatic-main.php:3416
+msgid "No known copyright restrictions"
+msgstr ""
+
+#: res/newsomatic-main.php:3423
+msgid "United States Government Work"
+msgstr ""
+
+#: res/newsomatic-main.php:3432
+msgid ""
+"The order in which to sort returned photos. Deafults to date-posted-desc "
+"(unless you are doing a radial geo query, in which case the default sorting "
+"is by ascending distance from the point specified)."
+msgstr ""
+
+#: res/newsomatic-main.php:3436
+msgid "Search Results Order: "
+msgstr ""
+
+#: res/newsomatic-main.php:3446
+msgid "Date Posted Descendant"
+msgstr ""
+
+#: res/newsomatic-main.php:3453
+msgid "Date Posted Ascendent"
+msgstr ""
+
+#: res/newsomatic-main.php:3460
+msgid "Date Taken Ascendent"
+msgstr ""
+
+#: res/newsomatic-main.php:3467
+msgid "Date Taken Descendant"
+msgstr ""
+
+#: res/newsomatic-main.php:3474
+msgid "Interestingness Descendant"
+msgstr ""
+
+#: res/newsomatic-main.php:3481
+msgid "Interestingness Ascendant"
+msgstr ""
+
+#: res/newsomatic-main.php:3488
+msgid "Relevance"
+msgstr ""
+
+#: res/newsomatic-main.php:3502
+#, php-format
+msgid ""
+"Insert your Pixabay App ID. Learn how to get one <a href='%s' "
+"target='_blank'>here</a>. If you enter an API Key here, you will enable "
+"search for images using the Pixabay API."
+msgstr ""
+
+#: res/newsomatic-main.php:3506
+msgid "Pixabay App ID:"
+msgstr ""
+
+#: res/newsomatic-main.php:3513
+msgid "Please insert your Pixabay API key"
+msgstr ""
+
+#: res/newsomatic-main.php:3523 res/newsomatic-main.php:3972
+msgid "Filter results by image type."
+msgstr ""
+
+#: res/newsomatic-main.php:3527
+msgid "Image Types To Search:"
+msgstr ""
+
+#: res/newsomatic-main.php:3540 res/newsomatic-main.php:3989
+msgid "Photo"
+msgstr ""
+
+#: res/newsomatic-main.php:3544 res/newsomatic-main.php:3994
+msgid "Illustration"
+msgstr ""
+
+#: res/newsomatic-main.php:3548 res/newsomatic-main.php:3999
+msgid "Vector"
+msgstr ""
+
+#: res/newsomatic-main.php:3558 res/newsomatic-main.php:4039
+msgid "Order results by a predefined rule."
+msgstr ""
+
+#: res/newsomatic-main.php:3562 res/newsomatic-main.php:4043
+msgid "Results Order: "
+msgstr ""
+
+#: res/newsomatic-main.php:3570 res/newsomatic-main.php:4056
+msgid "Popular"
+msgstr ""
+
+#: res/newsomatic-main.php:3584 res/newsomatic-main.php:4070
+msgid "Filter results by image category."
+msgstr ""
+
+#: res/newsomatic-main.php:3588 res/newsomatic-main.php:4074
+msgid "Image Category: "
+msgstr ""
+
+#: res/newsomatic-main.php:3601 res/newsomatic-main.php:4087
+msgid "Fashion"
+msgstr ""
+
+#: res/newsomatic-main.php:3606 res/newsomatic-main.php:4092
+msgid "Nature"
+msgstr ""
+
+#: res/newsomatic-main.php:3611 res/newsomatic-main.php:4097
+msgid "Backgrounds"
+msgstr ""
+
+#: res/newsomatic-main.php:3616 res/newsomatic-main.php:4102
+msgid "Science"
+msgstr ""
+
+#: res/newsomatic-main.php:3621 res/newsomatic-main.php:4107
+msgid "Education"
+msgstr ""
+
+#: res/newsomatic-main.php:3626 res/newsomatic-main.php:4112
+msgid "People"
+msgstr ""
+
+#: res/newsomatic-main.php:3631 res/newsomatic-main.php:4117
+msgid "Feelings"
+msgstr ""
+
+#: res/newsomatic-main.php:3636 res/newsomatic-main.php:4122
+msgid "Religion"
+msgstr ""
+
+#: res/newsomatic-main.php:3641 res/newsomatic-main.php:4127
+msgid "Health"
+msgstr ""
+
+#: res/newsomatic-main.php:3646 res/newsomatic-main.php:4132
+msgid "Places"
+msgstr ""
+
+#: res/newsomatic-main.php:3651 res/newsomatic-main.php:4137
+msgid "Animals"
+msgstr ""
+
+#: res/newsomatic-main.php:3656 res/newsomatic-main.php:4142
+msgid "Industry"
+msgstr ""
+
+#: res/newsomatic-main.php:3661 res/newsomatic-main.php:4147
+msgid "Food"
+msgstr ""
+
+#: res/newsomatic-main.php:3666 res/newsomatic-main.php:4152
+msgid "Computer"
+msgstr ""
+
+#: res/newsomatic-main.php:3671 res/newsomatic-main.php:4157
+msgid "Sports"
+msgstr ""
+
+#: res/newsomatic-main.php:3676 res/newsomatic-main.php:4162
+msgid "Transportation"
+msgstr ""
+
+#: res/newsomatic-main.php:3681 res/newsomatic-main.php:4167
+msgid "Travel"
+msgstr ""
+
+#: res/newsomatic-main.php:3686 res/newsomatic-main.php:4172
+msgid "Buildings"
+msgstr ""
+
+#: res/newsomatic-main.php:3691 res/newsomatic-main.php:4177
+msgid "Business"
+msgstr ""
+
+#: res/newsomatic-main.php:3696 res/newsomatic-main.php:4182
+msgid "Music"
+msgstr ""
+
+#: res/newsomatic-main.php:3705 res/newsomatic-main.php:4191
+msgid "Minimum image width."
+msgstr ""
+
+#: res/newsomatic-main.php:3709 res/newsomatic-main.php:4195
+msgid "Image Min Width: "
+msgstr ""
+
+#: res/newsomatic-main.php:3712 res/newsomatic-main.php:4198
+msgid "Please insert image min width"
+msgstr ""
+
+#: res/newsomatic-main.php:3720
+msgid "Maximum image width."
+msgstr ""
+
+#: res/newsomatic-main.php:3724
+msgid "Image Max Width: "
+msgstr ""
+
+#: res/newsomatic-main.php:3727
+msgid "Please insert image max width"
+msgstr ""
+
+#: res/newsomatic-main.php:3735
+msgid ""
+"A flag indicating that only images suitable for all ages should be returned."
+msgstr ""
+
+#: res/newsomatic-main.php:3739
+msgid "Safe Search: "
+msgstr ""
+
+#: res/newsomatic-main.php:3754
+msgid "Select images that have received an Editor's Choice award."
+msgstr ""
+
+#: res/newsomatic-main.php:3758
+msgid "Editor's Choice: "
+msgstr ""
+
+#: res/newsomatic-main.php:3773
+msgid "Specify default language for regional content."
+msgstr ""
+
+#: res/newsomatic-main.php:3777
+msgid "Filter Language: "
+msgstr ""
+
+#: res/newsomatic-main.php:3840
+msgid "Norvegian"
+msgstr ""
+
+#: res/newsomatic-main.php:3865
+msgid "Finish"
+msgstr ""
+
+#: res/newsomatic-main.php:3885
+msgid "Thai"
+msgstr ""
+
+#: res/newsomatic-main.php:3905
+msgid "Japanese"
+msgstr ""
+
+#: res/newsomatic-main.php:3929
+msgid ""
+"Select if you want to enable usage of the Unsplash API for getting images."
+msgstr ""
+
+#: res/newsomatic-main.php:3933
+msgid "Enable Unsplash API Usage: "
+msgstr ""
+
+#: res/newsomatic-main.php:3953
+msgid ""
+"Select if you want to enable direct scraping of Pixabay website. This will "
+"generate different results from the API."
+msgstr ""
+
+#: res/newsomatic-main.php:3957
+msgid "Enable Pixabay Direct Website Scraping: "
+msgstr ""
+
+#: res/newsomatic-main.php:3976
+msgid "Image Types To Search: "
+msgstr ""
+
+#: res/newsomatic-main.php:4008
+msgid "Filter results by image orientation."
+msgstr ""
+
+#: res/newsomatic-main.php:4012
+msgid "Image Orientation: "
+msgstr ""
+
+#: res/newsomatic-main.php:4025
+msgid "Horizontal"
+msgstr ""
+
+#: res/newsomatic-main.php:4030
+msgid "Vertical"
+msgstr ""
+
+#: res/newsomatic-main.php:4206
+msgid "Maximum image height."
+msgstr ""
+
+#: res/newsomatic-main.php:4210
+msgid "Image Min Height: "
+msgstr ""
+
+#: res/newsomatic-main.php:4213
+msgid "Please insert image min height"
+msgstr ""
+
+#: res/newsomatic-main.php:4226
+#, php-format
+msgid ""
+"Please set a the image attribution shortcode value. You can use this value, "
+"using the %%image_attribution%% shortcode, in 'Prepend Content With' and "
+"'Append Content With' settings fields. You can use the following shortcodes, "
+"in this settings field: %%image_source_name%%, %%image_source_website%%, "
+"%%image_source_url%%. These will be updated automatically for the respective "
+"image source, from where the imported image is from. This will replace the "
+"%%royalty_free_image_attribution%% shortcode, in 'Generated Post Content' "
+"settings field."
+msgstr ""
+
+#: res/newsomatic-main.php:4230
+#, php-format
+msgid ""
+"Royalty Free Image Attribution Text (%%royalty_free_image_attribution%%): "
+msgstr ""
+
+#: res/newsomatic-main.php:4233
+msgid "Please insert image attribution text pattern"
+msgstr ""
+
+#: res/newsomatic-main.php:4241
+msgid "Do you want to enable broad search for royalty free images?"
+msgstr ""
+
+#: res/newsomatic-main.php:4245
+msgid "Enable broad image search: "
+msgstr ""
+
+#: res/newsomatic-main.php:4260
+msgid ""
+"Do you want to not use article's original image if no royalty free image "
+"found for the post?"
+msgstr ""
+
+#: res/newsomatic-main.php:4264
+msgid "Do Not Use Original Image If No Free Image Found: "
+msgstr ""
+
+#: res/newsomatic-main.php:4284
+msgid "PhantomJS Settings:"
+msgstr ""
+
+#: res/newsomatic-main.php:4293
+#, php-format
+msgid ""
+"Set the path on your local server of the phantomjs executable. If you leave "
+"this field blank, the default 'phantomjs' call will be used. <a href='%s' "
+"target='_blank'>How to install PhantomJs?</a>"
+msgstr ""
+
+#: res/newsomatic-main.php:4297
+msgid "PhantomJS Path On Server:"
+msgstr ""
+
+#: res/newsomatic-main.php:4308
+msgid ""
+"INFO: PhantomJS cannot run - shell exec is not enabled on your server. "
+"Please enable it and retry using this feature of the plugin."
+msgstr ""
+
+#: res/newsomatic-main.php:4312
+msgid ""
+"INFO: PhantomJS cannot run - shell exec is not allowed to run on your server "
+"(in disable_functions list in php.ini). Please enable it and retry using "
+"this feature of the plugin."
+msgstr ""
+
+#: res/newsomatic-main.php:4324
+msgid "Path to phantomjs"
+msgstr ""
+
+#: res/newsomatic-main.php:4334
+msgid ""
+"Set the timeout (in milliseconds) for every phantomjs running. I recommend "
+"that you leave this field at it's default value (15000). If you leave this "
+"field blank, the default value will be used."
+msgstr ""
+
+#: res/newsomatic-main.php:4338
+msgid "Timeout for PhantomJs Execution:"
+msgstr ""
+
+#: res/newsomatic-main.php:4343
+msgid "Input phantomjs timeout in milliseconds"
+msgstr ""
+
+#: res/newsomatic-main.php:4357
+msgid "Random Sentence Generator Settings:"
+msgstr ""
+
+#: res/newsomatic-main.php:4366 res/newsomatic-main.php:4385
+#, php-format
+msgid ""
+"Insert some sentences from which you want to get one at random. You can also "
+"use variables defined below. %something ==> is a variable. Each sentence "
+"must be separated by a new line."
+msgstr ""
+
+#: res/newsomatic-main.php:4370
+#, php-format
+msgid "First List of Possible Sentences (%%random_sentence%%):"
+msgstr ""
+
+#: res/newsomatic-main.php:4373
+msgid "Please insert the first list of sentences"
+msgstr ""
+
+#: res/newsomatic-main.php:4389
+#, php-format
+msgid "Second List of Possible Sentences (%%random_sentence2%%):"
+msgstr ""
+
+#: res/newsomatic-main.php:4392
+msgid "Please insert the second list of sentences"
+msgstr ""
+
+#: res/newsomatic-main.php:4404
+msgid ""
+"Insert some variables you wish to be exchanged for different instances of "
+"one sentence. Please format this list as follows:<br/>\n"
+"                           Variablename => Variables (seperated by "
+"semicolon)<br/>Example:<br/>adjective => clever;interesting;smart;huge;"
+"astonishing;unbelievable;nice;adorable;beautiful;elegant;fancy;glamorous;"
+"magnificent;helpful;awesome<br/>"
+msgstr ""
+
+#: res/newsomatic-main.php:4409
+msgid "List of Possible Variables:"
+msgstr ""
+
+#: res/newsomatic-main.php:4412
+msgid "Please insert the list of variables"
+msgstr ""
+
+#: res/newsomatic-main.php:4427
+msgid "Custom HTML Code/ Ad Code:"
+msgstr ""
+
+#: res/newsomatic-main.php:4436
+#, php-format
+msgid ""
+"Insert a custom HTML code that will replace the %%custom_html%% variable. "
+"This can be anything, even an Ad code."
+msgstr ""
+
+#: res/newsomatic-main.php:4440
+msgid "Custom HTML Code #1:"
+msgstr ""
+
+#: res/newsomatic-main.php:4443
+msgid "Custom HTML #1"
+msgstr ""
+
+#: res/newsomatic-main.php:4455
+#, php-format
+msgid ""
+"Insert a custom HTML code that will replace the %%custom_html2%% variable. "
+"This can be anything, even an Ad code."
+msgstr ""
+
+#: res/newsomatic-main.php:4459
+msgid "Custom HTML Code #2:"
+msgstr ""
+
+#: res/newsomatic-main.php:4462
+msgid "Custom HTML #2"
+msgstr ""
+
+#: res/newsomatic-main.php:4470
+msgid "Affiliate Keyword Replacer Tool Settings:"
+msgstr ""
+
+#: res/newsomatic-main.php:4480
+msgid "This is the ID of the rule."
+msgstr ""
+
+#: res/newsomatic-main.php:4496
+msgid "Search Keyword"
+msgstr ""
+
+#: res/newsomatic-main.php:4500
+msgid "This keyword will be replaced with a link you define."
+msgstr ""
+
+#: res/newsomatic-main.php:4506
+msgid "Replacement Keyword"
+msgstr ""
+
+#: res/newsomatic-main.php:4510
+msgid ""
+"This keyword will replace the search keyword you define. Leave this field "
+"blank if you only want to add an URL to the specified keyword."
+msgstr ""
+
+#: res/newsomatic-main.php:4516
+msgid "Link to Add"
+msgstr ""
+
+#: res/newsomatic-main.php:4520
+msgid ""
+"Define the link you want to appear the defined keyword. Leave this field "
+"blank if you only want to replace the specified keyword without linking from "
+"it."
+msgstr ""
+
+#: res/newsomatic-main.php:4526
+msgid "Target Content"
+msgstr ""
+
+#: res/newsomatic-main.php:4530
+msgid ""
+"Select if you want to make this rule target post title, content or both."
+msgstr ""
+
+#: res/newsomatic-main.php:4584
+msgid "Please insert the keyword to be replaced"
+msgstr ""
+
+#: res/newsomatic-main.php:4585
+msgid "Please insert the keyword to replace the search keyword"
+msgstr ""
+
+#: res/newsomatic-main.php:4586
+msgid "Please insert the link to be added to the keyword"
+msgstr ""
+
+#: res/newsomatic-main.php:4589 res/newsomatic-main.php:4663
+msgid "Content"
+msgstr ""
+
+#: res/newsomatic-main.php:4591 res/newsomatic-main.php:4673
+msgid "Content and Title"
+msgstr ""
+
+#: res/newsomatic-main.php:4599
+msgid ""
+"Available shortcodes (the plugin also provides Gutenberg blocks for these "
+"shortcodes):"
+msgstr ""
+
+#: res/newsomatic-main.php:4599
+msgid ""
+"to display an automatically updating aggregated news list in your pages, "
+"using different stylings"
+msgstr ""
+
+#: res/newsomatic-main.php:4599
+msgid "to include a list that contains only posts imported by this plugin, and"
+msgstr ""
+
+#: res/newsomatic-main.php:4599
+msgid "to include a WordPress like post listing. Usage:"
+msgstr ""
+
+#: res/newsomatic-main.php:4601
+msgid "Example 2:"
+msgstr ""
+
+#: res/newsomatic-main.php:4602
+msgid "Example 3:"
+msgstr ""
+
+#: res/newsomatic-main.php:4647
+msgid "Input the keyword to be replaced. This field is required"
+msgstr ""
+
+#: res/newsomatic-main.php:4648
+msgid "Input the replacement word"
+msgstr ""
+
+#: res/newsomatic-main.php:4649
+msgid "Input the URL to be added"
+msgstr ""
+
+#: res/newsomatic-offer.php:11
+msgid "Our Recommendations"
+msgstr ""
+
+#: res/newsomatic-offer.php:15
+msgid ""
+"Some general recommendations, to help boost the ROI of this plugin and your "
+"website."
+msgstr ""
+
+#: res/newsomatic-offer.php:24
+msgid "Import premium unique content for more organic traffic:"
+msgstr ""
+
+#: res/newsomatic-offer.php:25
+msgid ""
+"To import good quality unique content, we recommend that you use a premium "
+"text spinning service with the plugin (can be configured from 'Main "
+"Settings' page)"
+msgstr ""
+
+#: res/newsomatic-offer.php:25 res/newsomatic-offer.php:44
+msgid "tutorial video"
+msgstr ""
+
+#: res/newsomatic-offer.php:26
+msgid "Supported premium spinners:"
+msgstr ""
+
+#: res/newsomatic-offer.php:30 res/newsomatic-offer.php:34
+#: res/newsomatic-offer.php:38
+msgid "Sign up now"
+msgstr ""
+
+#: res/newsomatic-offer.php:43
+msgid "Earn a side income from your blog:"
+msgstr ""
+
+#: res/newsomatic-offer.php:44
+msgid "To earn a side income using our plugins, you can try using"
+msgstr ""
+
+#: res/newsomatic-offer.php:44
+msgid "Shorte.st link shortener"
+msgstr ""
+
+#: res/newsomatic-offer.php:44
+msgid "It can be configured from plugin's 'Main Settings'"
+msgstr ""
+
+#: res/newsomatic-offer.php:47
+msgid "Create a multilingual blog:"
+msgstr ""
+
+#: res/newsomatic-offer.php:48
+msgid "To create a multilingual blog, we recommend that you use"
+msgstr ""
+
+#: res/newsomatic-offer.php:48
+msgid ""
+"If you just wish to import content in a language, and translate it to "
+"another language automatically, our plugins also support Google Translate to "
+"achieve this."
+msgstr ""
+
+#: res/newsomatic-offer.php:51
+msgid "Like our plugin? Want more?"
+msgstr ""
+
+#: res/newsomatic-offer.php:52
+msgid "Check our"
+msgstr ""
+
+#: res/newsomatic-offer.php:52
+msgid "plugin portfolio from CodeCanyon"
+msgstr ""
+
+#: res/newsomatic-offer.php:52
+msgid ""
+"We release periodically new plugins that complement our existing ones, so "
+"this list of plugins is worth following. We also have a private plugin "
+"marketplace, check it"
+msgstr ""
+
+#: res/newsomatic-offer.php:52
+msgid "here"
+msgstr ""
+
+#: res/newsomatic-offer.php:55
+msgid "All our plugins, at a Mega price:"
+msgstr ""
+
+#: res/newsomatic-offer.php:56
+msgid "If you enjoy our work and want to get more of it, check our"
+msgstr ""
+
+#: res/newsomatic-offer.php:56
+#, php-format
+msgid ""
+"which is possibly the largest plugin bundle on CodeCanyon. It includes all "
+"our plugins (and also all our future plugins), at a 95% discount - so it is "
+"really a great deal."
+msgstr ""
+
+#: res/newsomatic-offer.php:59
+msgid "Learn more about WordPress (beginners to advanced):"
+msgstr ""
+
+#: res/newsomatic-offer.php:60
+msgid ""
+"To learn more about WordPress (or maybe WordPress plugin development), check"
+msgstr ""
+
+#: res/newsomatic-offer.php:60
+msgid "our online courses on"
+msgstr ""
+
+#: res/newsomatic-offer.php:60
+msgid ""
+"They provide great value for starters with WordPress, but also for WordPress "
+"junior developers. You can also become our"
+msgstr ""
+
+#: res/newsomatic-offer.php:60
+msgid "affiliate on Teachable"
+msgstr ""
+
+#: res/newsomatic-offer.php:60
+msgid "to earn income from course sales you generate."
+msgstr ""
+
+#: res/newsomatic-offer.php:63
+msgid ""
+"Learn more about how to create your first internet business (or even earn "
+"with it):"
+msgstr ""
+
+#: res/newsomatic-offer.php:64
+msgid ""
+"To learn more about how to start your own internet business from scratch, "
+"check"
+msgstr ""
+
+#: res/newsomatic-offer.php:64
+msgid "our e-book on this subject"
+msgstr ""
+
+#: res/newsomatic-offer.php:64
+msgid "You can also become our"
+msgstr ""
+
+#: res/newsomatic-offer.php:64
+msgid "affiliate on Clickbank"
+msgstr ""
+
+#: res/newsomatic-offer.php:64
+msgid "to earn income from e-book sales you generate."
+msgstr ""
+
+#: res/newsomatic-offer.php:67
+msgid "If you are looking for a cool theme:"
+msgstr ""
+
+#: res/newsomatic-offer.php:68
+msgid ""
+"If you are looking for a cool new theme that best fits this plugin, we "
+"recommend"
+msgstr ""
+
+#: res/newsomatic-offer.php:68
+msgid "Divi theme"
+msgstr ""
+
+#: res/newsomatic-offer.php:68
+msgid "by"
+msgstr ""
+
+#: res/newsomatic-offer.php:71
+msgid "Earn more by becoming our affiliate:"
+msgstr ""
+
+#: res/newsomatic-offer.php:72
+msgid ""
+"You can also become our affiliate (for CodeCanyon items and also for private "
+"marketplace items), to earn from the sales you generate for our plugins"
+msgstr ""
+
+#: res/newsomatic-offer.php:72
+msgid "more info here"
+msgstr ""
+
+#: res/newsomatic-offer.php:75
+msgid "Check the video tutorials for our plugins:"
+msgstr ""
+
+#: res/newsomatic-offer.php:76
+msgid "For video tutorials, subscribe to our"
+msgstr ""
+
+#: res/newsomatic-offer.php:76
+msgid "YouTube channel"
+msgstr ""
+
+#: res/newsomatic-offer.php:76
+msgid "we post periodically new video tutorials over there also."
+msgstr ""
+
+#: res/newsomatic-offer.php:79
+msgid "Check our blog and get a free e-book:"
+msgstr ""
+
+#: res/newsomatic-offer.php:80
+msgid "For more updates, tips and tricks follow our"
+msgstr ""
+
+#: res/newsomatic-offer.php:80
+msgid "blog"
+msgstr ""
+
+#: res/newsomatic-offer.php:80
+msgid ""
+"subscribe to our newsletter from our blog, and as a bonus, you will get the "
+"'YouTube Caption Scraper' plugin, for free!"
+msgstr ""
+
+#: res/newsomatic-offer.php:83
+msgid "Our social networks (for more tips and news):"
+msgstr ""
+
+#: res/newsomatic-offer.php:84
+msgid "Follow us for even more:"
+msgstr ""
+
+#: res/newsomatic-rules-list.php:85
+msgid ""
+"Select the source site of the article. If you select 'Any' for this field, "
+"you must set at least one of the following advanced fields: 'Search Query "
+"String', 'Generated Post Country' or 'Generated Post Language', otherwise, "
+"importing will not work."
+msgstr ""
+
+#: res/newsomatic-rules-list.php:194 res/newsomatic-rules-list.php:2318
+msgid "Category - Business"
+msgstr ""
+
+#: res/newsomatic-rules-list.php:195 res/newsomatic-rules-list.php:2324
+msgid "Category - Entertainment"
+msgstr ""
+
+#: res/newsomatic-rules-list.php:196 res/newsomatic-rules-list.php:2330
+msgid "Category - General"
+msgstr ""
+
+#: res/newsomatic-rules-list.php:197 res/newsomatic-rules-list.php:2336
+msgid "Category - Health and Medical"
+msgstr ""
+
+#: res/newsomatic-rules-list.php:198 res/newsomatic-rules-list.php:2342
+msgid "Category - Science and Nature"
+msgstr ""
+
+#: res/newsomatic-rules-list.php:199 res/newsomatic-rules-list.php:2348
+msgid "Category - Sport"
+msgstr ""
+
+#: res/newsomatic-rules-list.php:200 res/newsomatic-rules-list.php:2354
+msgid "Category - Technology"
+msgstr ""
+
+#: res/newsomatic-rules-list.php:236
+msgid ""
+"Do you want to filter results based on a query string? Please note that only "
+"keywords are supported here (no phrase search). If you wish to use phrase "
+"search, please go to the 'Custom News to Posts' plugin menu and configure a "
+"rule there."
+msgstr ""
+
+#: res/newsomatic-rules-list.php:243
+msgid "Please insert a query string"
+msgstr ""
+
+#: res/newsomatic-rules-list.php:252 res/newsomatic-rules-list.php:2399
+msgid ""
+"Select if you wish to filter the country of the generated posts. Will work "
+"only if you import post from news categories."
+msgstr ""
+
+#: res/newsomatic-rules-list.php:256
+msgid "Generated Post Country:"
+msgstr ""
+
+#: res/newsomatic-rules-list.php:410 res/newsomatic-rules-list.php:3043
+msgid ""
+"Select if you wish to filter the language of the generated posts. Will work "
+"only if you import post from Any or from categories (applicable only for "
+"NewsomaticAPI)"
+msgstr ""
+
+#: res/newsomatic-rules-list.php:516
+#, php-format
+msgid ""
+"Set the title of the generated posts for user rules. You can use the "
+"following shortcodes: %%random_sentence%%, %%random_sentence2%%, %%item_date"
+"%%, %%item_media%%, %%author%%, %%item_title%%, %%item_description%%, "
+"%%item_content%%, %%item_original_content%%, %%item_cat%%, %%item_tags%%, "
+"%%keyword_search%%, %%item_source%%, %%item_source_id%%"
+msgstr ""
+
+#: res/newsomatic-rules-list.php:533
+#, php-format
+msgid ""
+"Set the content of the generated posts for user rules. You can use the "
+"following shortcodes: %%item_read_more_button%%, %%item_media%%, "
+"%%custom_html%%, %%custom_html2%%, %%random_sentence%%, "
+"%%random_sentence2%%, %%item_date%%, %%item_media%%, %%item_title%%, "
+"%%item_description%%, %%item_content%%, %%item_content_plain_text%%, "
+"%%royalty_free_image_attribution%%, %%item_url%%, %%item_cat%%, %%item_tags"
+"%%, %%keyword_search%%, %%item_show_image%%, %%item_image_URL%%, %%author%%, "
+"%%author_link%%, %%item_source%%, %%item_source_id%%"
+msgstr ""
+
+#: res/newsomatic-rules-list.php:843
+#, php-format
+msgid ""
+"Set the custom fields that will be set for generated posts. The syntax for "
+"this field is the following: custom_field_name1 => custom_field_value1, "
+"custom_field_name2 => custom_field_value2, ... . In custom_field_valueX, you "
+"can use shortcodes, same like in post content. You can also assign the data "
+"to array custom fields, using this format: array_field[index_name1] => "
+"custom_field_value1, array_field[index_name2] => custom_field_value2. "
+"Example (without quotes): 'title_custom_field => %%item_title%%'. You can "
+"use the following shortcodes: %%item_read_more_button%%, %%item_media%%, "
+"%%custom_html%%, %%custom_html2%%, %%random_sentence%%, "
+"%%random_sentence2%%, %%item_title%%, %%item_description%%, %%item_content"
+"%%, %%item_content_plain_text%%, %%royalty_free_image_attribution%%, "
+"%%item_url%%, %%item_cat%%, %%item_tags%%, %%keyword_search%%, "
+"%%item_show_image%%, %%item_image_URL%%, %%author%%, %%author_link%%, "
+"%%item_source%%, %%item_source_id%%"
+msgstr ""
+
+#: res/newsomatic-rules-list.php:860
+#, php-format
+msgid ""
+"Set the custom taxonomies that will be set for generated posts. The syntax "
+"for this field is the following: custom_taxonomy_name1 => "
+"custom_taxonomy_value1A, custom_taxonomy_value1B; custom_taxonomy_name2 => "
+"custom_taxonomy_value2A, custom_taxonomy_value2B; ... . In "
+"custom_taxonomy_valueX, you can use shortcodes. Example (without quotes): "
+"'cats_taxonomy_field => %%item_title%%; tags_taxonomy_field => manualtax2, "
+"%%item_title%%'. You can use the following shortcodes: "
+"%%item_read_more_button%%, %%item_media%%, %%custom_html%%, "
+"%%custom_html2%%, %%random_sentence%%, %%random_sentence2%%, %%item_title%%, "
+"%%item_description%%, %%item_content%%, %%item_content_plain_text%%, "
+"%%royalty_free_image_attribution%%, %%item_url%%, %%item_cat%%, %%item_tags"
+"%%, %%keyword_search%%, %%item_show_image%%, %%item_image_URL%%, %%author%%, "
+"%%author_link%%, %%item_source%%, %%item_source_id%%"
+msgstr ""
+
+#: res/newsomatic-rules-list.php:965
+#, php-format
+msgid ""
+"Input the search query for full content searching. This can be the ID or "
+"class name you want to search, the <a href='%s' target='_blank'>regex "
+"expression</a> you want to apply for or the XPath Expression you want to "
+"query for. <a href='%s' target='_blank'>More info/tutorial</a>."
+msgstr ""
+
+#: res/newsomatic-rules-list.php:969 res/newsomatic-rules-list.php:3798
+msgid "HTML Search Query String (Optional)"
+msgstr ""
+
+#: res/newsomatic-rules-list.php:984
+msgid ""
+"Input the correct HTML attribute where the image src is found for lazy "
+"loaded images that are scraped from the full content. You can also add a "
+"comma separated list of multiple lazy loading tags. The attribute containing "
+"the actual image URL ex: \"data-src\",\"data-original\""
+msgstr ""
+
+#: res/newsomatic-rules-list.php:1498
+msgid ""
+"Input a list of keywords that should be ranked for SEO, for keywords "
+"generated by this rule. They will be added 1) In the post title (create a "
+"specific rule) 2) In the META description for the post 3) In the first "
+"sentence of the first paragraph 4) In subheading with an H1 and H2 tag  5) "
+"In the Title tag and the ALT tag of the image file name of the main image. "
+"To disable this feature, leave this field blank."
+msgstr ""
+
+#: res/newsomatic-rules-list.php:2387
+msgid ""
+"Do you want to filter results based on a query string? Please note that only "
+"keywords are supported here (no phrase search). If you wish to use phrase "
+"search, please go to the \\'Custom News to Posts\\' plugin menu and "
+"configure a rule there."
+msgstr ""
+
+#: res/newsomatic-rules-list.php:2402
+msgid "Generated Post Country"
+msgstr ""
+
+#: res/newsomatic-rules-list.php:3264
+msgid ""
+"Set the title of the generated posts for user rules. You can use the "
+"following shortcodes:  %random_sentence%%, %%random_sentence2%%, %%item_title"
+"%%, %%author%%, %%item_description%%, %%item_content%%, %"
+"%item_original_content%%, %%item_cat%%, %%item_tags%%, %%keyword_search%%, %"
+"%item_source%%, %%item_source_id%%"
+msgstr ""
+
+#: res/newsomatic-rules-list.php:3276
+#, php-format
+msgid ""
+"Set the content of the generated posts for user rules. You can use the "
+"following shortcodes: %%item_read_more_button%%, %%item_media%%, "
+"%%custom_html%%, %%custom_html2%%, %%random_sentence%%, "
+"%%random_sentence2%%, %%item_date%%, %%item_media%%, %%item_title%%, "
+"%%item_description%%, %%item_content%%, %%item_original_content%%, "
+"%%item_content_plain_text%%, %%royalty_free_image_attribution%%, %%item_url"
+"%%, %%item_cat%%, %%item_tags%%, %%keyword_search%%, %%item_show_image%%, "
+"%%item_image_URL%%, %%author%%, %%author_link%%, %%item_source%%, "
+"%%item_source_id%%"
+msgstr ""
+
+#: res/newsomatic-rules-list.php:3362
+msgid "Import crawled author"
+msgstr ""
+
+#: res/newsomatic-rules-list.php:3624
+#, php-format
+msgid ""
+"Set the custom fields that will be set for generated posts. The syntax for "
+"this field is the following: custom_field_name1 => custom_field_value1, "
+"custom_field_name2 => custom_field_value2, ... . In custom_field_valueX, you "
+"can use shortcodes, same like in post content. You can also assign the data "
+"to array custom fields, using this format: array_field[index_name1] => "
+"custom_field_value1, array_field[index_name2] => custom_field_value2. "
+"Example (without quotes): \\'title_custom_field => %%item_title%%\\'. You "
+"can use the following shortcodes: %%item_read_more_button%%, %%item_media%%, "
+"%%custom_html%%, %%custom_html2%%, %%random_sentence%%, "
+"%%random_sentence2%%, %%item_title%%, %%item_description%%, %%item_content"
+"%%, %%item_content_plain_text%%, %%royalty_free_image_attribution%%, "
+"%%item_url%%, %%item_cat%%, %%item_tags%%, %%keyword_search%%, "
+"%%item_show_image%%, %%item_image_URL%%, %%author%%, %%author_link%%, "
+"%%item_source%%, %%item_source_id%%"
+msgstr ""
+
+#: res/newsomatic-rules-list.php:3636
+#, php-format
+msgid ""
+"Set the custom taxonomies that will be set for generated posts. The syntax "
+"for this field is the following: custom_taxonomy_name1 => "
+"custom_taxonomy_value1A, custom_taxonomy_value1B; custom_taxonomy_name2 => "
+"custom_taxonomy_value2A, custom_taxonomy_value2B; ... . In "
+"custom_taxonomy_valueX, you can use shortcodes. Example (without quotes): "
+"\\'cats_taxonomy_field => %%item_title%%; tags_taxonomy_field => manualtax2, "
+"%%item_title%%\\'. You can use the following shortcodes: "
+"%%item_read_more_button%%, %%item_media%%, %%custom_html%%, "
+"%%custom_html2%%, %%random_sentence%%, %%random_sentence2%%, %%item_title%%, "
+"%%item_description%%, %%item_content%%, %%item_content_plain_text%%, "
+"%%royalty_free_image_attribution%%, %%item_url%%, %%item_cat%%, %%item_tags"
+"%%, %%keyword_search%%, %%item_show_image%%, %%item_image_URL%%, %%author%%, "
+"%%author_link%%, %%item_source%%, %%item_source_id%%"
+msgstr ""
+
+#: res/newsomatic-rules-list.php:3746
+#, php-format
+msgid ""
+"Do you want to automatically delete generated posts after a period of time? "
+"Accepted values for this field are listed: <a href='%s' "
+"target='_blank'>here</a>, <a href='%s' target='_blank'>here</a>, <a "
+"href='%s' target='_blank'>here</a> and <a href='%s' target='_blank'>here</"
+"a>. To disable this feature, leave this field blank."
+msgstr ""
+
+#: res/other/plugin-dash.php:18
+msgid "Recommended Plugins For You"
+msgstr ""
+
+#: res/other/plugin-dash.php:47 res/other/plugin-dash.php:149
+msgid "Error getting content: "
+msgstr ""
+
+#: res/other/plugin-dash.php:54 res/other/plugin-dash.php:156
+msgid "Apparently, there are no updates to show!"
+msgstr ""
+
+#: res/other/plugin-dash.php:70 res/other/plugin-dash.php:172
+msgid "Learn more"
+msgstr ""
+
+#: res/other/plugin-dash.php:87
+msgid "FAQ"
+msgstr ""
+
+#: res/other/plugin-dash.php:87
+msgid "View More"
+msgstr ""
+
+#: res/other/plugin-dash.php:87 res/other/plugin-dash.php:189
+msgid "Don't show this widget"
+msgstr ""
+
+#: res/other/plugin-dash.php:119
+msgid "Latest News"
+msgstr ""
+
+#: res/other/plugin-dash.php:189
+msgid "+ More"
+msgstr ""
+
+#: res/other/plugin-dash.php:232
+msgid "Highlighted"
+msgstr ""
+
+#: res/other/plugin-dash.php:238
+msgid "A selection of plugins, highlighted for you."
+msgstr ""
+
+#: res/other/plugin-dash.php:425
+msgid "Download Now"
+msgstr ""
+
+#: res/other/plugin-dash.php:426
+msgid "More information about"
+msgstr ""
+
+#: res/other/plugin-dash.php:426
+msgid "More Details"
+msgstr ""
+
+#: res/other/plugin-dash.php:459 res/other/plugin-dash.php:480
+msgid "Click here to get the plugin"
+msgstr ""
+
+#: res/other/plugin-dash.php:460
+msgid "Download the plugin here"
+msgstr ""
+
+#: res/other/plugin-dash.php:479
+msgid ""
+"Just download the plugin from CodeCanyon and install it to your site in a "
+"few seconds."
+msgstr ""
+
+#: res/shortcode/front/newsomatic-front-view.php:13
+msgid "No Data Found"
+msgstr ""
+
+#: res/shortcode/front/newsomatic-front-view.php:185
+msgid "Breaking News"
+msgstr ""
+
+#: res/shortcode/front/newsomatic-front-view.php:226
+msgid "No Data Available"
+msgstr ""
+
+#: update-checker/Puc/v4/Plugin/UpdateChecker.php:363
+#: update-checker/Puc/v4p8/Plugin/Ui.php:128
+msgid "Check for updates"
+msgstr ""
+
+#: update-checker/Puc/v4/Plugin/UpdateChecker.php:409
+msgid "This plugin is up to date."
+msgstr ""
+
+#: update-checker/Puc/v4/Plugin/UpdateChecker.php:411
+msgid "A new version of this plugin is available."
+msgstr ""
+
+#: update-checker/Puc/v4/Plugin/UpdateChecker.php:413
+#: update-checker/Puc/v4p8/Plugin/Ui.php:223
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: update-checker/Puc/v4/Vcs/PluginUpdateChecker.php:83
+#: update-checker/Puc/v4p8/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr ""
+
+#: update-checker/Puc/v4p8/Plugin/Ui.php:54
+msgid "View details"
+msgstr ""
+
+#: update-checker/Puc/v4p8/Plugin/Ui.php:77
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: update-checker/Puc/v4p8/Plugin/Ui.php:213
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: update-checker/Puc/v4p8/Plugin/Ui.php:215
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: update-checker/Puc/v4p8/Plugin/Ui.php:217
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Newsomatic Automatic Post Generator"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "//1.envato.market/coderevolution"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin will generate content for you, even in your sleep using "
+"NewsomaticAPI"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "CodeRevolution"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "//coderevolution.ro"
+msgstr ""

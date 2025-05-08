@@ -1,0 +1,18 @@
+{
+    "name": "ssntpl/newsomatic",
+    "description": "This package is used for fetching news from different resources",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ssntpl\\Newsomatic\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Himanshu Gupta",
+            "email": "himanshu28102@gmail.com"
+        }
+    ],
+    "require": {}
+}
