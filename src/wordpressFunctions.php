@@ -192,13 +192,7 @@ function get_option( $option, $default_value = false ) {
 			$value = wp_cache_get( $option, 'options' );
 
 			if ( false === $value ) {
-                // $row = fetch_option($option);
-
-				$optionKey = $option;
-				if($option == 'newsomatic_Main_Settings'){
-					$optionKey = 'newsomatic_Main_Settings1';
-				}
-				$row = config('newsomatic.'.$optionKey) ?? null;
+				$row = config('newsomatic.'.$option) ?? null;
 				if($row != null){
 					$obj = new stdClass();
 					$obj->option_value = $row;

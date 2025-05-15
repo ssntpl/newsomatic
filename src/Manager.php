@@ -2,7 +2,7 @@
 
 namespace Ssntpl\Newsomatic;
 require_once 'wordpressFunctions.php';
-require 'wordpressEnvironment/plugin.php';
+require_once 'wordpressEnvironment/plugin.php';
 require_once 'newsomatic-news-post-generator/newsomatic-news-post-generator.php';
 
 class Manager
