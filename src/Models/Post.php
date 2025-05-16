@@ -1,8 +1,10 @@
 <?php
 
-namespace Ssntpl\Newsomatic;
+namespace Ssntpl\Newsomatic\Models;
+use Illuminate\Database\Eloquent\Model;
 use Ssntpl\Newsomatic\Manager;
-class Post
+
+class Post extends Model  
 {
 
     public function checkPost( $post_id = null) {

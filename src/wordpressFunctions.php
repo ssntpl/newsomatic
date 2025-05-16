@@ -249,6 +249,7 @@ function get_option( $option, $default_value = false ) {
 	 */
 
 	 if($option == 'newsomatic_Main_Settings'){
+		// This key is not serialized so using it directly
 		return config('newsomatic.'.$option);
 	 }
 	return apply_filters( "option_{$option}", maybe_unserialize( $value ), $option );

@@ -11,7 +11,7 @@ return [
         /*
          */
 
-        'post' => \Ssntpl\Newsomatic\Post::class,
+        'post' => \Ssntpl\Newsomatic\Models\Post::class,
 
     ],
     'google_key' => env('GOOGLE_KEY'),
