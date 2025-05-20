@@ -1,8 +1,8 @@
-<?php 
+<?php
+
+use Ssntpl\Newsomatic\Manager;
 
 $post_data = [];
-$myObject = new ParentClass;
-$insertPost = new InsertPost;
 
 define('ABSPATH', __DIR__);
 define('WP_PLUGIN_DIR', __DIR__);
@@ -15,22 +15,13 @@ if (!isset($_SERVER['SERVER_NAME'])) {
 }
 define( 'WP_ADMIN', false );
 define( 'MULTISITE', false );
-
 define( 'MINUTE_IN_SECONDS', 60 );
 define( 'HOUR_IN_SECONDS', 60 * MINUTE_IN_SECONDS );
 define( 'DAY_IN_SECONDS', 24 * HOUR_IN_SECONDS );
 define( 'WEEK_IN_SECONDS', 7 * DAY_IN_SECONDS );
 define( 'MONTH_IN_SECONDS', 30 * DAY_IN_SECONDS );
 define( 'YEAR_IN_SECONDS', 365 * DAY_IN_SECONDS );
-if(!defined('NEWSOMATIC_API_KEY')){
-	define('NEWSOMATIC_API_KEY', "");
-}
-if(!defined('GOOGLE_KEY')){
-	define('GOOGLE_KEY','');
-}
-
-require_once 'cache.php';
-require_once 'config.php';
+require_once 'wordpressEnvironment/cache.php';
 
 function wp_suspend_cache_addition( $suspend = null ) {
 	static $_suspend = false;
@@ -41,6 +32,7 @@ function wp_suspend_cache_addition( $suspend = null ) {
 
 	return $_suspend;
 }
+
 function wp_installing( $is_installing = null ) {
 	static $installing = null;
 
@@ -58,18 +50,21 @@ function wp_installing( $is_installing = null ) {
 
 	return (bool) $installing;
 }
+
 function request_filesystem_credentials( $url ){
 	return null;
 }
+
 function site_url(){
 	return "";
 }
+
 function wp_filesystem($creds){
 	return "";
 }
+
 function get_option( $option, $default_value = false ) {
 	global $wpdb;
-
 
 
 	if ( is_scalar( $option ) ) {
@@ -197,8 +192,12 @@ function get_option( $option, $default_value = false ) {
 			$value = wp_cache_get( $option, 'options' );
 
 			if ( false === $value ) {
-                $row = fetch_option($option);
-				// $row = $wpdb->get_row( $wpdb->prepare( "SELECT option_value FROM $wpdb->options WHERE option_name = %s LIMIT 1", $option ) );
+				$row = config('newsomatic.'.$option) ?? null;
+				if($row != null){
+					$obj = new stdClass();
+					$obj->option_value = $row;
+					$row = $obj;
+				}
 
 				// Has to be get_row() instead of get_var() because of funkiness with 0, false, null values.
 				if ( is_object( $row ) ) {
@@ -248,115 +247,13 @@ function get_option( $option, $default_value = false ) {
 	 *                       unserialized prior to being returned.
 	 * @param string $option Option name.
 	 */
-    if($option == 'newsomatic_Main_Settings'){
-        $array = array(
-            'newsomatic_enabled' => 'on',
-            'newsomatic_app_id' => NEWSOMATIC_API_KEY,
-            'textrazor_key' => '',
-            'bing_auth' => '',
-            'bing_region' => '',
-            'google_trans_auth' => '',
-            'deepl_auth' => '',
-            'headlessbrowserapi_key' => '',
-            'custom_ciphers' => '',
-            'secret_word' => '',
-            'enable_metabox' => 'on',
-            'enable_logging' => 'on',
-            'auto_clear_logs' => 'weekly',
-            'user_agent' => '',
-            'proxy_url' => '',
-            'proxy_auth' => '',
-            'rule_timeout' => '3600',
-            'request_delay' => '',
-            'email_address' => '',
-            'run_after' => '',
-            'run_before' => '',
-            'shortest_api' => '',
-            'apiKey' => '',
-            'date_format' => '',
-            'skip_no_class' => 'on',
-            'strip_by_id' => '',
-            'strip_by_class' => '',
-            'read_more' => '',
-            'translate' => 'disabled',
-            'second_translate' => 'disabled',
-            'translate_source' => 'disabled',
-            'spin_text' => 'disabled',
-            'exclude_words' => '',
-            'wordai_uniqueness' => '1',
-            'tldr_min' => '',
-            'tldr_max' => '',
-            'best_user' => 'wp_rtfazkoc',
-            'best_password' => '',
-            'min_word_title' => '',
-            'max_word_title' => '',
-            'min_word_content' => '',
-            'max_word_content' => '',
-            'banned_words' => '',
-            'required_words' => '',
-            'skip_day' => '01',
-            'skip_month' => '01',
-            'skip_year' => '',
-            'old_text' => '',
-            'resize_width' => '',
-            'resize_height' => '',
-            'pexels_api' => '',
-            'flickr_api' => '',
-            'flickr_license' => '-1',
-            'flickr_order' => 'date-posted-desc',
-            'pixabay_api' => '',
-            'imgtype' => 'all',
-            'img_order' => 'popular',
-            'img_cat' => 'all',
-            'img_width' => '',
-            'img_mwidth' => '',
-            'img_language' => 'any',
-            'scrapeimgtype' => 'all',
-            'scrapeimg_orientation' => 'all',
-            'scrapeimg_order' => 'any',
-            'scrapeimg_cat' => 'all',
-            'scrapeimg_width' => '',
-            'scrapeimg_height' => '',
-            'attr_text' => 'Photo Credit: <a href="%%image_source_url%%" target="_blank">%%image_source_name%%</a>',
-            'bimage' => 'on',
-            'phantom_path' => '',
-            'phantom_timeout' => '',
-			"sentence_list" => "This is one %adjective %noun %sentence_ending
-		This is another %adjective %noun %sentence_ending
-		I %love_it %nouns , because they are %adjective %sentence_ending
-		My %family says this plugin is %adjective %sentence_ending
-		These %nouns are %adjective %sentence_ending",
-			"sentence_list2" => "Meet this %adjective %noun %sentence_ending
-		This is the %adjective %noun ever %sentence_ending
-		I %love_it %nouns , because they are the %adjective %sentence_ending
-		My %family says this plugin is very %adjective %sentence_ending
-		These %nouns are quite %adjective %sentence_ending",
-			"variable_list" => "adjective_very => %adjective;very %adjective;
-		
-		adjective => clever;interesting;smart;huge;astonishing;unbelievable;nice;adorable;beautiful;elegant;fancy;glamorous;magnificent;helpful;awesome
-		
-		noun_with_adjective => %noun;%adjective %noun
-		
-		noun => plugin;WordPress plugin;item;ingredient;component;constituent;module;add-on;plug-in;addon;extension
-		
-		nouns => plugins;WordPress plugins;items;ingredients;components;constituents;modules;add-ons;plug-ins;addons;extensions
-		
-		love_it => love;adore;like;be mad for;be wild about;be nuts about;be crazy about
-		
-		family => %adjective %family_members;%family_members
-		
-		family_members => grandpa;brother;sister;mom;dad;grandma
-		
-		sentence_ending => .;!;!!",
-			"custom_html" => "",
-			"custom_html2" => "",
-          );
-          return $array;
-          
-    }
+
+	 if($option == 'newsomatic_Main_Settings'){
+		// This key is not serialized so using it directly
+		return config('newsomatic.'.$option);
+	 }
 	return apply_filters( "option_{$option}", maybe_unserialize( $value ), $option );
 }
-
 
 function wp_load_alloptions( $force_cache = false ) {
 	global $wpdb;
@@ -437,7 +334,6 @@ function wp_normalize_path( $path ) {
     return $path;
 }
 
-
 function is_admin() {
 	if ( isset( $GLOBALS['current_screen'] ) ) {
 		return $GLOBALS['current_screen']->in_admin();
@@ -447,7 +343,6 @@ function is_admin() {
 
 	return false;
 }
-
 
 function add_shortcode( $tag, $callback ) {
 	global $shortcode_tags;
@@ -490,8 +385,6 @@ function is_multisite() {
 	return false;
 }
 
-
-
 function maybe_unserialize($original) {
     if (is_serialized($original)) {
         return @unserialize($original);
@@ -522,7 +415,6 @@ function current_time( $type, $gmt = 0 ) {
 
 	return $datetime->format( $type );
 }
-
 
 function get_temp_dir() {
 	static $temp = '';
@@ -565,6 +457,7 @@ function wp_is_writable( $path ) {
 function trailingslashit( $value ) {
 	return untrailingslashit( $value ) . '/';
 }
+
 function untrailingslashit( $value ) {
 	return rtrim( $value, '/\\' );
 }
@@ -882,14 +775,8 @@ function wp_trim_words($text, $num_words = 55, $more = '...') {
     $trimmed = array_slice($words_array, 0, $num_words);
     return implode(' ', $trimmed) . $more;
 }
-class InsertPost {
-	public function insert_in_db($post_data = []){
-	}
-}
 
 function wp_insert_post( $postarr, $wp_error = false, $fire_after_hooks = true ){
-	global $post_data;
-
 	$defaults = array(
 		'post_author'           => 11,
 		'post_content'          => '',
@@ -913,14 +800,10 @@ function wp_insert_post( $postarr, $wp_error = false, $fire_after_hooks = true )
 	);
 	
 	$postarr = wp_parse_args( $postarr, $defaults );
-	$post_data[] = $postarr; 
-	global $insertPost;
-	if (!$insertPost) {
-		$insertPost = new InsertPost; // adjust the class name & namespace
-	}
-	$insertPost->insert_in_db($postarr);
-	// die("hi himanshu");
-	
+	Manager::$postData[] = $postarr; 
+	$posts  = config('newsomatic.models.post');
+    $post = new $posts;
+    $post->insertPost($postarr);
 	return (int) 111;
 }
 
@@ -932,26 +815,7 @@ function add_post_meta( $post_id, $meta_key, $meta_value, $unique = false ) {
 	return true;	
 }
 
-class ParentClass {
-    public function compare_post( $post_id = null) {
-		// global $tempFile;
-		// $posts_data = json_decode(file_get_contents($tempFile), true);
-		// die("in a a wordpress_function");
-		global $post_data;
-		if(isset($post_data)){
-			foreach($post_data as $data){
-				if($post_id == $data['newsomatic_post_id']){
-					return [1];
-					break;
-				}
-			}
-		}
-
-		return [];
-	}
-}
 function get_posts( $args = null ){
-
 	$defaults = array(
 		'numberposts'      => 5,
 		'category'         => 0,
@@ -966,12 +830,9 @@ function get_posts( $args = null ){
 	);
 	$parsed_args = wp_parse_args( $args, $defaults );
 	$post_id = $parsed_args['meta_query'][0]['value'];
-	global $myObject;
-	if (!$myObject) {
-		$myObject = new ParentClass; 
-	}
-	$res = $myObject->compare_post($post_id) ?? [];
-	
+	$posts  = config('newsomatic.models.post');
+    $post = new $posts;
+    $res = $post->checkPost($post_id) ?? [];
 	return $res;
 }
 
@@ -990,12 +851,7 @@ function wp_parse_args( $args, $defaults = array() ) {
 	return $parsed_args;
 }
 
-function write_post(){
+function createPost(){
 	newsomatic_cron();
 	return "Done";
-}
-
-function get_news_global_variable(){
-	global $post_data;
-	return $post_data;
 }

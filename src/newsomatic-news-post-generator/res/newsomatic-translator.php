@@ -47,7 +47,7 @@ class GoogleTranslator {
 				'client' => 'te_lib',
 				'format' => 'html',
 				'v' => '1.0',
-				'key' => GOOGLE_KEY,
+				'key' => config('newsomatic.google_key'),
 				'logld' => 'vTE_20230725',
 				'sl' => $fromLanguage,
 				'tl' => $toLanguage,
